@@ -1,0 +1,2 @@
+#exclude the given folders and files
+.DS_Store
