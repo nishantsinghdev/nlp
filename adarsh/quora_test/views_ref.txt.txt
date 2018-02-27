@@ -1,6 +1,0 @@
-Views :-
-======
-div -> class="AnswerFooter ContentFooter"
-             |
-             v
-span -> class="meta_num"
