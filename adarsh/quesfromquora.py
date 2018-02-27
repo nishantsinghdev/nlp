@@ -22,7 +22,7 @@ for i in res:
 
 
 
-#questions = soup.find(class_='Question')
+questions = soup.find(class_='Question')
 #Q = questions.find_all('span').get_text()
 
 #for question_text in Q:
