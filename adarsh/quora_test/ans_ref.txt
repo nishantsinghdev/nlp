@@ -1,8 +1,0 @@
-No. of Answers :-
-============
-div -> class="answer_count"
-
-Answers :-
-=======
-div -> class="ui_qtext_expanded"
-span -> class="ui_qtext_rendered_qtext"

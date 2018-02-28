@@ -1,0 +1,2472 @@
+Q$Q$Q
+Debt Collection: Can a creditor delete a report off a person's credit score as if it never existed?
+A$A$A
+The Fair Credit Reporting Act, enacted by Congress in 1971, was put into place because the banking system is dependent upon fair and accurate credit reporting and unfair credit reporting methods undermine the confidence of the public in that system. The three major credit reporting agencies, Experian, Trans Union and Equifax, suffered a major blow last week when a federal court in California ruled that equitable relief is allowed under the FCRA. In [Engelbrecht v. Experian], EDCV 12-1547 VAP, the defendant sought declaratory and injunctive relief against the three major CRAs for failing to correct inaccuracies on his credit report which had lingered on the report, in some cases, for over one year despite numerous requests to reinvestigate under the FCRA. The plaintiff sought to enjoin the CRAs from reporting the negative items. The CRAs moved to dismiss the complaint, contending that injunctions are not available to private plaintiffs under the FCRA. The court disagreed.
+
+Consumer credit reporting agencies, like Experian, Trans Union and Equifax, are charged by the FCRA with the exercise of due care in accurately and completely reporting credit information. Any item on a credit report which is incomplete or inaccurate after reinvestigation under the FCRA must be deleted. In light of [Engelbrecht], in the Central District of California, if a CRA does not delete incomplete or inaccurate information, plaintiffs can force the agency to with the injunction power vested in the courts. But most people do not have the financial wherewithal to mount a lawsuit against the giant conglomerates and are left to suffer the fate brought on by sloppy and negligent investigations.
+
+There is no precedent on the matter in the 9th U.S. Circuit Court of Appeals, which makes this a precedent setting decision. The 11th Circuit, in the case of Washington v. CSC Credit Services, Inc. has held that only government agencies are vested with the equitable power to request injunctive relief under the FCRA. But the Central District of California held that case may be in direct conflict with the U.S. Supreme Court’s decision in [Califano v. Yamaski], in which the court held that the equitable powers can be invoked unless Congress gives a “clear command” that they are excluded. This “clear command” does not appear anywhere in the FCRA, although federal courts are divided on the subject. While sections 1681n and 1681o of the FCRA provide for monetary relief under the Act, and section 1681p vests federal courts with the jurisdiction to enforce any liability under the Act, the FCRA does not address the availability of equitable relief to private litigants under the Act.  The Plaintiff in Engelbrecht argued that the FCRA’s silence should not be interpreted to exclude equitable relief.  The Central District Court agreed, noting that several courts have followed Washington, but others have called its reasoning into doubt, such as the 6th Circuit in Beaudry v. Telecheck Services, Inc., and the Central District’s decision of Andrews v. Trans Union Corp., Inc.  The Court ruled that the negative implications to be drawn from the FCRA’s silence regarding equitable relief in Sections 1681n and 1681o , the express grant of injunctive powers in Sections 1681s and 1681u(m), and express limitation to enumerated remedies in Section 1681u(l) scarcely qualify as a clear command from Congress, and that, in the absence of such a clear command, the Court will not restrict its jurisdiction or the plaintiff’s remedies.
+
+According to a recent Federal Trade Commission report, in 40 years of enforcement of the FCRA, the FTC, the agency responsible for enforcement of the Act, has brought only 87 cases against credit furnishers and credit reporting agencies. That is an average of only about two cases per year. Therefore, the private enforcement of the FCRA is the only hope that consumers have to realize their rights under it
+
+Congress passed the FCRA to ensure that "consumer reporting agencies exercise their grave responsibilities with fairness, impartiality and a respect for the consumer's right to privacy. However, in the 42 years since the passage of the FCRA, information technology has advanced faster than the reinvestigation procedures in the Act. As a result, not only is the FCRA inadequate, but the procedures that have been put in place by the credit reporting agencies to perform their responsibilities under it are also antiquated and woefully inadequate. Since the technology revolution and the explosion of Internet use, it has become easier to place negative information on a credit record, and almost impossible to have inaccurate information removed. At the same time, credit information has become even more critical to our everyday lives. .  
+
+The Dodd-Frank Act, which amended the FCRA, created yet another federal agency, the Consumer Financial Protection Bureau (CFPB) which has added a new complaint process for consumers suffering from errors in the credit reports, but the core of the problem seems to be the automated dispute system at the major CRAs, which disregards evidence of errors and breaks down the dispute into a two to three digit computer code and 100 character summary, which many litigants contend is not resulting in reasonable investigations.  Critics of the CFPB say that since the jurisdiction of the bureau includes banks, credit unions, securities firms, payday lenders, mortgage-servicing operations, foreclosure relief services, debt collectors and other financial companies, its focus is simply too large to handle consumer credit complaints effectively.
+
+Many employers will not allow a person into a high position with their company unless his or her credit record is clean. Most consumers don’t have the financial resources to bring a lawsuit of this nature and are left to suffer the fate of negligent and sloppy investigations. This decision makes credit bureaus take their responsibilities under the FCRA seriously.
+
+Kenneth Eade is an international business lawyer based in Los Angeles.
+A$A$A
+You cannot do what's called "Pay for Delete", and promising that is often illegal. If you pay your debt, your record will show Paid In Full (or Settled In Full in case you paid less than 100%), and some lenders disregard those records, especially for small amounts. But you can't make them disappear if they're accurate.
+A$A$A
+You can certainly try to make such a condition, but as a debtor already in arrears, you really have very little room to negotiate here, and it's highly unlikely that any creditor would choose to alter their report to the credit agencies based solely on your willingness to settle the debt.
+A$A$A
+This answer is not a substitute for professional legal advice....
+A$A$A
+Yes, in the case of inaccurate information. It happens, from time to time, that a credit reporting agency will put incorrect information on someone's report. In order to have it removed, the creditor can produce a document, usually a letter, that shows that the debt is incorrect.
+
+With that proof, the reporting agency can remove the item from the report, and it will be like it never happened.
+
+I hope that helps!
+
+--Connie
+
+ConsolidatedCredit.ca
+A$A$A
+Yes Absolutely! 
+
+In fact, you should make it a requirement, where you will only agree to a settlement, if the collection agency agrees to have the derogatory mark completely removed from your credit report.  There is no guarantee that they will agree to these terms, but it is worth a try.
+
+Did you know that if you pay a collection debt off, it could cause your credit score to go down?  This can happen. 
+
+Basically it shows recent activity on a collection account, when you pay off a collection account.  Unfortunately this "collection activity" is not considered positive activity."
+
+Therefore when you pay off or settle a collection account on your credit report, ensure to also require that the collection agency agree in writing, to have the mark completely removed from your report.
+
+When collection items are removed from your credit report, your credit score improves.
+
+As a consumer, you should download a summary of the Fair Credit Reporting Act for Free.  It is a pretty awesome summary tool that allows consumers to know their rights, when it comes to credit.  The Fair Credit Reporting Act includes over 80 pages of complicated legal terms.  This summary version allows you to actually understand your rights, by just reading a short summary of the Act.  Here you can read the summary -  What is the Fair Credit Reporting Act, FCRA?
+
+@Fair Credit Reporting Act
+A$A$A
+They can, and Ohad is incorrect, it is not illegal.
+
+If you are in the process of disputing the debt ("I do not believe this is the amount I owe"), and tell the creditor that you are going to formally dispute the debt via the credit agencies (and are willing to consider legal action if they do not follow the rules), they can, and will, delete the debt from their reports to the credit agencies.
+
+this is on the logic that the debt may not have been valid, but you and they reached an amicable settlement on the dispute.  That is perfectly valid, legitimate, and common.
+
+However, unless you are willing to dispute the debt, they aren't going to do it.
+A$A$A
+Creditors can do whatever they want with credit items.  As long as its accurate and verifiable.
+
+But they wont delete anything.  If you owe it, and are concerned about your credit rating, then pay it off so it updates to show its no longer owed.
+E$E$E
+
+Q$Q$Q
+What should I do as my w-2 was stolen?
+A$A$A
+A: I applaud you being proactive. I asked the Internal Revenue Service to weigh in. You should also file a police report, just to get that on the record, the IRS said. You could also file a report with the Federal Trade Commission.
+
+After you've filed the police report, the IRS said, you should file IRS Form 14039, which is an Identity Theft Affidavit. You can print the form and mail it or fax it, according to the instructions.
+
+You would check one of two boxes:
+
+1. Federal tax records affected and I am a victim of identity theft.
+
+OR
+
+2. Federal tax records not affected and I am a victim of identity theft, or an event has affected/compromised my personal information placing me at-risk to be a future victim of identity theft.
+
+You would fall into the second category -- your personal information has been compromised and places you at risk.
+
+After that, "certain tax-related identity theft victims will be placed into the Identity Protection PIN program and annually receive a new, six-digit IP PIN that must be entered on the tax return," the IRS said. "The IP PIN adds an extra layer of identity protection. Some taxpayers will be given the option of getting an IP PIN, using the IRS.gov/getanippintool."
+
+If, when it's time to file your tax return, your electronic return is rejected because a return has already been filed or whatever, then go ahead and file it by mail, the IRS said.
+
+For more information on the tax side, go to
+
+https://www.irs.gov/individuals/...
+
+I'd recommend a few other things:
+
+Watch out for suspicious emails or phone calls that try to trick you into disclosing personal information, based on already having some information about you that may have been disclosed as part of this incident. Whoever calls may know your name or address or all of your information.Consider that someone may call you posing as the IRS or even local law enforcement.Stores, banks and investigators will never contact you out of sky blue and ask for personal information such as account numbers, Social Security numbers, passwords, etc. Never. Ever. And they'll never contact you by email and ask you to change your password by clicking on an unknown link. Don't click on links or reply with any information. Never. Ever. If someone contacts you, call them back at a trusted phone number you look up independently.
+
+Consider you could see a broader attack on your identity. Contact your banks and investment accounts first, then credit cards and other types of financial accounts. Tell them your Social Security number and other personal information were compromised in the mail. Don't tell them the details. They don't care. Ask whether you can put additional verbal passwords on your accounts that don't involve any public record data such as your date of birth. We're talking about PINs or random words (like oak tree or paint brush). You want to make sure someone can't access your accounts for wire transfers or to change your contact information without your secret password.
+
+Monitor your primary bank accounts, credit cards, investments, etc., more carefully than ever. Every week is good. Every day is better. Remember the credit freeze doesn't prevent fraud with existing accounts, which constitutes 88 percent of identity theft.
+
+Watch out for anything odd -- a medical explanation of benefits for a service you didn't have or from a provider you don't recognize, a rejection letter for an account you didn't apply for, a missing credit card statement that is more than a few days late. These could be signs of identity theft.
+
+Check your credit reports regularly. You're entitled to one free credit report per year from each of the three major credit bureaus. Go to annualcreditreport.com or call 1-877-322-8228. Or you can fill out a paper request and mail it to: Annual Credit Report Request Service, P.O. Box 105281, Atlanta, Georgia 30348-5281. You'll be asked to provide your name, address, Social Security number, date of birth and which bureau you want a report from (Equifax, TransUnion or Experian).Best advice: Order a credit report from one of the bureaus every four months.
+
+Put every type of protection you can on your financial accounts. If you can use two passwords, do it. If you can require codes to be sent to your phone in order for you to log in, do it. If you can request email or text alerts for purchases or bank account withdrawals or changes to your contact information, then do it. While you're at it, make sure that companies you do business with have all of your current contact information in their files.
+
+Watch out for anyone who calls you and claims to be calling about an existing relationship or account you have. Never talk to them. Always hang up and call back using the number on the back of your credit card or your bank statement or that you look up independently online.This same warning applies to anyone who calls you and claims to be from Microsoft or Apple support and says you have a problem with your computer and the caller needs access to your computer to fix it. Just don't. Ever. Just hang up without saying bye.
+
+Be more cautious about anything you post on social media -- Facebook, Twitter, Instagram, etc. You can provide thieves with a lot of information without meaning to. This is especially troubling if you post the name of your sister and photos of your cat online, and then use that information as the answers for security questions for bank accounts.
+A$A$A
+What can happen if someone steals my W-2 form? Can they steal my tax returns?
+E$E$E
+
+Q$Q$Q
+What steps should my company begin to make to do an acquisition?
+A$A$A
+First of all, congratulations on taking a first step to expanding your business!
+
+Before you start an acquisition here are a few things you should think about before plunking down your cash:
+
+Due Diligence
+
+Due diligence tends to come after both parties have agreed on a deal and a price range but before signing a letter of intent. Due diligence is something both you and the seller will have to go through and includes: the value of the selling company, the potential revenue, competitors and more.
+
+Get an expert to audit the company’s books
+
+Knowing your way around a spreadsheet does not you enough background to see where a company’s books went wrong (or if the figures are realistic). To conduct a thorough due diligence examination, a real expert is in order – one capable of digging deep enough to recognise employee theft, distorted vendor pricing, and less than honest partners or landlords when Buying a Business.
+
+Have a snoop around
+
+Try meeting the workers, managers to vendors to see their points of view. Observing things like working conditions, how the team interacts and who takes the lead can be crucial in finalising your decision.
+
+Heads of Agreement
+
+Key terms are usually recorded in signed heads of agreement. For the most part, heads of terms are not legally binding but it is usual to expressly specify certain clauses which are legally binding, such as: an exclusivity period and a confidentiality clause.
+
+It is likely that you will be investing a lot of time, money and resources in the process of buying a business. Exclusivity periods will give you time and protection to carry out due diligence investigations and thrash out contract negotiations.
+
+Confidentiality agreements are also crucial to safeguard the exchange of any confidential information that you provide about yourself and your business.
+
+Hope this could help, if you’re looking to understand what to do when acquiring a business further, I strongly recommend that you seek the advice of a qualified lawyer.
+
+Or if you are unsure about what you/your business requires legally, we offer a Startup Legal Session (It’s Free!) here or you can read our blog for more details on startup requirements.
+A$A$A
+This depends a lot on where you’re entering the process, hence where you start, but here’s the rough process we use with clients who are starting cold. This means they have the idea that they need to look at an acquisition, but not a specific target or deal in mind:
+
+Understand your own strategy, making sure that it is clear and agreed among your senior team so you can all be a part of making sure your acquisition is entirely aligned with that strategy.
+
+Decide what you would like to get out of an acquisition and prioritise your goals. This can be a good time to engage an advisor who specialises in your industry. If you’re asking this question, you definitely need one.
+
+Your advisor should be able to give you some insight into what is possible and help you balance your goals against the resources and funding you may have available to devote to the acquisition process and potential purchase, and if that is likely to be sufficient.
+
+Brief your advisor to undertake an acquisition opportunity search, which process generally goes in stages:
+
+Research the market and identify the companies that might fit your criteria for market, size, development stage, product/service, etc (the ‘long list’) while asking around among other advisors for companies they’re already handling that may fit the bill.
+
+Contact identified targets, usually on a ‘no names’ basis, to assess their fit an interest in being acquired. Pursue likely prospects to compile opportunity information suitable for initial decision-making. Advisors will generally take the first meeting with each target.
+
+Present a rank ‘short list’ of the top dozen or so most likely target opportunities with initial estimates of suitable deal structures that might be acceptable to the target, estimated valuation metrics and other evaluation data.
+
+Your board and senior management should review the short list and knock out any that are unsuitable for specific reasons, then evaluate the rest and decide if the opportunity is worth further investigation.
+
+A designated contact, usually your MD, Chairman, CFO or CxO in the relevant specialist area will accompany the advisor for a second meeting with remaining targets to ‘talk turkey’ and understand if they might accept a deal as predicted. NDAs may be exchanged at this stage. Make sure you meet everyone, not just the best candidates, as targets may surprise you in both directions. Some will be better deals than expected, some worse, and you never know until you ask.
+
+Rank the opportunities and proceed as quickly as possible with the top 3 or so candidates in parallel. others may be delayed or kept ‘on hold’ for a while, until a preferred option becomes clear.
+
+There may be multiple executive meetings at this point, but the goal is to define a deal that would be acceptable to both sides. This will generally be encapsulated in a ‘term sheet’ which may be more or less binding as the parties prefer, but outlines all the key points of the deal including the price, structure, key roles, timeframe and process for executing. You will have many questions to ask and answer at this point and you should be recording both to check later in the ‘due diligence’ verification process.
+
+Once a term sheet is executed, begin four processes in parallel:
+
+negotiate a ‘sale and purchase’ agreement, being the legal agreement that will execute the transfer of ownership.
+
+due diligence investigations, pretty much as Mitchell Boogren has laid them out in his answer, both to confirm all of the answers you have received in negotiations and to assess every other aspect of the business you are buying and the deal itself.
+
+integration planning to understand how the new business will fit into your existing business, what work needs to be done post-acquisition, and what the costs and impacts will be.
+
+if necessary, begin raising the finance for the deal.
+
+If the target passes due diligence, finances stack up, and you can agree a contract, it will include a couple of provisions (‘conditions precedent’) that must be satisfied before the deal will complete, but cannot start until the contract is signed. These are generally talking to the broader organisation to ensure key players will continue to work with the new ownership:
+
+staff
+
+customers
+
+suppliers
+
+banks and other finance providers
+
+Once the conditions precedent are satisfied, payments and ownership can be transferred as specified in the contract and integration of the businesses can begin, if necessary. Focus on the first 100 days, keeping sales up and making our targets.
+
+Live happily ever after.
+
+Hope that helps and good luck! Feel free to DM me if you need more.
+A$A$A
+So it sounds like your company has decided to purchase an existing business. Regardless of whether the deal is structured as an asset transaction, a stock transaction, or a merger, make sure you know what you are getting into by requiring detailed information from the seller regarding its business operations and finances. The following is a checklist of information and documents you should review.
+
+A. Organization and Good Standing.
+
+The Company's Articles of Incorporation, and all amendments thereto.
+
+The Company's Bylaws, and all amendments thereto.
+
+The Company's minute book, including all minutes and resolutions of shareholders and directors, executive committees, and other governing groups.
+
+The Company's organizational chart.
+
+The Company's list of shareholders and number of shares held by each.
+
+Copies of agreements relating to options, voting trusts, warrants, puts, calls, subscriptions, and convertible securities.
+
+A Certificate of Good Standing from the Secretary of State of the state where the Company is incorporated.
+
+Copies of active status reports in the state of incorporation for the last three years.
+
+A list of all states where the Company is authorized to do business and annual reports for the last three years.
+
+A list of all states, provinces, or countries where the Company owns or leases property, maintains employees, or conducts business.
+
+A list of all of the Company's assumed names and copies of registrations thereof.
+
+B. Financial Information.
+
+Audited financial statements for three years, together with Auditor's Reports.
+
+The most recent unaudited statements, with comparable statements to the prior year.
+
+Auditor's letters and replies for the past five years.
+
+The Company's credit report, if available.
+
+Any projections, capital budgets and strategic plans.
+
+Analyst reports, if available.
+
+A schedule of all indebtedness and contingent liabilities.
+
+A schedule of inventory.
+
+A schedule of accounts receivable.
+
+A schedule of accounts payable.
+
+A description of depreciation and amortization methods and changes in accounting methods over the past five years.
+
+Any analysis of fixed and variable expenses.
+
+Any analysis of gross margins.
+
+The Company's general ledger.
+
+A description of the Company's internal control procedures.
+
+C. Physical Assets.
+
+A schedule of fixed assets and the locations thereof.
+
+All U.C.C. filings.
+
+All leases of equipment.
+
+A schedule of sales and purchases of major capital equipment during last three years.
+
+D. Real Estate.
+
+A schedule of the Company's business locations.
+
+Copies of all real estate leases, deeds, mortgages, title policies, surveys, zoning approvals, variances or use permits.
+
+E. Intellectual Property.
+
+A schedule of domestic and foreign patents and patent applications.
+
+A schedule of trademark and trade names.
+
+A schedule of copyrights.
+
+A description of important technical know-how.
+
+A description of methods used to protect trade secrets and know-how.
+
+Any "work for hire" agreements.
+
+A schedule and copies of all consulting agreements, agreements regarding inventions, and licenses or assignments of intellectual property to or from the Company.
+
+Any patent clearance documents.
+
+A schedule and summary of any claims or threatened claims by or against the Company regarding intellectual property.
+
+F. Employees and Employee Benefits.
+
+A list of employees including positions, current salaries, salaries and bonuses paid during last three years, and years of service.
+
+All employment, consulting, nondisclosure, nonsolicitation or noncompetition agreements between the Company and any of its employees.
+
+Resumés of key employees.
+
+The Company's personnel handbook and a schedule of all employee benefits and holiday, vacation, and sick leave policies.
+
+Summary plan descriptions of qualified and non-qualified retirement plans.
+
+Copies of collective bargaining agreements, if any.
+
+A description of all employee problems within the last three years, including alleged wrongful termination, harassment, and discrimination.
+
+A description of any labor disputes, requests for arbitration, or grievance procedures currently pending or settled within the last three years.
+
+A list and description of benefits of all employee health and welfare insurance policies or self-funded arrangements.
+
+A description of worker's compensation claim history.
+
+A description of unemployment insurance claims history.
+
+Copies of all stock option and stock purchase plans and a schedule of grants thereunder.
+
+G. Licenses and Permits.
+
+Copies of any governmental licenses, permits or consents.
+
+Any correspondence or documents relating to any proceedings of any regulatory agency.
+
+H. Environmental Issues.
+
+Environmental audits, if any, for each property leased by the Company.
+
+A listing of hazardous substances used in the Company's operations.
+
+A description of the Company's disposal methods.
+
+A list of environmental permits and licenses.
+
+Copies of all correspondence, notices and files related to EPA, state, or local regulatory agencies.
+
+A list identifying and describing any environmental litigation or investigations.
+
+A list identifying and describing any known superfund exposure.
+
+A list identifying and describing any contingent environmental liabilities or continuing indemnification obligations.
+
+I. Taxes.
+
+Federal, state, local, and foreign income tax returns for the last three years.
+
+States sales tax returns for the last three years.
+
+Any audit and revenue agency reports.
+
+Any tax settlement documents for the last three years.
+
+Employment tax filings for three years.
+
+Excise tax filings for three years.
+
+Any tax liens.
+
+J. Material Contracts.
+
+A schedule of all subsidiary, partnership, or joint venture relationships and obligations, with copies of all related agreements.
+
+Copies of all contracts between the Company and any officers, directors, 5-percent shareholders or affiliates.
+
+All loan agreements, bank financing arrangements, line of credit, or promissory notes to which the Company is a party.
+
+All security agreements, mortgages, indentures, collateral pledges, and similar agreements.
+
+All guaranties to which the Company is a party.
+
+Any installment sale agreements.
+
+Any distribution agreements, sales representative agreements, marketing agreements, and supply agreements.
+
+Any letters of intent, contracts, and closing transcripts from any mergers, acquisitions, or divestitures within last five years.
+
+Any options and stock purchase agreements involving interests in other companies.
+
+The Company's standard quote, purchase order, invoice and warranty forms.
+
+All nondisclosure or noncompetition agreements to which the Company is a party.
+
+All other material contracts.
+
+K. Product or Service Lines.
+
+A list of all existing products or services and products or services under development.
+
+Copies of all correspondence and reports related to any regulatory approvals or disapprovals of any Company's products or services.
+
+A summary of all complaints or warranty claims.
+
+A summary of results of all tests, evaluations, studies, surveys, and other data regarding existing products or services and products or services under development.
+
+L. Customer Information.
+
+A schedule of the Company's twelve largest customers in terms of sales thereto and a description of sales thereto over a period of two years.
+
+Any supply or service agreements.
+
+A description or copy of the Company's purchasing policies.
+
+A description or copy of the Company's credit policy.
+
+A schedule of unfilled orders.
+
+A list and explanation for any major customers lost over the last two years.
+
+All surveys and market research reports relevant to the Company or its products or services.
+
+The Company's current advertising programs, marketing plans and budgets, and printed marketing materials.
+
+A description of the Company's major competitors.
+
+M. Litigation.
+
+A schedule of all pending litigation.
+
+A description of any threatened litigation.
+
+Copies of insurance policies possibly providing coverage as to pending or threatened litigation.
+
+Documents relating to any injunctions, consent decrees, or settlements to which the Company is a party.
+
+A list of unsatisfied judgments.
+
+N. Insurance Coverage.
+
+A schedule and copies of the Company's general liability, personal and real property, product liability, errors and omissions, key-man, directors and officers, worker's compensation, and other insurance.
+
+A schedule of the Company's insurance claims history for past three years.
+
+O. Professionals.
+
+A schedule of all law firms, accounting firms, consulting firms, and similar professionals engaged by the Company during past five years.
+
+P. Articles and Publicity.
+
+Copies of all articles and press releases relating to the Company within the past three years.
+A$A$A
+If you have no direct experience with mergers and acquisitions then the very first step you should take is to find and appoint an experienced corporate advisor to support you in how to structure, negotiate and complete the acquisition.
+
+There are two reasons for doing this:
+
+There is a significant risk you will make a fundamental error in some critical aspect of the acquisition through lack of knowledge and experience;
+
+You should be focused on running your existing business, and a good corporate advisor will keep you involved in the key parts of the transaction, but manage the significant work required to professionally complete the transaction, allowing you to focus on running your existing business.
+A$A$A
+Hello, this is a question that many entrepreneurs, business owners & investors are facing in their business endeavors. We regularly discuss similar topics in our Facebook and LinkedIn community and together with other successful entrepreneurs, we are finding right solutions. Don't hesitate to join us and find answers from professionals to your questions.
+
+Looking forward to helping you!
+
+Eric Hania
+E$E$E
+
+Q$Q$Q
+What is the list of famous case studies taught at Harvard Business School?
+A$A$A
+Harvard Business School Brief Cases
+
+Accounting
+
+Biovail Corporation: Revenue Recognition and FOB Sales Accounting
+
+Biovail Corporation, a major Canadian pharmaceutical company, announces that it will miss its quarterly earnings target by $25 to $45 million, blaming $10 to $15 million of the shortfall on a truck accident that occurred on the last day of the quarter. Explores the concepts of revenue recognition, the ethics of earnings management, relationships with analysts, and the enforcement role of the SEC.
+
+Danshui Plant No. 2
+
+A plant in southern China has a contract to assemble 2.4 million Apple iPhones. Three months into the contract, the plant is operating at a loss. The plant manager analyzes the budget and considers whether changing from a static to flexible budget can help uncover the performance problems.
+
+Depreciation at Delta Air Lines: The "Fresh Start"
+
+After Delta adopts fair value accounting as part of its "fresh start" emergence from bankruptcy, the company changes its approach to depreciating its aircraft. Introduces students to depreciation policy and links between accounting policies and financial reporting choices.
+
+Jimmy Fu and Moog, Inc.: Understanding Shareholders' Equity
+
+Jimmy Fu is interviewing for a job at Moog, Inc. In the job offer, the vesting and termination language for the stock plan leads Jimmy to investigate the Shareholders' Equity section of the Moog balance sheet and he finds more activity than he expects.
+
+Luotang Power: Variances Explained
+
+The general manager of a coal-fired power plant in central China prepares for a presentation to the board of directors. He believes his company performed well in the previous year in several key metrics but the performance is not reflected in the financial results.
+
+Lyons Document Storage Corporation: Bond Math
+
+A manager must analyze the refunding of bonds issued in 2000, when interest rates were higher. Students must calculate the present value of interest and principal payments.
+
+Merrimack Tractors and Mowers: LIFO or FIFO?
+
+A CFO proposes use of FIFO to maintain earnings growth, accepting possible tax consequences. The case demonstrates that firms often have choices about accounting policies.
+
+The Talbots, Inc. and Its Subsidiaries: Accounting for Goodwill
+
+Focusing on the firm's acquisition of J. Jill, the case demonstrates what goodwill is, how it originates, how it is measured at acquisition, and how it is amortized or impaired.
+
+Finance
+
+Blaine Kitchenware: Capital Structure
+
+In response to an unsolicited takeover, a kitchen appliance maker contemplates using excess liquidity and additional borrowing for a stock repurchase. The company must determine the effects of increasing leverage on the cost of capital, firm value, and share price.
+
+Ceres Gardening Company: Funding Growth in Organic Products
+
+An aggressive player in the organic gardening industry offers steep discounts and vendor financing to its retailers in an effort to increase market penetration. Students analyze the company's financial statements and make projections.
+
+Flash Memory, Inc.
+
+A small firm in the computer and electronic device memory market must invest heavily in new product development to stay competitive. The Chief Financial Officer is in the process of preparing the investing and financing plans for the next three years and must consider alternatives for additional funding in light of increased working capital requirements.
+
+Groupe Ariel S.A.: Parity Conditions and Cross-Border Valuation
+
+Groupe Ariel evaluates a proposal from its Mexican subsidiary to purchase and install cost-saving equipment at a manufacturing facility. Ariel corporate policy requires a discounted cash flow (DCF) and an estimate for the net present value (NVP) for capital expenditures in foreign markets. A major challenge of the case is which currency to use, the Euro or the peso.
+
+Hansson Private Label, Inc.: Evaluating an Investment in Expansion
+
+A manufacturer of private-label personal care products must decide whether to fund an unprecedented expansion of manufacturing capacity. This case requires students to complete a fundamental analysis of the project, including the development of cash flow projections and net present value calculations.
+
+Harmonic Hearing Co.
+
+Two employees from a small manufacturer of hearing aids consider purchasing the company from the founder. Two financing alternatives are presented: one is virtually all debt-financed, the other all equity. The financing structure will significantly affect future products and firm performance.
+
+Hill Country Snack Food Co.
+
+The CEO of a snack food company believes in maximizing shareholder value by maintaining large cash balances and funding new initiatives internally using equity finance over debt finance. As he approaches retirement, analysts and investors want the company to adopt a more aggressive capital structure.
+
+Jones Electrical Distribution
+
+Despite several years of rapid sales growth and good profits, Jones Electrical Distribution experiences short-term cash shortages. The company is unable to take discounts on accounts payable and increasingly relies on loans from the bank to cover expenses. Company owner Nelson Jones weighs the options for managing sales growth against additional financing needs.
+
+Mercury Athletic: Valuing the Opportunity
+
+The head of business development at Active Gear Advantage, a mid-size athletic footwear company, sees the opportunity to acquire Mercury Athletic and double the size of his business. Students gain exposure to basic DCF valuation using WACC.
+
+Midland Energy Resources, Inc.: Cost of Capital
+
+The senior vice president of project finance for a global oil and gas company must determine the weighted average cost of capital for the company as a whole and each of its divisions. Students become familiar with WACC and CAPM and associated data and formulas.
+
+Monmouth, Inc.
+
+A leading producer of engines and massive compressors for the natural gas industry considers whether to acquire a tool company. Students must choose an approach for valuing the company and consider how the offer should be structured.
+
+New Heritage Doll
+
+A mid-sized, privately-owned, domestic firm evaluates two investment alternatives. The case explores basic issues in capital budgeting and requires students to analyze financial information from competing capital budgeting projects and choose a single investment project.
+
+Pacific Grove Spice Company
+
+A manufacturer, marketer, and distributor of spices and seasonings utilizes debt to fund the necessary growth in assets to support sales. The bank is concerned about the total amount of interest-bearing debt on the firm's balance sheet and has asked the company to provide a plan to reduce it.
+
+Polar Sports, Inc.
+
+A fashion skiwear company generates over 80% of sales between September and January and relies on seasonal production to respond promptly to customer orders. The VP of operations considers the costs and benefits of switching to level production.
+
+Sterling Household Products Company
+
+A manufacturer of laundry soap, cosmetics, cleaning and disinfecting products, and other consumer goods consider acquiring the germicidal and sanitation product unit from a company in the health care industry. A complete investment analysis may reveal whether the purchase price adds enough value to the firm.
+
+Valuation of AirThread Connections
+
+A senior associate in the business development group at American Cable Communications must prepare a preliminary valuation for acquiring AirThread Connections, a regional cellular provider. This case can be used as a capstone valuation exercise for first-year MBA students in an introductory finance course.
+
+Winfield Refuse Management: Raising Debt vs. Equity
+
+A small, publicly traded company specializing in non-hazardous waste management considers a major acquisition in the Midwestern U.S. The chief financial officer wants the company to reconsider a long-standing policy to avoid long term debt and fund the acquisition through a bond issue.
+
+General Management
+
+Applied Research Technologies, Inc.: Global Innovation's Challenges
+
+Students analyze the decisions and the leadership styles of both a unit manager and a division VP of ART, Inc., an organization whose culture of innovation has spawned many successful brands—but this same culture might also be putting one division and its leader at risk.
+
+Calveta Dining Services, Inc.: A Recipe for Growth?
+
+Calveta Dining Services enjoyed three decades of growth under its founder Antonio Calveta. Now that Antonio is retired, can his son Frank carry out Antonio's directive to double revenue within five years while still maintaining Calveta's distinctive pro-employee culture?
+
+Clayton Industries: Peter Arnell, Country Manager for Italy
+
+In Italy, the new country manager of a U.S.-based HVAC company is under pressure to solve a range of problems that thwart the home office's strategic plans. His options are constrained by a depressed economy, difficult union relations, rising materials prices, intense competition, and nationalistic buying preferences.
+
+A Day in the Life of Alex Sander: Driving in the Fast Lane at Landon Care Products
+
+A driven superstar performer at a cosmetics firm has an impressive record of accomplishments but is limited by an inability to function effectively in a team setting, as a 360 performance evaluation makes clear.
+
+Evergreen Natural Markets 2012
+
+Kathleen Norton, the CEO of a successful food retailer with a track record of growth through local acquisition, has her leadership skills tested when her company purchases seven stores outside of the home base.
+
+Sugar Bowl
+
+Shelby Givens, the Westlake Lanes general manager, has successfully transformed her family-owned bowling alley into an urban lounge called Sugar Bowl. When investors offer to buy the business, Givens must evaluate whether she should accept the offer or retain involvement in the venture she worked so hard to create.
+
+Westlake Lanes: How Can This Business Be Saved?
+
+A general manager tries to improve a failing business that is owned and operated by her family. She uses her recent MBA training to devise a short term turnaround strategy while also proposing a longer term transformation plan to the board.
+
+HR Management
+
+Celeritas, Inc.: Leadership Challenges in a Fast-Growth Industry
+
+Celeritas is a leading data communications company in a crowded and highly competitive market. With sales suddenly declining after years of record growth, Celeritas has begun to lose its status as a top player. The CEO calls for an offsite meeting to address several problems he believes are causing the recent slide.
+
+Raleigh & Rosse: Measures to Motivate Exceptional Service
+
+In January 2010, U. S. luxury goods retailer Raleigh & Rosse is being sued by its employees for encouraging "off the clock" hours. At the center of the class action lawsuit is the famous Raleigh & Rosse performance measurement system previously thought to be the core of the retailer's success.
+
+International Business
+
+Bella Healthcare India
+
+Bella Healthcare India was originally established as a low-cost manufacturing facility for a U.S.-based cardiology equipment developer but has since evolved into its own research and development center. After a failed joint product development effort with its parent company in the U.S., is the Bella Bangalore team ready to launch a new product and if so, which project should it choose?
+
+Kent Chemical: Organizing for International Growth
+
+With a global expansion strategy placing increasing demands on his organization, the president of Kent Chemical International is proposing a third reorganization effort after two failed attempts to better align his business with its U.S.-based parent company.
+
+Levendary Cafe: The China Challenge
+
+Levendary Cafe has grown from a small Colorado-based restaurant into a $10 billion business with international expansion plans. Despite its solid track record, Wall Street is nervous about Levendary and its new CEO, Mia Foster. Foster is working hard to prove herself worthy of the job and her first order of business is to address concerns about the Levendary Chinese expansion plan.
+
+Meli Marine
+
+An inter-Asian container shipping company is facing an important strategic decision after an interesting acquisition opportunity presents itself— if the board purchases larger ships, should they enter the global Asian-North American shipping business?
+
+United Cereal: Lora Brill's Eurobrand Challenge
+
+The European division for a multinational breakfast foods company prepares to launch a new cereal product. The VP for the division must decide whether to make the new cereal the first branded cereal product for the European division and how to create an organizational structure to support the new product strategy.
+
+Marketing
+
+Alpen Bank: Launching the Credit Card in Romania
+
+Alpen Bank considers whether to launch a credit card business in Romania. The firm rejected the idea several years earlier because of poor economic conditions in Romania. However, the country is emerging from a recession and incomes are rising along with disposable income. Students decide whether to launch the new business and how to acquire new customers.
+
+Atius Golf
+
+A maker of high-performance golf balls considers introducing a new product line called Elevate to appeal to casual golfers. The new line will be available through "off-course" specialty stores and big box retailers at lower price. The board of directors is divided on whether to support the decision.
+
+Atlantic Computer: A Bundle of Pricing Options
+
+Atlantic Computer, a leading player in the high-end server market, has developed a new server, the Tronn, and a software tool, called the "Performance Enhancing Server Accelerator," or PESA, that allows the Tronn to perform up to four times faster than its standard speed. How should Atlantic price the Tronn and PESA?
+
+Brannigan Foods: Strategic Marketing Planning
+
+The vice president and general manager of the soup division is concerned about declining sales and profitability. Hoping to reverse the trends, he asks 4 managers to review an analysis of the soup industry and recommend a turnaround strategy. Students must perform a quantitative analysis of each proposal before making a final recommendation.
+
+Classic Knitwear and Guardian: A Perfect Fit?
+
+In response to shareholder demands for margin improvements, the CMO of Classic Knitwear, a private-label non-fashion knitwear manufacturer, considers partnering with another company to produce a new line of high-margin, insect-repellant clothing.
+
+Clean Edge Razor: Splitting Hairs in Product Positioning
+
+A health and beauty manufacturing company launches a new technologically advanced vibrating razor into the highly competitive men's market for shaving products. The product manager struggles with positioning the product either as a "niche" razor for the high-end market or as a mainstream razor for the average consumer.
+
+Cottle-Taylor: Expanding the Oral Care Group in India
+
+The director for oral care products in India develops a marketing plan to support 20% growth in India but her boss wants to see 30% growth. To reach the revised goal, she must develop a new marketing plan while considering many factors including the regional differences between rural and urban consumers and the level of acceptance for modern dental standards across India.
+
+Culinarian Cookware: Pondering Price Promotion
+
+Faced with ambiguous results from a previous price promotion, Culinarian must decide if a new promotion will damage its premium brand or improve brand awareness and stimulate sales. What role should price promotion play in the company's sales growth goals?
+
+The Fashion Channel
+
+The new Senior Vice President of Marketing for The Fashion Channel is preparing to recommend a change in the company's traditional marketing approach by introducing a market segmentation program. Students must evaluate consumer research results, calculate financial scenarios, and make their own recommendation.
+
+Flare Fragrances Company, Inc: Analyzing Growth Opportunities
+
+Flare Fragrances experiences a decline in annual sales growth and considers introducing a new line of perfume or expanding distribution. Students study a wide range of factors including brand management, consumer demographics, product positioning, and pricing.
+
+Giant Consumer Products: The Sales Promotion Resource Allocation Decision
+
+In an effort to boost sagging sales, the Frozen Food Division undertakes a risky trade promotion. Focuses on cannibalization, brand equity erosion, and strategic channel issues.
+
+Harrington Collection: Sizing Up the Active-Wear Market
+
+In the wake of slumping sales and sagging profit margins, a leading manufacturer and retailer of high-end women's apparel must decide whether to expand into the high-growth active-wear market. The case explores the financial implications, assesses trade and competitor reactions, considers the risks, and determines whether the company's Vigor division will be able to successfully launch and manage a new product line.
+
+Launching Krispy Natural: Cracking the Product Management Code
+
+A market leader for the sweet snack market wants to enter the salty snacks market with a reinvented line of premium crackers. Market test results exceed expectations in one city and fall short in 3 others. The marketing director must interpret the test market results, consider possible competitive response, and develop a recommendation for a national rollout.
+
+Manchester Products: A Brand Transition Challenge
+
+Manchester, a furniture company, has acquired an extremely powerful brand but can use its name for only three years-so the VP of Marketing must design a plan that transitions the new brand's power back to the company. The case examines decision-making related to brand equity, communications, and other aspects of marketing strategy.
+
+MedNet.com Confronts "Click-Through" Competition
+
+In January 2007, "MedNet.com" is a leading website that provides science-based health information free of charge to online visitors. Its business model relies on advertising sales, primarily to pharmaceutical companies. In the face of fierce advertising competition, MedNet is forced to defend this model. However, in defending the value MedNet delivers, company executives may be building the case for why niche sites may be a better investment for the advertiser's budget.
+
+Metabical: Positioning and Communications Strategy for a New Weight Loss Drug
+
+The marketing director at a pharmaceutical company must carefully consider the positioning and communications strategy for the launch a new weight-loss drug. Poor positioning of the drug in the highly competitive market for weight-loss solutions could spell disaster.
+
+Metabical: Pricing, Packaging, and Demand Forecasting Recommendations for a New Weight-Loss Drug
+
+A pharmaceutical company develops a new weight loss drug called Metabical. The senior marketing manager explores three different pricing models and considers the effects on profitability before making a final recommendation.
+
+Mountain Man Brewing Co.: Bringing the Brand to Light
+
+Mountain Man Beer Company brews just one beer, Mountain Man Lager, known as "West Virginia's beer," popular among blue-collar workers. When the company experiences declining sales, the CEO considers launching a new beer, Mountain Man Light, in the hope of attracting younger drinkers. Mountain Man Lager's brand equity is a key asset for the company. Will Mountain Man Light enhance, detract from, or irreversibly damage the brand?
+
+Natureview Farm
+
+Natureview Farm, a Vermont-based producer of organic yogurt with $13 million in revenues, is the leading national brand sold into natural foods stores. When the company faces financial pressure to increase revenues to $20 million due to a planned exit by its venture capital investors, the VP of marketing must decide whether to expand into the supermarket channel.
+
+Olympic Rent-A-Car U.S.: Customer Loyalty Battles
+
+A rental car company must decide how to respond after a competitor changes its loyalty rewards program. Marketing and operations managers review the firm's financial performance and the current loyalty reward program as they consider their options.
+
+P.V. Technologies, Inc.: Were They Asleep at the Switch?
+
+A leading manufacturer of photovoltaic inverters used in solar energy technology receives a bad evaluation from its largest customer. The company must consider the consequences to its reputation while considering among four possible responses to the situation.
+
+Reed Supermarkets: A New Wave of Competitors
+
+The marketing VP at a high-end, conventional supermarket chain is concerned about increased competition from dollar stores and limited-assortment stores offering very low price points. She must decide how to change the current marketing and positioning plan to increase market share.
+
+Reliance Baking Soda: Optimizing Promotional Spending
+
+The new Domestic Brand Director needs to create a marketing budget that delivers a profit increase of 10%, weighing the value of advertising, price increases, and the role of the brand within the company. Students are expected to create and defend a similar budget.
+
+Rosewood Hotels and Resorts: Branding to Increase Customer Profitability and Lifetime Value
+
+Rosewood Hotels & Resorts is a small firm running 12 individually branded luxury properties. Its new leadership is contemplating whether the firm should significantly increase the prominence of the corporate identity, making Rosewood a corporate brand. Students must calculate how customer lifetime value would be affected by a shift from individual branding to corporate branding.
+
+Saxonville Sausage Company
+
+Saxonville Sausage, a $1.5 billion manufacturer of pork sausage products, is experiencing financial stress because its leading product lines have lately produced declining revenues-except an Italian sausage named Vivio, which has recently experienced a significant increase in revenues, as has the entire Italian sausage category nationwide. What steps should the company take to expand Vivio into a powerful national brand?
+
+Soren Chemical: Why Is the New Pool Product Sinking?
+
+Soren Chemicals launches a new water clarifier for residential swimming pools called Coracle and is surprised by poor sales. Coracle is chemically similar to the company's highly successful water clarifier for large pools at recreational facilities and offers the same superior product performance. The marketing manager suspects the go-to-market strategy may be flawed but can she diagnose the problem before the end of the selling season?
+
+The Springfield Nor'easters: Maximizing Revenues in the Minor Leagues
+
+The marketing director of a new minor-league baseball team must design, conduct, and then interpret survey research to determine optimal ticket pricing that will yield large attendance figures and contribute to the owner's goal of breaking even in the first year of play. The pricing assignment becomes more challenging when other variables like concessions revenue are considered. Students are asked to complete a quantitative assignment as part of case analysis, and they must also grapple with less quantifiable factors.
+
+TruEarth Healthy Foods: Market Research for a New Product Introduction
+
+TruEarth Healthy Foods wants to build on its successful introduction of fresh whole grain pasta by introducing a similar product concept for pizza. Acting as brand managers, students analyze the data and decide whether to bring the new product to market.
+
+Operations Management
+
+AIC Netbooks: Optimizing Product Assembly
+
+A manufacturer of printed circuit boards diversifies it product portfolio by launching its own line of mobile consumer electronics. After three months of production, the production manager must consider ways to increase efficiency and lower costs.
+
+Baria Planning Solutions, Inc.: Fixing the Sales Process
+
+A consulting firm that specializes in using spend analysis to help companies identify savings is concerned about the disappointing performance of the sales team in signing up new clients. The sales director must analyze the current process flow to identify the problems facing the sales organization.
+
+Bayonne Packaging, Inc.
+
+A printer and paper converter specializes in delivering innovative packaging solutions for its customers. Despite tripling sales, the firm posted its first loss in over 10 years. The VP of Operations must analyze the production process and recommend improvements.
+
+Bergerac Systems: The Challenge of Backward Integration
+
+A manufacturer of diagnostic instruments for veterinary practices relies on two suppliers for the plastic cartridges used for a range of blood and blood chemistry tests. The CEO is concerned about inconsistent deliveries and considers acquiring one of the suppliers or expanding existing capacity.
+
+FoldRite Furniture Company: Planning to Meet a Surge in Demand
+
+FoldRite improves manufacturing quality and efficiency by developing stylish, environmentally friendly products. Now a new plan is needed to meet high demand, control manufacturing and inventory costs, and mitigate risk.
+
+The Morrison Company
+
+A developer and manufacturer of radio frequency identification tags (RFID) experiences a dramatic increase in sales over the past year. The increase exacerbates existing manufacturing problems and has led to increased shipping delays and inadequate inventory on hand.
+
+Scientific Glass Incorporated: Inventory Management
+
+Scientific Glassware provides specialized glassware for laboratory and research facilities. Excess inventory is tying up extra capital needed to fund the company's expansion plans. The inventory manager is tasked with developing a more effective strategy for managing inventory.
+
+Organizational Behavior
+
+Andrew Ryan at VC Brakes
+
+Andrew Ryan's excitement over a change initiative at VC Brakes turns to concern when organizational challenges surface. A subsequent restructuring puts him on the wrong side of politics and he must decide whether to leave or stay with the losing initiative.
+
+BoldFlash: Cross-Functional Challenges in the Mobile Division
+
+A new leader makes organizational changes to improve the product development process, but the changes may not go far enough.
+
+Campbell and Bailyn's Boston Office: Managing the Reorganization
+
+Competitive pressures drive organizational changes at a securities brokerage firm, with serious potential consequences for customers, employees, and the firm as a whole.
+
+Engstrom Auto Mirror Plant: Motivating Through Good and Bad Times
+
+A plant manager confronts morale issues when, on the heels of an industry downturn, an incentive program stops producing payouts that employees have come to expect.
+
+Jamie Turner at MLI, Inc.
+
+Set in an industrial lighting company, this Brief Case describes the evolution of an interpersonal mismatch between a previously successful manager, Jamie Turner, and his new boss.
+
+Johannes Linden: Managing the Global Executive Committee
+
+In the wake of an unexpected drop in manufacturing costs, the director of a large Swiss appliance manufacturer must convince his Global Executive Committee to revise revenue forecasts and sales targets for the upcoming year.
+
+Kay Sunderland: Making the Grade at Attain Learning
+
+Account manager Kay Sunderland is surprised that her colleague Mike Morgan is potentially jeopardizing an important account by ignoring their employer's communication policy. Sunderland must decide how to handle the situation with both the client and her colleague Morgan.
+
+Martha Rinaldi: Should She Stay or Should She Go?
+
+Martha Rinaldi has been an assistant product manager at leading beverage company Potomac Waters since graduating from business school. Rinaldi is frustrated by her relationships with her boss and a close co-worker.
+
+MediSys Corp.: The IntensCare Product Development Team
+
+Medical equipment maker MediSys is developing an innovative system for monitoring intensive care patients. Six months into the project, the product development team struggles through significant problems with design, schedule, a large competitive threat, and their own group dynamics.
+
+RL Wolfe: Implementing Self-Directed Teams
+
+Plastic pipe manufacturer RL Wolfe introduces the concept of self-directed teams (SDTs) to its Corpus Christi plant in 2004. By 2007, Corpus Christi is outperforming the firm's other plants, and the production director seeks to understand which aspects of SDTs are working, which are not, and whether the other plants might be persuaded to accept the SDT approach.
+
+Ron Ventura at Mitchell Memorial Hospital
+
+Star vascular surgeon Ron Ventura's contract is up for renewal. He has improved the vascular surgery practice and generated much new case flow but is abrasive. How should his boss approach the upcoming performance feedback interview?Teaching Note available.
+
+Stone Finch, Inc.: Young Division, Old Division
+
+To stimulate innovation and hasten growth in a young technology solutions division, an aggressive CEO milks the firm's cash cow, an old manufacturing unit. That unit soon faces key employee departures and sinking morale - and the newer unit runs into similar difficulties.
+
+TerraCog Global Positioning Systems: Conflict and Communication on Project Aerial
+
+When a new product launch is threatened by cost problems, the firm's units are unable to come together and make a critical decision and a young executive must lead them forward.
+
+Thomas Green: Power, Office Politics, and a Career in Crisis
+
+A promising career appears to be headed off the rails as conflict deepens between a young marketing manager and his boss. Can this career be saved?
+
+Treadway Tire Company: Job Dissatisfaction and High Turnover at the Lima Plant
+
+Line foremen in a manufacturing plant are caught in the middle of an adversarial relationship between workers and management.
+
+Sales
+
+Designs by Kate: The Power of Direct Sales
+
+The sales representatives at Designs by Kate sell private-label jewelry at hosted parties. They also recruit, train, and manage teams of new sales reps. Sales have started to decline and the company must revisit the commission structure to determine if it is still effective.
+
+Service Management
+
+Comfort Class Transport: Does Customer Service Need an Overhaul?
+
+Customer satisfaction with vehicles and drivers at a chauffeured limousine transport company is high and management has plans to expand the company into new markets. However, underperformance in the customer service call center could threaten the company's future.
+
+Delwarca Software Remote Support Unit
+
+A software firm provides telephone support for customers facing complex software integration issues. The manager of the remote support unit implements a new call triage process that fails to decrease customer waiting times and overall dissatisfaction. He must analyze the process and make recommendations for improvement.
+
+Playa Dorada Tennis Club: Expansion Strategy
+
+Playa Dorada Beach & Resort in Boca Raton, Florida faces a growing seasonal demand for tennis services. The director of the tennis operations analyzes court capacity and pricing structure as he considers plans for expansion.
+
+Porcini's Pronto: "Great Italian cuisine without the wait!"
+
+Looking for expansion opportunities, a chain of full-service Italian restaurants considers launching a new chain of lower-cost, limited-menu restaurants. The vice president of marketing must develop the concept and also analyze three expansion strategies before the project can be approved.
+
+WrapItUp: Developing a New Compensation Plan
+
+A restaurant chain based in California offers made-to-order sandwich wraps using fresh, healthy ingredients. Management pilots a profit-sharing program at two restaurants to address concerns that employee turnover is high, customer satisfaction is decreasing, and revenue growth is flat.
+E$E$E
+
+Q$Q$Q
+Why are payday loan interest rates so high?
+A$A$A
+I work in payday lending industry, so I can allow you a little inside look. Following is the breakdown of our customer accounts over the period of 5 years:
+
+in good standing (does not necessarily mean that they ever requested, or were granted a loan, or had more than one loan with us; those are simply people who voluntarily entered their personal information into our system): 65%
+
+currently in default (they may or may not pay us back in the end): 1%
+
+bankrupt (we cannot legally collect on them): 1%
+
+charged off (we gave up all hopes of getting the money back from them): 31%
+
+other: 2%
+
+In other words, nearly one out of three of our customers failed to repay the loan!
+
+Mind you, we are not a charity, so someone has to compensate the money that  we wasted on that 1-in-3 A-hole. And guess who will do that? Of course, the remaining two good citizens! Are you still surprised?
+
+Of course, we could have tightened our formulas and not give the money to the guy #1. But that means guys #2 and #3 would likely not get that money either...
+
+So, in order to offer better rates and not go bankrupt, we have to exclude a lot of potential customers from the pool... Hold on a second, ins't that what banks are doing?
+
+Besides... ever heard of Adverse selection?
+A$A$A
+When a payday lender is asked to justify the APR of a short-term loan, often "risk" is the best answer the company can provide.  At the end of the day, they are supplying a line of credit to a borrower that can have any score on the credit scale. 
+
+While it is the most politically correct delivery, many are still confused by why a payday loan's interest rate is often in the four digit range.  UK payday loan conglomerate, Wonga, advertises a Representative interest rate of more than 4000%.
+
+To many who are used to seeing APR in the 12-20% range, like on credit cards, the shock of seeing such a large number can seem to far outweigh the risks.  After all, even bad credit credit cards don't have interest rates over 30%. 
+
+What is it with payday loans then?
+
+Here in lies the complication and the misconception.  Borrowing £100 from a payday lender, doesn't mean you will be required to repay the £100 plus 4000% interest. 
+
+Payday loans are not a line of revolving credit like a card, they are issued for just a few weeks and the borrower is expected to repay the loan in full on the due date.  Despite the fact that the loan has a life of less than a month, payday lenders are still required to calculate the finance charges on the loan for the course of a year. 
+
+For example, if you were borrowing £100 a lender might require you to pay back the loan, plus £35 in fees and interest.  As you can see, that would equate to a 35% interest rate on the loan.  But that isn't how companies are allowed to advertise. 
+
+So instead of that actual figure, consumers view the theoretical interest rate should the loan be held over the course of 12 months. 
+
+Are the loans still high interest in terms of other types of credit?  Absolutely.  Even when the actual finance charges are calculated into the actual interest rate of the loan, the numbers almost always exceed that of other financial products. 
+
+Payday loans' sole purpose is to be used in an emergency situation, when no other credit or cash options are available.  Don't be tempted to take out a payday loan just because the interest rates aren't necessarily as bad as they seem. 
+
+The loan is still a risky place to turn for cash and borrowers have to be wary and make sure they educate themselves before applying.
+A$A$A
+Payday lending is a $50 billion industry in the US. About 12 million Americans borrow more than $7 billion annually from over 22,000 online channels or their local storefronts, leave aside the payday loans provided by the banks themselves. This gives us an idea about how greatly the industry has been flourishing recently.
+
+How Is Interest Calculated on Payday Loans?
+
+Payday loans are calculated annually based on Annual Percentage Rates (APR). For calculating APR, you'll need three pieces of information:
+
+The amount of money you're borrowing (the principal loan amount).
+
+The amount you are paying on that loan as the interest, referred also as 'finance charge'.
+
+The length of the repayment term.
+
+To make things easy, let's take the following example:
+
+Take $300 as principal amount.
+
+Interest amount on it will be $69.
+
+A repayment term of 14 days.
+
+Suppose you took $300 for 2 weeks (14 days) and the interest for those 2 weeks is $69. To calculate how we've got to pay $69 as interest, we divide this interest amount by the total amount borrowed. This will give us the interest rate which in this case will be 23% for those 2 weeks. However, the interest of the payday loans are calculated on Annual Percentage Rate (APR) which means we'll have to convert this 23% into a simple annual rate. As we have 56 weeks in a year which means 26 “2 weeks” in a year. So, we'll simply multiply “23% for two weeks period” by 26 to get 598% as our annual payday loan interest. But, it's not the exact figure. As we know that a year consists of 365 days whereas 56 weeks, in our case here, accounts for 364 days only. So, while calculating interest that 1 extra day is also taken care of that causes a slight difference in the exact figure of the rate which finally comes out.
+
+This must have cleared your idea of how the fee schedules are determined on the payday loans.
+
+One good thing about the payday loan is that they are not allowed to be compounded annually. Your principal stays the principal, and the interest stays the interest.
+
+It means that you are relieved from having your interest being calculated on a compounded amount on a day to day or a week on week basis. The interest you pay on a payday loan is normally referred to as a 'finance charge', and it's a simple fee based on the amount you borrow. For example, a $400 payday loan that costs $20 per $100 borrowed would have a finance charge of $80.
+
+Surely, payday loans charge higher interest rates than the traditional loans offered by banks but even banks charge 200 to 300% for the types of payday loans they themselves are offering. Furthermore, getting any kind of loan (short-term or long-term) from a bank isn't an easy thing. You'll have to have a great credit score, a steady job to support paying bills, and mortgage to guarantee your loan.
+
+Know more about the payment options for payday loans.
+A$A$A
+here are many different ways to calculate annual percentage rate of a loan. Depending on which method is used, the rate calculated may differ dramatically, e.g., for a $15 charge on a $100 14-day payday loan, it could be (from the borrower's perspective) anywhere from 391% to 3733%.
+A$A$A
+The interest rate for payday loans is actually not that high, it’s usually only around 1% a day or less. What seems high is the APR. The average payday lender in the UK charges around 1,700% and some charges as much as 5,000%.
+
+To answer why this rate is so high, we must understand what is meant by APR. This refers to the annual percentage rate and this calculates the interest rate of a loan for an entire year. This is not a completely accurate measure of interest for a payday loan when a typical loan lasts between 14 to 30 days. However, APR is an ideal measure for annual products that assumes ‘interest on interest’ is added such as 5 year loans and mortgages.
+
+So to sum up, payday lenders usually charge around 1% a day to cover their costs but when calculated as APR, it amounts to thousands of percent and looks intimidating. However, APR is probably not the most accurate measure for something that isn’t a long term loan product. If you are interested in the real price of payday loans, there are other measures available. For example, it is worth searching through a payday lender’s FAQs and T&Cs to find out how much percentage they charge per day. In addition to this, the OFT encourages lenders to state clearly on their site the cost per £100 borrowed. This is a good way to compare between lenders – they typically charge between £25 and £35 per £100 borrowed. Finally, some online lenders provide loan calculators that allow you to see exactly how much you are paying back and when. This is something that we have on our site – Instalment Loans - Wizzcash. So next time you’re planning to borrow from a payday loan site, be sure to read through the terms and conditions and check the other charges available to get an idea of how much a payday loan really costs.
+A$A$A
+I’d like to be able to say that the only reason you see such high Interest Rates from groups that lend small amounts of money to a largely low-income clientele is that they’re predatory and are trying to wring as much money as they can from vulnerable populations while raking in cash hand over fist. I’d like to be able to say this, because it would mean that payday lenders would be easy to outcompete by much more consumer-friendly companies, and that the problem of people going into expensive debt because of Payday Loans could easily be solved with Usury regulation limiting interest rates.
+
+I’d like to be able to say that, but I can’t. Not honestly.
+
+Through extensive investigation and some hard experience analyzing data as part of a lending company whose goal is to get people back on the road to financial health, the truth is that the cost of lending in the small dollar, Unsecured Personal Loans sector really is high enough to justify interest rates most people would find ridiculous. To illustrate why, I’m going to use a variety of public domain sources and some simple math to calculate the break-even Annual Percentage Rate (APR) of a short-term, small dollar loan. This number turns out to be in the hundreds of percent … and the problem of financing the short-term cash needs of the poor turns out to be just that intractable.
+
+—
+
+The short term, small dollar loan sector defies people’s intuitions about lending for a variety of different reasons. People in the traditional financial sector, and consumers of traditional financial products, usually view the APR as a direct indicator of the level of profit a lender will make, since for most consumer loans the following conditions apply:
+
+The fixed costs of lending are very small relative to the size of the loan. Unlike in small dollar lending, fixed costs are basically a rounding error in a traditional personal loan.
+
+A traditional personal loan is relatively long term, while small dollar loans are very short term. As a result, the most significant cost in a conventional personal loan is the bank’s cost of capital, whereas in a small dollar loan the term length is so short the cost of capital is negligible.
+
+Loss rates on traditional personal loans, which are generally products given to people with high Credit Scores and Scoring, are around 3%. However, small dollar loans, which primarily serve the working poor with urgent short-term finance needs and those without the ability to obtain credit from the traditional financial system (e.g., if they have maxed out their existing credit cards), have extremely high loss rates that must be made up by the rest of the loan pool.
+
+Traditionally, people’s intuition about how profitable loans are for the lender is that the difference between the APR and the presumed cost of capital, usually around 3-5% in recent decades, is an indicator of the lender’s Profit Margin. While this is correct for a longer term loan, it turns out to be horrifically wrong for a short-term, small dollar loan.
+
+—
+
+First, we have to frame the problem. A small dollar lender typically sets an APR to make a profit not on single loans - after all, if someone defaults on their first payment, it’s guaranteed to never even make the principal back - but on the entire loan book. This pools risk so that the successfully completed loans pay for the ones that default.
+
+In addition, the loan book’s revenues must pay for all of the costs associated with the loans. Broadly, there are a few fixed costs associated with small dollar lending, including wages and salaries, the rent associated with a brick-and-mortar outlet and advertising. There are also some variable costs, such as collection and underwriting. Notably, though, cost of capital is insignificant because the term of the loan is so short.
+
+The cost
+
+C
+
+C
+
+of a loan book with
+
+n
+
+n
+
+loans of principal
+
+P
+
+avg
+
+P
+
+is thus
+
+C=n
+
+P
+
+avg
+
++∑
+
+C
+
+fixed
+
++
+
+C
+
+variable
+
+n
+
+C
+
+and the revenues of
+
+R
+
+R
+
+with a default rate
+
+r
+
+default
+
+r
+
+and fees of
+
+f
+
+f
+
+are
+
+R=
+
+P
+
+avg
+
+(1−
+
+r
+
+default
+
+)(1+f)n
+
+R
+
+where the actual APR value from
+
+f
+
+f
+
+depends on the term (known technically as tenor, no relation to Placido Domingo) of the loan. On a per-loan basis, the breakeven cost is given by
+
+R−C
+
+n
+
+=0
+
+R
+
+, or in long form:
+
+P
+
+avg
+
+(1−
+
+r
+
+default
+
+)(1+f)=
+
+P
+
+avg
+
++
+
+1
+
+n
+
+∑
+
+C
+
+fixed
+
++
+
+C
+
+variable
+
+P
+
+Thanks to public domain sources of information that have extensively studied the sector, we can actually assign a good set of numbers to these values. According to a study by Flannery and Samolyk in 2005, which gives detailed cost information on brick-and-mortar payday lenders in Table 3, a mature payday lender in 2005 could expect to have an outstanding loan book of about $85,000 with fixed costs of about $20 per loan. Variable costs (for collection) were only around $0.30 per loan - hardly significant. However, the average loan size in 2005 was about $225 - which means that the fixed costs made up a huge portion of the loan book! Inflating with the Consumer Price Index (CPI) from 2005 to today (2017), this works out to a $280 loan average with fixed costs of about $25 per loan and about $.40 of variable cost. This gives us an equation in two variables: loss rate versus fees.
+
+The final ingredient in translating all of this into APR numbers is how long the loan is intended to be outstanding. The typical small dollar lender will lend for as little as two weeks or as long as 6 months; in 2005, the mean length of the loan was only 15 days. The breakeven APR will be smaller for a longer loan, but much higher for a shorter term loan. However, the vast majority of small dollar loans are extremely short term and evidence suggests that the customers prefer it that way.
+
+One more fact serves to present small dollar loans in context: multiple research sources have reported that traditional small dollar lenders typically have Default rates of 10% - 20%. Quora answers on this question have put it as high as 33%. For a traditional lender, this would be a catastrophically high rate.
+
+Using the scenario of the mean mature lending store from Flannery and Samolyk with a fixed number of annual loans and average loan principal, I went ahead and calculated the breakeven fee level versus loss rate for a variety of loan tenors using a spreadsheet program:
+
+I encourage you to check my math. However, in the absence of visible mistakes, it indeed seems as though the typical breakeven cost of a small dollar, short term lender is in the equivalent APR range of well over 300%. The APR rate of a short-term small dollar loan is indeed reflective of fixed costs and loss rates rather than cost of capital, and profits are not nearly as astronomically high as people might expect from the APR alone.
+
+—
+
+Political opponents of the short term, small dollar lending industry, including on Quora, point to the high APR of small dollar, short term loans as prima facie evidence of their exploiting the poor. However, as a result of my research and my work I’ve come to take a much more nuanced view: there are many reasons to believe that payday lenders are not very ethical businesses, but I’ve come to believe that high APR is not necessarily one of them. Even if we didn’t have the data and the math to back it up, another piece of circumstantial evidence exists: in states where strong usury laws go into force and ban high APRs or fees, payday lenders do not radically cut their interest rates - instead, they go out of business or flee across state lines, a sign that they really cannot make a profit at such low levels of revenue.
+
+Making that APR go down isn’t as simple as cutting profit margins. It means cutting costs or cutting loss rates. Still worse, these goals are in some sense in opposition to each other, because the easiest cost-cutting measure is often the identity checks and basic credit checks that ensure that enough borrowers have the ability to pay. Cut costs too much and lenders risk a death spiral of loss rates. On the other hand, spend too much on finding more creditworthy borrowers and you risk a much higher level of fixed costs - and you also deny credit to far more people who may well need a hand up.
+
+The hard truth is that the only way a traditional small dollar lender can break even on a 2 week loan is to honestly charge what people think of as a usurious level of fees to cover their costs. So how to make the industry lower cost for consumers? How to help the low-income, creditworthy people with their short-term finance needs?
+
+A variety of fintech companies, including my own, have sprung up to try to address this question, and some of us are exploiting the radically different cost structure that automation and operating online can give you, though we are all learning the hard way that there is no quick fix. Some people have also offered the answer of having the government provide subsidized loans at a loss. I’m personally skeptical of this model, but it is definitely a service the government can offer.
+
+No matter what, though, this is not an easy problem to solve.
+
+I’m part of the team at Fig Loans, a consumer finance startup that delivers low-cost financial services to people without access to the normal credit system. I’m sharing some of the insights from my work at Fig on Quora as part of a small campaign on our part to raise awareness of financial services for low-income customers with poor access to credit. The only payday advances I give involve candy bars.
+A$A$A
+If you don't have credit, or have bad credit, the interest rates on a payday loan in Ontario aren't that bad. But, as others have mentioned, there is high-risk in payday loan lending because of the amount of borrowers who don't repay. The bigger the pool of quality borrowers, the more likely a company will lower their interest rates (it works in a very similar way to insurance - it's all about risk). We realize that the industry is much different in the UK, but in the province of Ontario, payday lenders can only charge a maximum of $21 per $100 borrowed. Cheers!
+A$A$A
+Consider this; you replace the pipes in your sink. Now there are two ways you could do this.
+
+1)You order a technician to come next week. They order all the parts beforehand and get everything ready to come and replace your pipes.
+
+2)You neighbour wakes you up at 12:30am yelling that there is water pouring into his dining room and onto his original Lowry painting. You frantically call a plumber who changes all the pipes from the spare parts he had in his van.
+
+Now who is going to charge more? It is natural to expect that if you need an emergency service, such as instant cash, it is going to be expensive.
+
+I found this article to be a good explanation of why payday loans are so expensive.
+
+Why Do Payday Loan Lenders Charge Such High Interest?
+
+It is actually written by a payday loans lender, but when you read it you will see that it is actually quite a balanced view.
+A$A$A
+Blockchain technology is really changing the rules of the game! Now, next target is the loan and that’s done by Bitloanex, as they are the ideal platform for loan funding with interest rates of just 0.01%, it is meant to be the life changing solution for many!
+
+For people participating right now in their token sales, it is like purchasing a lottery ticket that guarantees you winning! I will not miss out on such jackpot.
+A$A$A
+Generally, the unsecured loans bear a higher interest rate. So as in the case of payday loans as well. They are unsecured loans, so they have high interest rates. You can even compare the unsecured loans to the secured ones. You will easily know the difference between the secured & unsecured loans. As there is nothing asked in return for the money, which is to be paid on the next payday, the interest rates are kept higher.
+A$A$A
+There are many people who complain about the high interest rates on a payday loan. It is important to realise that there are good reasons for this and that there are other loans which charge as much, if not more.
+
+Payday loans are available for everyone. This means anyone with a bad credit rating can still have one. However, when a lender is loaning money to everyone, there is a higher risk of people not being able to pay the loans back. They may charge more when this happens, but they will have additional administration costs to collect the money. They will also not have so much money available to lend to others. The debt may never be paid either and so they run the risk of never having the money they have lent returned to them. This means that they have to charge all of their customers extra money, so that they are sure that they will make enough money to cover all of their costs and have enough left to continue lending to other people.
+
+It is important to realise that although the costs are high, other ways of borrowing can be even higher. For example an unauthorised overdraft can be extremely expensive as there may be daily fees as well as interest on the money. If you look in the cost in actual value rather than percentage terms, then the cost of having a mortgage over 25 years will be much higher.
+
+It is important to understand how much the costs are and whether you feel that it is worth paying that much money. Only you will know what you need the money for and whether it is a real emergency. You will know whether you have nowhere else to turn and you will be in a dire situation if you do not get it.
+A$A$A
+Payday loans are used as a short term borrowing option for those that incur unexpected expenses they can not pay with their own income. Lenders of a payday loan will calculate interest charges based on the course of an entire year, despite the fact that the loan is often due to be paid back in the next month.
+
+When investing in any form of finance, it is important that you invest in a loan that is most suited to your needs, i.e a personal loan, a business loan or even a tax loan.
+A$A$A
+There are quite many smart answers that explain this. We can see that there are even experts who know how the things are going inside. To my mind it is necessary to understand that payday loan is an urgent solution when you have no time for other ways. Though, anyway if you have chosen this decision, you need to be really careful selecting the company, it is the first step. And the second step is planning the further actions. It is time for proper budgeting and planning spending. However, there is nothing impossible and moreover you get valuable skills. My decision was reading financial blog http://sterlingstore.co.uk/ where I have found lots of useful tips and how-to`s that provide readers with a kind of instruction. Anyway, be smart and persistent to gain your aim.
+A$A$A
+Payday loan it allows you to borrow money quickly and without hassle when you urgently need to solve a financial problem or have a small contingency without bothering to relatives, relatives or friends.
+
+You can get a loan for a month or a few months and is the best solution if you are thinking to cover the cost of wages or salaries next. That’s the main reason for these rates are so high.
+A$A$A
+Payday loans offer a quick cash for your needs. Whether you have a flat tire, or need money to buy a new fridge, payday loan companies give you that quick amount of money. Not all companies have high interest rates. Some companies like Swift Money have a repayment of £133 for the amount of £100 but only when it's over 30 days. This is quite affordable. You can Compare Top 10 Payday Loans if you need a deeper information on the subject.
+A$A$A
+While the APR rate is a required tool of measurement for Payday Loans, it is by no means a helpful or meaningful tool for measurement in this particular market niche. The APR (Annual Percentage Rate) by its very name and nature was designed specifically for measurement of interest across a yearly period of time. With this in mind, the APR is most suited to measuring the interest on products that span at least one full annual cycle.
+
+Using APR, the interest rates on Payday Loans are very large, but also very misleading on what the actual cost of this interest is for the period of time in which the loan is active. Payday loans by their very nature have an extremely short life cycle, lasting most commonly between 15 and 30 days. As the name suggests, they are intended to be paid off on your next payday.
+
+It is in the opinion of many, that a more helpful means of evaluating the worth and value of a payday loan is to look at the ‘relative’ or ‘real’ cost of the loan. That is, to take the actual cost – be it £25 in monetary value for £100 borrowed - over 30 days. While this £25 of charges and interest may represent an APR of 400 – 500% it is often far less in real money terms than the displayed APR would have you believe.
+
+It is a common rule of thumb, that the longer a period of time you borrow the more interest you will pay. A traditional loan borrowed at 7% APR over 3 years to the value of £10000 will carry interest payments to the value of £1100. The same borrowed amount and interest over 10 years will fetch interest repayments to the value of £3900.
+
+It can be far more helpful to look at the cost of taking a payday loan in cash terms, and to weigh this up against any alternative charges or payments you face. If the cost of the interest is cheaper than the alternative then it may be worth while, as long as you can afford the repayments. 
+
+In Summary, interest rates on Payday loans appear high because:-
+
+-         Payday lenders do take on board a high level of risk, over a short period of time and often with very little notice or security behind the repayments. This certainly does have a large part to play in the interest and charges associated with payday loans
+
+-         APR is not a good measuring tool for payday loans. The rate is often very misleading and not very helpful in assessing the actual cost of the loan
+A$A$A
+Payday loans also charge a high interest rate because the loan companies do not do credit checks. Generally, banks, credit cards and other lenders will assess how risky you are to lend money to by looking at this three digit score. A high credit score suggests you are likely to be able to pay them back, while a low credit score means you are more likely to default and so they charge you a higher interest rate. You also visit for more info. Payday Loan
+A$A$A
+A simple matter of supply, demand, and people’s willingness to borrow money at high rates for the convenience of ‘money now, check later.’
+
+The market will charge what the market will bear.
+A$A$A
+This is in order to offset the risks associated with providing credit to individuals with poor credit standing or may be at risk of defaulting their loan. This is what I've read in a post from a payday loan company.
+A$A$A
+Because these companies can charge it, and do. The people who use them have no place else to go to get money, so they are a captive audience.
+
+People who use payday loan lenders are typically the riskiest group when it comes to ability to pay-the high interest rate is an attempt to get as much return out of a group that may end up defaulting.
+A$A$A
+I have also taken payday loans from halvin pikavippi and I don't think their interest rates are high. They provided me the loan of amount 70000$ at an interest rate of 2%. If you want to take payday loans than must take a look at the above-listed link because here you can find more than 50 financial company who provides loans to the customer due to which it becomes easier to choose the financial company that will give loan at low interest.
+A$A$A
+I would recommend faircent . The loan application process was quick and simple and I received my load within a week. Better interest rate than other loan companies that I looked into.
+A$A$A
+The rate of interest is in theory a reflection of risk. The greater the
+
+ (perceived or justified) risks, the higher the interest rate.
+E$E$E
+
+Q$Q$Q
+Why are the Feds not insisting the supervisor of the Wells Fargo fraud not return her $125 million retirement bonus as a clawback penalty?
+A$A$A
+Dear Robin — thanks for the question. It’s a very important one.
+
+Let’s first consider what’s being reported in the media (source: Wells Fargo Fined $185 Million for Fraudulently Opening Accounts):
+
+Beginning in 2011, employees Wells Fargo (company) secretly opened up bank accounts and issued credit cards without the knowledge or consent of thousands of its customers.
+
+Fake email accounts were apparently established by those involved to sign up existing bank customers for additional online banking services.
+
+According to Federal banking regulators, approximately 5,300 employees were fired for their involvement including managers in the retail operations.
+
+It would also seem that the victims only learned of these abuses after they were hit with late fees, interest charges, and calls from collection agencies.
+
+In sum, rogue employees opened approximately 1.5 million bank accounts and applied for as many as 565,000 credit cards unauthorized by the bank’s customers.
+
+Now — to your question. Here are my personal thoughts. Let me add that I don’t know anyone in the executive ranks of Wells Fargo. So the commentary I give here is just conjecture on my part.
+
+It’s quite possible that the final chapter in this sad tale is still being written. Here’s why.
+
+First, the scale of the debacle in terms of the number of employees involved at Wells Fargo is significant, and suggests that the issues were indeed systematic. If I were on the board of Wells, I’d like to understand how such practices could have gone on for five years without catching the eye of the internal auditing and compliance teams. It’s a cliche, but the board is duty bound to understand who knew what and when.
+
+Second, I think the board also has a duty to look further into the financial reporting of the bank. All public companies have to comply with the Sarbanes-Oxley (SOX) Act, which means that the CEO and CFO have to personally attest to the accuracy of the financial statements presented to the public. One of the things that Wells was lauded for by the investment community was their strength in retail banking. Post financial crisis, few banks were as profitable in retail banking as Wells. To quote from The New York Times (company):
+
+“Analysts have marveled at the bank’s ability to cross-sell mortgages, credit cards and auto loans to customers. The strategy is at the core of modern-day banking: Rather than spend too much time and money recruiting new customers, sell existing customers on new products.”
+
+The revelations of the last few days undercut this narrative with the investor community. (At the time of this post, Wells’s stock price is off 5% since the fine was reported — a loss of $11 billion in market capitalization.)
+
+Third, and perhaps most important, while the size of the penalties levied are substantial, the fines themselves may not be enough to restore public confidence in the regulators. Said differently, the fallout from the sad affair has now become a political issue. As to how big of one we don’t yet know.
+
+Don’t be surprised if members of U.S. Congress look to get involved and hold hearings on the issue surrounding Wells, and some the business practices in retail banking in general. I don’t yet know if that will happen, but there’s been a lot of chatter about the rising cost of maintaining ordinary bank accounts, including overdraft and other types of fees levied on ordinary working Americans.
+
+According to a recent SNL Financial and CNN Money study, the three biggest banks in America — i.e., JP Morgan Chase, Bank of America and Wells Fargo — earned $6 billion just from overdraft and ATM fees alone in 2015. (source: Overdraft Fees: A $6 Billion Problem for Consumers). I also cite a study completed by the non-profit Pew Charitable Trusts (source: Overdraft Fees Disguised as Protection Are Actually Harmful High-Cost Credit). Note their findings:
+
+“The financial burden caused by these [overdraft] transactions is undeniable. Almost half of these consumers paid more than $300 in overdraft fees in the past year…. Nearly one-quarter paid the equivalent of one or more weeks of wages in overdraft fees.”
+
+“…research shows that these fees push consumers out of the banking system, either voluntarily or involuntarily, leaving them to use expensive check-cashers and other alternative financial services. The FDIC's national survey of unbanked and underbanked households shows that 31% of those without a bank account reported high or unpredictable account fees as one reason for not having an account — with 13% saying it was the primary reason.”
+
+For all of its sins, Wells was hit with a grand total of $185 million in fines, including a $100 million penalty from the Consumer Financial Protection Bureau, which was the agency formed in the aftermath of the 2008 Financial Crisis to protect the US consumer from predatory financial practices. (Wells also paid $35 million to the Office of the Comptroller of the Currency, which is another of the bank’s regulators, and $50 million to the City and County of Los Angeles.)
+
+But as your question suggests, is it enough? Only time will tell if the executive(s) who oversaw the retail banking unit will be able to avoid further scrutiny. Stay tuned.
+
+Edit 1.
+
+Federal Prosecutors Investigating Wells Fargo Over Sales Tactics
+
+Wells Fargo CEO Defends Bank Culture, Lays Blame With Bad Employees Wells Fargo CEO Defends Bank Culture, Lays Blame With Bad Employees
+
+And so the next round of inquiries begin ….
+
+Edit 2.
+
+Ouch.
+A$A$A
+Good question. From what we’ve been told, it sounds as if it’s the classic case where Wells Fargo’s directives from the top were vague enough that it would take a strong prosecutor to prove exactly what was being suggested.
+
+I’m reminded of the famous quote attributed to British king Henry II in 1170: “Will no one rid me of this troublesome priest?” A short while later, the object of his indignation, Thomas Becket, is murdered. Did Henry II order the murder? The insinuation is there. But it’s well short of an outright command to kill. Henry II can argue that he just wanted Becket deported, or to have him give up the priesthood, or something else milder.
+
+When it comes to a bank opening huge numbers of unauthorized accounts, the specific decisions seem to have been taken at lower levels. The folks up high may not have said much more than: “These are our new-account targets. We expect them to be met.”
+
+It could be that if prosecutors dug deeply into whatever records, emails, memories, etc. there are of Wells Fargo internal meetings, they’d find something more specific. But that’s an expensive hunt, and it’s embarrassing if it fails. Evidently, the prosecutors ended up with good enough evidence to levy a big fine on the bank’s shareholders, but not quite enough to go after the executives.
+
+Remember that the fine is negotiated by bank executives but paid by the bank shareholders. Not the bank officers themselves. So it’s fairly easy for the bank executives to sign off on big fines. It doesn’t hurt them. It’s a bit like an errant teenager being punished for erratic driving by agreeing to have mom & dad pay for the damages.
+A$A$A
+The FED, the Treasury Department, and the Comptroller of the Currency are not interested in punishing individuals. They hit WellsFargo with a large fine, got a bunch of low level staff fired, got WF to agree to put procedures in place so this would not happen again, and called it a day.
+
+Compared to the abuses by WF and lots of other players in the mortgage business leading up to the 2008 financial crisis this is minor.
+
+It does illustrate what can happen when banks adopt a “sales culture” and incent employees to sell financial products with inadequate controls.
+A$A$A
+Original question: Why aren’t the Feds not insisting the supervisor of the Wells Fargo fraud not return her $125 million retirement bonus as a clawback penalty?
+
+A2A….
+
+Probably because it doesn’t have the right to?
+
+Certainly, Wells Fargo can do a clawback if they so choose, as long as they can cite something contractually to do so, but if the government were to get involved in the contract terms between two private entities, or between a publicly traded business and any of its employees, that would set a dangerous precedent that few would welcome.
+
+Additionally, this is not a $125 million retirement bonus. Much of it is not vested, according to the articles I read, and some of it is accumulated wealth and promissory over her nearly 30 year tenure with the company. This is not, “Oh, you’re retiring? Here, have 125 mill… Thanks!”
+
+None of that is to suggest it would not be good or right for WF to comb over the contract terms and try to recover some of the money, but that’s an internal decision, not a government call.
+E$E$E
+
+Q$Q$Q
+What keeps you from publishing your work?
+A$A$A
+My early days with George, living on a beautiful island in Puget Sound, playing mother to his child prodigy painter of a daughter, with me a PTA mom at the ripe old age of 22, may have been the happiest days of my life. Emily Fisher's answer to How did you meet the love of your life, whether or not you married him or her, or if it was reciprocated?
+
+So far, George, who's been dead for 33 years, has proven to be the love of my life, even though I've had absolutely no sexual interest in men since 1980, 5 years before he died.
+
+Although he was 32 years my senior, I was also the love of his life. Finding someone who loved me as overwhelmingly as I tended to unrequitedly love others, was life-changing for me, caused me to instantly and entirely lose my lifelong mortal shyness, and really come into my own.
+
+Although my love was seemingly obsessive, it was equally so, and as long as we were together constantly, without any human distraction, we were riding the ultimate wave.
+
+(In my lush Whidbey Island garden)
+
+I'd always insisted on a life of rebellious determination for justice, and that angry battle had made me too frightening for the love of my peers. The fact that, secretly, I was all ABOUT LOVE, went unnoticed until I met the man of my dreams, and recognized him on sight as the love of my life.
+
+In the midst of a party at his house, we made mad passionate love soon after meeting, when we discovered we spoke a language no others had a means to interpret, though when they noticed the degree of our intensity, they tried their best to join in, unsuccessfully.
+
+I found that it took a like-minded poetic soul who'd seen the world, to recognize my until then ostracized qualities, and I knew immediately that I would do whatever I could to keep him in my life forever, though being a couple seemed out of the realm of possibility.
+
+During our initial love-making, which took place in the bed George shared with another woman, she walked in on us. But it was different, free-loving times, and she minded only because she, too, had enjoyed my fresh, young company, and was afraid he had taken advantage of me in a way that would keep me from ever returning to their on-going drunken festivities.
+
+Meanwhile I was scheming ways to find my way back, and was delighted to discover I'd left my sweater there.
+
+George was my dream love, had hung with Kerouac, Ginsberg, and many others who had inspired me to hit the road at 16. He was a painter, a poet, and all around magical, ethereal, love machine. I knew I'd be with him the rest of one of our lives, whether or not as a couple, and, indeed, I was.
+
+I was newly 21 when I met George, had spent my childhood hanging only with boys, then lived in women-free zones for some years (a Here-Comes-the-Brides type of Wild Westdom, followed by a 2 year culinary college in the days when that was strictly a male profession). I'd become a wild barfly, too, which is also a male role, as I'd never met women who could keep up with my drinking.
+
+I'd been blessed by having spectacularly unusual men in my life, and I assume it was that, combined with the unnoticed absence of women in my life, that kept me from realizing that it was women who attracted me sexually.
+
+During our first few years of island bliss, I was exposed to other women for the first time since I'd become sexually active. Then, at 25 years old, I unexpectedly fell in love with one. Her name was Michele, she was straight, unfortunately, and drove me completely out of my mind. Michele was beautiful in a young Liz Taylorish way, a painter, extremely overweight, married to an emotionally abusive silent tyrant.
+
+She wouldn't have me, except in drunken bits, very infrequently. I was open with George about my initial attraction, and in his free-love, Beatnik way, he was not only fine about it, but encouraging, especially about my writing, which had started up again after a 4 year block. I suspect he'd also assumed she'd never give in to sex with me, sex, which had become off limits for him, aside from my daily suck-off as a -- for me --completely unlibidinous gift for the man I adored.
+
+I wrote to Michele daily, spent most days with her, and loved her so much it absolutely broke me.
+
+My persistently irresistible sense of adoring surprise increasingly enticed her into loving me, too. But she was petrified of being with a woman, especially under the watchful gaze of her parents, who lived near her and whose shop was next door to hers.
+
+For 2 fractured suicidal years I lived only to see her, and would literally think I was dying if she or I had to leave the island we lived on, even for a day. My daily writing to her became what, until that point, was the biggest writing spree of my life. As we lived close enough to one another, on an island, I'd hand deliver her the letters, or sneak them under the door of the house she shared with her thoroughly disengaged, emotionally abusive husband.
+
+The "letters" I wrote her turned out to be the best psychoanalysis I've ever received, even if I did give it to myself. I tore my soul apart, every day, in an effort to understand my neglected babyhood and childhood, and the way they affected my relationships with others, the psychological impact of this woman's own past, George's troubled background, and every fucking thing else.
+
+Of course the letters also included a lot of seduction. After all, these were the years I still considered myself duty-bound to fix everyone's life, whether or not they were willing, and I saw no reason for such a vibrant, creative woman to be stuck in a loveless marriage.
+
+I never actively tried to lure her away from her husband, but at every turn I offered something better, beginning with the thankless task of trying to convince her of her worth by explaining the psychological reasons behind her lack, which I'd discovered by my internal digging.
+
+I brought my lifelong expertise in unrequited love into play, endlessly finding new ways to thrill her. We spent most every day together, and any day we didn't, made me increasingly frantic. Although I didn't try to lure her from her husband, I did think of a way to lure him away from her.
+
+He was a game fanatic, which in 1980 was either pinball or arcade games, as there were not yet home video game consoles. It was around Christmas time that the first home joysticks made their appearance, and since I was spending Christmas with them, anyway -- the only Christmas I’d ever attended -- I made sure to rack up credit card debt I couldn't afford, in order to secure one of those for him.
+
+It wound up being the first one on the island, and kept him and the rest of the island's fanatics locked up and out of my way.
+
+I demanded past life readings from strangers who knew nothing about me, and in every one of them there were suicidal writing themes that mimicked my current life, right down to descriptions of women who looked and sounded like Michele. Of course this made me feel more crazily doomed, and ready to do anything in the world to make her mine.
+
+I'd say I had an official breakdown over her that lasted 2 years. The breakdown became the most important thing to me, like a job I worked at overtime and took home for bonus points. That consisted of dropping everything else of importance, including my ability to pay bills, tend to my man and child, or take care of business in any way.
+
+I had always been pretty fanatical about paperwork, felt I needed to deal with it right away, or you just wouldn't know what might happen. That tactic was clearly a result of my mother's absolute hysteria about bills, phone calls, or any sort of paperwork that had even the vaguest deadline.
+
+The way I'd found to prevent the possibility of mimicking that sort of behavior was to nip it in the bud by dealing with everything instantly. Numbers, and all Math, had been my favorite things, even before school, and for me paperwork was sort of like flossing your teeth, something I do every day whether I like it or not.
+
+A few times, for various family reasons, I was forced to leave Michele, and would spend the entire time with breathless anxiety attacks, sobbing myself blue-faced. Everyone suggested I get professional help, as I'd become unable to function in the slightest degree, but my obsessed frenzy invented endless reasons why this was impossible.
+
+Undoubtedly, in my youthful neurotic exuberance, at a time when I devoured nothing but 19th Century novels, I must have found something irresistibly romantic about fading away for love, in Camillesque fashion.
+
+Then, on my way down to an inevitable family gathering in LA, in the midst of sobbing so hard I disturbed everyone on the plane, I had a revelation of sorts. I decided then and there that I'd use being away from Michele as a starting point to healing, and would not return to the island until I'd completed the task.
+
+It was April, and the jacarandas were in bloom in LA. I'd never witnessed them before and was overwhelmed by their magnificence. From there I went to visit friends in DC, just in time for the cherry blossoms, then off to New Jersey, at that magical time when the dull green turns into furled pre-leaves, then on to full bloomage.
+
+After that I hit Boston, then Maine, just in time for their own versions of magic seasonal tree explosion. In other words, I spent the entire season following Spring as it burst forth from the bottom of the East Coast to the top, and this proved to present an automatic cure; I, too, burst forth, and discovered it wasn't only Michele I loved, but ALL women.
+
+When I returned home to the island, a new woman, freed from my chains, I felt liberated, raging with a high that enticed me into becoming an unstoppable woman-chasing stud.
+
+Before I knew it, I had my first official girlfriend. She’d actually come after me -- a first, and so far last, for me. For 2 years I'd thought of little but sex with a woman, and now, though not the right woman, my prayers were answered.
+
+This new woman was smart, funny, loved me and seemed to get me. She lived in Seattle, off the island, and found me through dyke circles by hearing of my love for Michele, whom I never pretended I'd stopped loving or wouldn't go to when I could. At any rate, there was now a woman in my bed.
+
+But much of my attraction to women was about softness. I've yet to fully recover from not being breast-fed by Cora Belle, the woman who raised me, has been dead since 1974, and who my last dog was named after. Emily Fisher's answer to Who has been the most important person in your life and why?
+
+Cora Belle, who was round, soft, and loved me fiercely, didn't come into my life until I was 2 years old, so obviously couldn't have breast-fed me. My mother, who was sharp bony points and meanness, had chosen not to breast-feed me.
+
+Call me a cliché, call me a misogynist, but ah luvs me sum titty. If fat Michele hadn't been fat, she would have been completely flat-chested, but it didn't matter because her entire body was like a giant soft breast.
+
+Unfortunately, the woman in my bed was not only completely flat-chested but was so angularly bony/skinny there was no comfortable -- let alone sexual -- way to get cozy with her.
+
+Sharp bony points reminded me of meanness, and that wasn't good. As a small child, walking city streets with my mother had been a balancing act. It wasn't safe to be too far from her because she tended to forget she even had children, but getting too close could easily mean an eye put out, or a nose broken, by the honed elbow of that angrily swinging arm.
+
+This was the fat and skinny of the situation as it stood 35 years ago. It was Skinny's 30th birthday and we were in her bed, in the city, not yet having woken up to the day, which was to be spent together with birthday delights. Then, we were awakened, early, by the telephone. It was Michele calling to tell me her vibrant father had just dropped dead.
+
+Of course I ran to her, stopping only to load up my car with gourmet treats not to be found on the island, because Jews live to feed those who are in mourning. I'd already, repeatedly, offered Michele a more fulfilling, loving life, so what could I do for her now, aside from devour chocolate and pastries with her, neither of which I ever ate, ever?
+
+2 years and 2 days later, George was also dead. I'd tended to him at home, having convinced University Hospital in Seattle to train me in the use of machinery which had never before been used out of hospitals. Not knowing what else to do with him gone, I moved to LA and dabbled in the music business.
+
+Many years later, I was back on the Island, visiting my friend, Shanti, for her birthday, staying at her house. After partying for hours, only Shanti, Michele, and a couple of others were still there. The night had been fun, or so I'd thought. When things wore down, Shanti somehow wound up spinning out about how envious she was of me and Michele for getting to watch George die, that she'd always wanted to witness death and thought she'd be good at it.
+
+By 4 AM the lights were low, the music loud and lovely. Shanti, the other two and I, were still dancing. Michele, with her back to us, was bopping to the music while drawing it all at the drafting table. I looked up and got a delicious rush of nostalgia, remembering the early days of George, Michele, me, and my dog Cricket, before anyone had gotten hurt, when Michele hung at our Cultus Bay house after hours. George and I would be dancing, Cricket jumping in, and Michele would bop along, drawing it all.
+
+It was such a sweet wave I was hit by, suddenly, that I was inspired to run over to share it with Michele. When I did, she turned to me and started yelling, profusely -- about, essentially, how miserable she was made by my mere existence. Her explosion was so extreme it caused everyone else to run out the door in fear and embarrassment.
+
+The others ran home, and Shanti finally came back into her own house when she saw Michele slam out. She found me pacing the floor, red faced, and pulled me onto the futon with her. My heart was beating extra hard and I was stunned; it was so out of left field, since Michele and I, over the years, had remained good friends.
+
+"What the hell was that about?" Shanti asked.
+
+"Fucked if I know. Am I the only one that didn't know she feels that way? Has she talked about it?"
+
+"First I heard of it, too," she said, "It was pretty shocking, would be for anyone to sound like that, but Michele? Not exactly one to pour out her feelings!"
+
+"I know! I'm guessing she resents depriving herself of a life she could have lived with me, and blames me for exposing her to alternatives. Lots of what she said didn't seem to make sense, but I wasn't about to interrupt. Actually, I never said a word, just let her run on, and when she was done she was still running, ran right out the door!"
+
+Suddenly my lip felt large and odd.
+
+"Hey, Shanti," I said, "look at my lip -- does it look funny? It feels all, sort of swollen."
+
+She took a peek.
+
+"I don't see anything," she said.
+
+The next moment it felt like my lip doubled in size again.
+
+"Whoa! Whoa! Look again! Something's up with my lip!"
+
+"I still don't see anything," she said, her party eyes red and glazed, unfocused in the dim light.
+
+But I could feel my lip, with lightning speed now, bubbling up and over. I yelped, and ran to the bathroom to see for myself.
+
+In the second or two it took me to get to the mirror, my lip had grown 5 times it normal size, and within the next couple, my face had doubled along with it. I broke into a sweat, and simultaneously had to shit and puke. I'd never been allergic to anything in my life, but recognized disaster.
+
+"Shanti! Call 911!" I screamed.
+
+Shanti, who'd followed me upstairs, started running in circles, yelping, "What, how, what do I do?"
+
+"Call 911!" I repeated.
+
+"How?? What do I do? How do I call?"
+
+By then I was sitting on the toilet with a world of pollution pouring out of my butt. It was fortunate her toilet sits right next to the bathtub, because I was throwing up, as well, and sheets of water were flying off my body.
+
+Clearly, the woman who less than an hour earlier had admitted that partaking in a mortal emergency was one of her life's dreams, was not going to be of much help. Somehow, I had to think, even though I could tell I was about to lose consciousness and didn't know if I was moments from passing out, or from dying.
+
+"Forget it. It's too late for 911," I screamed. "Call Ron Lind (the pharmacist) and tell him to get over here with some injectable Benedryl, preferably with some adrenalin."
+
+"What? What? What do I do?" Shanti shrieked, still flying around in circles.
+
+I don't much know what happened after that. A more functional friend appeared with Benedryl, a couple other friends appeared, too, and it all became sort of back-in-bed-in-Kansaslike. I spent a couple of days in Shanti's bed, doped up on Benedryl, which I knew was not to treat an outside allergy, but an allergy to my own tortured soul, which had happened to me one time before, nearly 30 years earlier, also based on unrequited love. Emily Fisher's answer to Have you ever been to the emergency room? Why and what happened?
+
+After the face blow up catastrophe, I kept my distance from Michele. Maybe I don't know when I'm not wanted, but I can learn.
+
+Many years later, after I'd moved to my desert castle Emily Fisher's answer to What does your dream retirement home look like?, I ran into Michele for the first time since my frightening near death catastrophe. I'd had no desire to ever visit the Island again, as the desert had exposed my hatred for the Northwest; I was only visiting there to renew my driver's license, since I'd maintained my Washington State residency forever, because they have no state taxes.
+
+During that visit, thousands of years of intertwined past lives got in the way, and I became heated with Michele in the opposite direction.
+
+We decided to go for a walk on the beach. It was one of my favorite spots and one I knew I may never see again. I'd wanted to hike with her up my favorite beach bluff, a breathlessly sexy endeavor. But Michele was too huffy & puffy for that.
+
+So I consoled myself with a laying on of hands. We rolled around on the beach, the only ones there, kissed and moaned in a driftwood lean-to someone had left behind, and watched 2 loons perform an Animal Planet mating dance, standing, it appeared, on top of the water with their giant wings beating ferociously.
+
+When I got home to the desert, I felt abused. Sure, I'm aware of myriad lives Michele and I have spent together as thwarted lovers -- in many of which I killed myself over her -- but that doesn't mean I have to be a slave to her now. After more than 20 years I was just tired out. So I got an official exorcism, and stopped thinking of her, haven’t seen her since.
+
+But my MySpace blog began to draw out so many life stories that the tale of my first woman seemed to pop up with unexpected frequency. The most annoying thing about that was that I heard from various sources that she read my blog. I don't know whether or not this was true, but in any case, she never gave any indication of stopping by, so I ignored the possibility.
+
+When George died, I knew I had to fill the time I'd spent nursing him with a real job, and since my career as a chef had ended after a car accident destroyed my back, I had to think up a new way to make money.
+
+My attention to George had absorbed my heart, and I hated the idea of doing something that didn't. So I gave it some thought and realized the thing closest to my heart was music, and though not myself a musician, I decided I could only be happy doing something in that world.
+
+When I considered the options there, I thought what I'd be best at was artist management, as I was feisty, unintimidatable, had knowledgeably honed musical taste, and was experienced in taking loving care of people, especially complicated creative types. Even though I'd never really had the patience for school, I had nowhere to start, knew nothing about the business, so figured schooling may be my best bet.
+
+I had expected to find something in LA -- the music business capital -- where my 6 years older sister lived. And I looked forward to finally forming a relationship with her.
+
+We had bonded for the first time when her long term partner had been murdered, 2 years earlier, and then again when she was with me at George's death bed, along with Michele and George's son Bruce, who 20 years later built my desert castle.
+
+But in 1985, my pre-computer research surprised me with the information that the only actual music business school was in an as yet undeveloped Atlanta. Deep in the Louisiana Bayou, the KKK had burned down my house, in 1973 Emily Fisher's answer to Have you ever had a run in with the KKK?, and I'd vowed to never again live in the South, so this created a problem.
+
+My sister presented an option. She was (and is) a movie producer in LA, and she insisted I'd be better served jumping into the fire, unschooled, with only my innate talent and her connections to guide me. Although soundtracks hadn't hit the big time yet, and music wasn't near as important in movies as it later became, the two businesses were linked enough that she knew plenty of music movers and shakers.
+
+As opposed to everyone else she'd ever met -- and plenty of complete strangers -- I'd never asked her for a damn thing, of which she was well aware. She wasn't about to put her reputation on the line for someone as thoroughly anti-establishment and uncareer-experienced as I, but she was perfectly willing to set me up with big dog interviews I'd never have been able to acquire otherwise. From there it would be up to me.
+
+I met plenty of music business folk -- including those who managed giant stars -- and already knew lots of the close friends of my sister's murdered boyfriend, who represented the alternative music world.
+
+My lack of experience and inability to type, passed me over for full time jobs, but really, the most attractive thing to me about LA's musical work force, was that there were so many damn project jobs that, with a little spunk, it was easy enough to score enough employment to pay the bills.
+
+This also allowed me plenty of free days to write, hike the Echo Park hills I'd settled in, go out to hear live music most every night, and generally enjoy the cabin I'd found for very little rent in what felt like wilderness, allowed large yard nakedness, and year round outdoor sleeping, but featured one of the finest close up views of downtown LA I've ever seen.
+
+On the side, I took some UCLA Extension classes in music management, found unusual bands with whom I fell in love, and offered them my increasing managerial skills at no cost, with no return.
+
+When people asked me what I did -- a question I've always hated, but find impossible to avoid wherever other humans are involved -- I tended to answer, "Odd jobs; the odder the better", and most of my jobs were offbeat enough that I didn't have to report at "normal" hours, so could avoid the freeway crunch.
+
+I'd never expected to actually like LA, thought I'd only be there a couple of years to pick up some music business skills I could then bring back to Seattle. But I fell in love with my cabin in the hills, had started writing again after years of slump, during which time Seattle became overrun with Californians, and I began to lose interest in returning. Besides, I had other relatives in LA -- all of whom I liked, and barbecued with often. Then, suddenly, they all started having babies.
+
+I had always been the only baby fanatic in the family; most of the others had never even changed a diaper before those of their own offspring, but George was the only one whose babies I'd ever wanted. Though I wasn't particularly ready at the time, my trying to get pregnant by him had become a sub-plot of his 2 year illness, but hadn't proved fruitful.
+
+Suddenly, I was Auntie Em, and digging the hell out of it.
+
+I discovered that LA was such a serious music town that when I'd go out to hear music -- always alone -- I could get into an overpowering dancing groove that would take me away, turn my body into another one of the band's instruments. As opposed to anywhere else I'd ever lived, I found that men did not interpret this as a sexual come-on.
+
+I wasn't looking for attention, only to get my groove on, and the only attention of which I was aware (with my closed eyes) was when bands would sometimes ask me, alone, to join them on stage. There were plenty of other women grooving by themselves as well, and people left us the fuck alone. I can't tell you how much I appreciated this, and have never really seen it in any other city.
+
+In Echo Park, when I began writing a lot, I lost the momentum to even seek employment. To support myself, I was playing the credit card shell game: grabbing on to new offers of 0%, for a minute, switching over my high interest cards, applying for any card that came my way, and creating invented jobs with larger and larger annual incomes, until I'd wracked up a credit portfolio of half a million dollars, while I actually had no income at all.
+
+At first I made a point of paying off the debt each month, because the mere idea of debt petrified me, as it suggested the need for full time slavery in order to merely get by. It wasn't long, though, before I had so many cards running, that regardless of the opposing evidence, I began to feel wealthy.
+
+Ha ha on them? Felt like it, but I was the one who was developing an increasingly bulging debt I assumed would be paid by magic. Consequently, I'd continued my body-vibrating bedtime visualizations for a lot of years, and they'd come to include financial reparations.
+
+I suppose you're wondering what the fuck all of this has to do with why I've never even attempted to get published? Who could blame you? I hope you've been amused so far, because I'm afraid the ending is going to be rather blunt, and depressing.
+
+One day, while still living in LA, I was doing crunches on my floor -- because I was one toned ass, aerobicized muthafucka at the time, between wee-hour post-club gym visits, along with all that hiking and dancing. In the midst of my millionth sit-up, I spotted something under my dresser I hadn't noticed before. Curiosity got the best of me, so I crawled over to dig it out and investigate.
+
+Low and behold, it was a folder full of all the love poems I'd written Michele the year when, suddenly, daily prose to her didn't feel as though it made my heart bleed enough. I'd forgotten about these, and hadn't looked at them in nearly 10 years. Not too many people had seen them, but I knew there were some good ones, and Peter, my sister's murdered boyfriend, had sworn there were many songs-to-be among them. Emily Fisher's answer to What are your favorite self penned poems?
+
+Oh, lawd. I did not feel even vaguely enticed to dig into that shit. But I tend to be Curiosity's Bitch, so decided peeping one or two couldn't hurt.
+
+I don't believe it was the actual content of any of the poems I chose to read at random, more likely the mere thought of Michele, who'd been out of my head for quite some time. Or maybe it was just my moment for revelation.
+
+But my breakdown over her had somehow encompassed every fear that had made me who I was, and therefore crushed me into a blithering idiot.
+
+As I've mentioned, during those 2 years I'd let my entire life slide, giving free reign to my tortured heart, which left me no time to attend to anything else.
+
+I'd become a proficient crier, probably broke records, along with the blood vessels in my cheeks, nose and eyeballs. That collapse was a defining moment for me, and when, after 2 years, it ended, with the same unexplained immediacy as have all my large funks since then, I vowed to never again allow myself to sink that low -- to the point of preferring death -- and have kept that vow all these years.
+
+But for whatever reason, when I was reminded of those days, I realized for the first time, that when I'd met my sudden Springtime cure, it was with so much exuberance, such a desire to celebrate my freedom, that it had never occurred to me until that very mid-sit-up moment, that my cure hadn't included regaining my ability to function properly.
+
+To the contrary, in those 10 years, I'd become far more dysfunctional! The realization nailed me to the floor, sobbing to a degree I hadn't attained since my release from Michele. The fact is, I was scared shitless, as much by the evidence that I'd been so uncharacteristically un-self-aware, as by anything else. And while reality sank in, my fear grew.
+
+How could I -- who had prided myself in my ability to self-analyze -- have, for years, become increasingly incapable of doing the slightest thing, without even noticing?
+
+Stunned, I sat on the floor and thought about how my life had gone.
+
+When I'd left home with a chip on my shoulder, unconsciously it was my mother's fear of chaos I was rebelling against. My early childhood refusal to recognize that had led me to an obsession with numbers, which represented a system of order. I had lived and breathed Math; complex mathematical problems, worked out in my head in the middle of sleepless nights, had offered me some semblance of control.
+
+Michele had stolen my soul -- or, more precisely, I'd offered it up to her -- and part of my complete breakdown included consciously allowing myself the privilege of non-responsibility.
+
+It was only in contrast to my previous insistence on fanatically keeping my paperwork tight, that, at the time, I was able to recognize how I'd let things slide. But there was some glee attached to that. I'd felt I had a legitimate reason to ignore obligation, and the fact that my crisis was love based, had made it all the more admirable. It dragged me further from the world of Mathematician, and deeper into the freescape of artist/writer.
+
+I dismissed the needs of my man & child, and concentrated on the beauty of disintegrating my soul. You see, in a sense, to give up control entirely was a form of freedom. Living among my siblings had required me to look over my shoulder at all times, and to frantically row against the tide, simply in order to keep afloat.
+
+And then there was George, someone whose sensibility I'd trusted to steer us to safety, even if he was rapidly becoming the town drunk. But it wasn't too long before I stopped noticing that what needed to be done wasn't being done. George, by then, had progressed from Evolved Arty Lover Who Supported the Idea of Me Lusting After a Woman, into semi-amusing barfly, out for self-destruction.
+
+Eventually, it stopped occurring to me to consider necessity at all, choosing instead to drown myself in unrequited misery, which I would take to as a work-a-holic might to an esteemed job.
+
+And there it is. Any number of things have happened to me since then, including another woman, the woman of my dreams, who I'd been with for 7 years, with whom I'd expected to spend the rest of my life -- with her replacing George as my greatest love -- turning out to have been lying every time we'd discussed anything of import, and to have been leading a secret existence that put not only my heart at stake, but also my life.
+
+But before I was to figure that out, my monetary visualization ship came in.
+
+Billy, a cousin of mine, very unexpectedly left me some money when he died from long term melanoma. He was just a few years older than I, and had made a killing with a roofing business. Billy was my mother's sister's son, a middle one of 6 children, all of whom were very close, as they also were to their mother; their father had been dead a while.
+
+As Billy had remained single, I'd assumed he would leave his money to his family. But it turned out he'd spent 6 years working out a complicated will left to 15 people, none of whom were related to him but me.
+
+I can only guess he wanted to support my life choices, since he'd always honored them.
+
+It was probably enough money for me to live on forever, but I chose, instead, to leave my lovely Seattle home, and be guided to a desert wonderland, to rocks who suggested how to build a home among them without incurring their wrath. What I have built here has far surpassed anything I could have imagined, but also used up all my money, before I could thoroughly complete the project.
+
+I have an innate sense that I have done the right thing in offering this magical dwelling to the universe and those who trample it, and I'm convinced the universe will also do the right thing, by somehow compensating me.
+
+But the more my dreams seem to be coming true, the less I seem able to participate.
+
+In my youth, any revelation of Self included an automatic fix of whatever problem had arisen due to it. But for some reason, since my 1990 Knock-on-the-Head realization that I hadn't in fact ever recovered from my Michele breakdown 8 years earlier, my ability to take care of business has only grown.
+
+I'm not opposed to throwing up my hands and begging for help, to seeking any kind of psychological assistance I may be able to find. And I have sought just about every type you could imagine. Yet, if anything, my capacity for competence has continued to shrink. More so since my Quora addiction.
+
+I may have felt fine, blessed, as The Queen of My Desert Castle, but even before my physical paralysis -- due to a back situation that eventually required surgery -- I had become increasingly paralyzed, emotionally, when it came to getting anything done at all.
+
+It was while recovering from back surgery that I broke down and got a laptop, and a satellite to run it, as there's no other means of internet access where I live. Almost immediately my friend, Candye Kane, turned me on to MySpace, and insisted I start blogging. I wasn't sold at first, but pretty quickly got sucked in.
+
+Try to picture this. When I say, "I can't get anything done,” chances are that the degree of which I'm speaking is far beyond anything you've ever experienced. I admit to still being good in an emergency, and if someone else is in crisis I can probably rise to the occasion of their need. But I absolutely can not lift a finger to orchestrate anything that could even vaguely be confused with my life.
+
+Yes, I was a fabulous 24/7 nurse to my dying mother, serving also as pharmacologist to sort out the increasingly complex mystery of various doses for the terminally ill. But I am absolutely not exaggerating when I swear to you that the only thing I can do for myself at all -- besides floss my teeth daily -- is to write.
+
+You might argue that, shit, barely anybody can actually get around to flossing their teeth daily. And that degree of written output by one of her advanced years is pretty impressive. But what can I tell you? Life's complicated. I can do that. I can floss and write. But I can't do any fucking thing else, no matter how much I really want to. Truthfully? In the last few weeks flossing has become a little irregular for the first time ever.
+
+For as far back as I can remember, my biggest dream had been to write and publish books. I've always felt that the thing setting me back the most in the writing department was some thefts of my work that left me feeling frightened and crippled. But I'd also always acknowledged the possibility of fear of failure/success, alongside the realization that I might just have to wait til my mother was dead before I'd feel safe enough to reveal myself publicly.
+
+Then, in 2005, as soon as I began to blog, I knew that a line had been crossed, that I no longer feared either failure or success, and that even my mother couldn't stand in my way.
+
+Right after this, my mother discovered she had advanced Lymphoma, and even though I’d long ago lost my adolescent sense of being a superhero, part of me wondered if I’d sacrificed my mother, same as I had my father. Of course I realize that's absurd, that I don't have control over life and death, and I'd done my damn best to keep my mother alive. But I'm just sayin'.
+
+There was a pretty important agent interested in seeing my work. She'd heard me give my mother's eulogy, and was impressed. How's that for having it reinforced that my mother had to die before I could publish? By then, 99% of my writing was in my blog (though also in a desktop folder), and I'd had to format everything for MySpace in a way that would not be acceptable to an agent. I had so many damn pieces by then, too, that it would have been a real task to go through them all, figure out what was what, reformat some, and send them off to her.
+
+But what a small task, you might say, considering the possible gain! What you're not taking into account is that the task involved neither flossing nor writing. Therefore it became increasingly obvious that it wasn't going to get done, not by me alone, at any rate.
+
+How absofuckinglutely pitiful! Earlier in life I may have shamed myself into getting it done, but menopause removed whatever small amount of shame I may have ever carried.
+
+And so this, my dear friends, and only this, is the reason I'm not some form of published. Not because there's any issue between me and publishing -- I'm more excited and feel more ready than ever in my life, and never have the possibilities felt so realistic. Not because of that, but only because there's an issue between me and EVERYTHING.
+A$A$A
+Do you mean, “What keeps you from submitting your work?”
+
+For me, the answer is absolutely nothing.
+
+Do you mean, “What keeps your work from getting published?”
+
+I don’t know. All the rejections I’ve received have been form rejections, which don’t tell me “why” they rejected.
+
+Do you mean, “What keeps me from self-publishing?”
+
+I have done so with a couple of non-fiction books and a couple of short stories but, while I know the stigma attached to self-publishing has decreased significantly in the 10 - 15 years, I’d still rather get my fiction published in the more traditional way.
+A$A$A
+I’m kind of selfish, wishing I could publish the handfuls of poems I write. I just don’t want people seeking the poetry I write by doing anything too drastic.
+
+But here are my reasons.
+
+I’m young. Fourteen year-olds are regularly ignored, even the brilliant ones (for the most part). And anyone who’s read any of my answers knows that I’m nowhere near that level of brilliance to potentially not be ignored by rude adults.
+
+I write poetry, but I’m no Emily Dickinson or Robert Frost. While I would like to think that I have skill with writing, and that I’m getting better, I’ll face the reality that I can’t write nearly as well as many poets. I can’t captivate people like well-known poets can/could.
+
+Financial things. Like a lot of teenagers, I have barely any money, and all the money I have is stuff like gift cards to various things that I can’t redeem for actual money. Shame, seeing as I could really use the physical money.
+
+These are the three main reasons why.
+A$A$A
+Oh, I’ve been published. I’ve been published in little art journals; in one-off poetry anthologies; even by academic publications (Judaism Quarterly, for example).
+
+Much of the publication, however, has been for extensive uncredited editing and rewriting. I worked for a year or two for a rabbi who was writing a scholarly book about the Jewish community in Cuba post-revolution. No credit, of course, but my handiwork is all over that book. An article about Orthodox vs. Reform doctrine? Yep, I’ve helped write that.
+
+I’ve been published in many, many obsolete publications. I’ve published my work in blog form, poetry, essays, opinionated rants, articles, academic endeavors, theses and yes, Quora answers.
+
+The thing is, though, that I keep thinking I would write a book about my own, rather remarkable, life, but then I get a massive case of the doubts, and go on to scribble other, less consequential, missives.
+
+(PS I’m also a voluminous letter-writer.)
+E$E$E
+
+Q$Q$Q
+Which forgotten woman scientist should we remember? Why?
+A$A$A
+Stephanie Kwolek, a chemist at Dupont, invented Kevlar.  This strong and lightweight polymer is best known for its use in bullet proof vests, but also find application in tires, in airplanes, and as a supplement to steel in bridges.  She died last week: The New York Times.
+
+Agnes Pockels was a German chemist who did not attend university (women didn't have access at the time), but learned science via correspondence with her brother who was an important scientist as well.  She measured surface tension in her kitchen sink, and  published her paper in Nature.
+A$A$A
+I'm partial to Dr. Sarah Josephine Baker — One of my personal hero(ines).  I have a soft spot for medicine, an even softer spot for women who broke EVERY rule to achieve great things, an even softier-soft spot for a lesbian who . . . well, you get the picture.
+
+Sara Josephine Baker
+
+Dr. Baker was not a "scientist" in the laboratory sense, but she was a medical doctor who excelled at family medicine and was one of the first epidemiologists and not "one of", but literally the world's leading expert on infectious diseases.  She was a tireless worker for women & children's health.  She contributed incredibly to public health in general. 
+
+She was an astute investigator and tracked the Typhoid outbreak in NYC back to the woman known today as "Typhoid Mary".   So beloved was she, that the Brits and French both offered her careers in their nations.  This would be an accomplishment for a connected man.  What it says for Dr. Baker and the insane hills she climbed simply brings me to goosebumps.  That she isn't celebrated with an annual parade in her honor every year is beyond my comprehension.
+A$A$A
+Did you know that the first six programmers on the ENIAC, the first electronic general purpose computer, were all women? They were  Kathleen McNulty, Betty Snyder, Marlyn Wescoff, Ruth Lichterman, Betty Jean Jennings, and Fran Bilas. Programming languages and tools didn't exist at the time, only logical diagrams, but they wrote programs to solve differential equations.
+
+[Betty Jean Jennings and Fran Bilas]
+
+
+
+Pickering's Lab at Harvard had four brilliant female astronomers a century before Harvard allowed women to graduate with "Harvard" on their diplomas:
+
+Williamina Paton Fleming discovered and classified 79 stars, 10 novae, 59 gaseous nebulae, 94 Wolf-Rayet stars, and 222 long-period variables,
+
+Antonia Maury, developed a method of spectral analysis that led to the classification of giant and dwarf stars,
+
+Henrietta Swan Leavitt discovered luminosity-period relations for cepheids, which allowed us to calculate the distance between earth and other galaxies.
+
+Annie Jump Cannon    - came up with the first scheme to classify stars based on temperature.
+
+Here's a picture of the researchers in Pickering's lab:
+
+
+
+
+
+I'm not sure if this counts (there are several reasons it might not), but there's also James Barry, born Margaret Ann Bulkley who was the first British surgeon to perform a Caesarian section. He was anatomically female, but went to medical school as a man and lived as a man for most of his life. Wikipedia says he did this because one had to be a man to go to medical school at the time.
+A$A$A
+Lise Meitner- worked on radioactivity and  nuclear physics.
+
+Meitner was part of the Hahn-Meitner-Strassmann-team that worked on "transuranium-elements" since 1935, which led to the radiochemical discovery of the nuclear fission of uranium and thorium in December 1938, Her colleague Otto Hahn was awarded the Nobel Prize for Chemistry in 1944 because of this discovery but not her.
+
+Meitner is often mentioned as one of the most glaring examples of women's scientific achievement overlooked by the Nobel committee.
+
+Element 109, Meitnerium, is named in her honor.
+
+Dorothy Hodgkin-  Nobel Prize in Chemistry in 1964.
+
+She advanced the technique of X-ray crystallography, a method used to determine the three-dimensional structures of biomolecules.
+
+
+
+Ada Lovelace (Not exactly a Scientist) - an English mathematician and writer chiefly known for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. Her notes on the engine include what is recognized as the first algorithm intended to be carried out by a machine.
+
+
+
+Tessy Thomas- Project Director for Agni-IV missile in DRDO. She is the first woman scientist to head a missile project in India. She is known as the 'Missile Woman' of India.
+
+Image & Sources- Wikipedia
+A$A$A
+The Second World War is described as the deadliest human conflict claiming more than 50 million lives. But it did create opportunity for a few. Like Rosalyn Sussman Yalow.
+
+Rosalyn was born in Manhattan in 1921. Right from childhood she was fascinated by the world of science, and wanted to create a career in physics when she grew up. But such an option was nonexistent for girls those days. She learned typing instead, and joined the Columbia University as a secretary and later became a steno, in the department of biochemistry.
+
+A peek into the subject of biochemistry turned quickly to an infatuation but no one could imagine that such a casual fling would end up in a serious lifelong relationship, producing offspring that would change the way we look at medical science today.
+
+World war needed a large number of men to be drawn into the cauldron, leading to dearth of teachers, giving young Rosalyn a chance to join university of Illinois as a faculty in 1941. The famous department of physics boasted of 400 men as staff members, now had one more, a lone lady – Rosalyn Yalow.
+
+Rosalyn started working on problems of biochemistry, applying the knowledge of physics. She took up the challenge of detecting the presence of very low concentration of chemicals in human blood, by an ingenious method called Radioimmunoassay (RIA). Their group tried it first to detect levels of Insulin in blood and later many other hormones including thyroid hormone, which quickly became the gold standard. For her contribution to medicine, she was awarded the Nobel Prize in 1977.
+
+Sunitha (name changed) was born in a middle class family, in Trivandrum in Kerala, the same year when Rosalyn was receiving the Nobel Prize at Stockholm. Sunitha was sent to school early, not because she wanted to, but because both of Sunitha’s parents were working and did not have the option of leaving behind Sunitha at home alone.
+
+Right from the day she went to school, Sunitha was fascinated by her teacher. She wanted to be a teacher. She would watch every step, every movement, every gesture of the teacher, as she taught, with unmatched obsession. She wanted to emulate her and be a teacher. While most of her classmates fascination changed over time as they grew up, Sunitha remained steadfast in her dream to become a teacher, and she did.
+
+She did not make it to a big university but managed to get a job as a teacher in the government primary school. But this shift of gears did not unsettle her. The moment she took to the class, her eyes shined, her adrenaline peaked, and the silent class listened. End of academic years were marked by foggy-eyed students waiting for her blessings, while new noisy troublemakers took their place, but the show went on. To the students, colleagues and headmistress, Sunitha was an extraordinary tireless teacher.
+
+But things were slowly changing over time. Sunitha was putting on weight, despite her best of efforts in dieting and exercise. The constant classes were the reason for her hoarse voice; at least that’s what she thought. The itching sensation all over must be due to the chalk powder that always tended to create allergy. Fatigue was because of lack of sleep and tension. But when she was caught sleeping in the teacher’s room, by the headmistress, she knew that her dream career was nearing an end. She did not want to fight any more, just go home and sleep. She thought of ending her life. Her family physician made a diagnosis of extreme ‘depression’ and referred her to a psychiatrist.
+
+The psychiatrist, a fine young clinician picked up a slow pulse rate and referred her to a cardiologist. And thats how we met.
+
+The thyroid is a butterfly shaped gland sitting in front of the neck, barely palpable when normal. It takes up iodine and manufactures an array of hormones called the T3 and T4, both very important in pepping up the metabolism. If the gland mechanism is deranged, and sufficient hormone is not produced, the feedback loop stimulates the Pituitary gland (the master switch) to produce more Thyroid Stimulating Hormone (TSH), to counteract the deficiency, but over time, it fails. The result is a high TSH, low T3 / T4.
+
+‘Young lady, school teacher, presented with fatigue, weight gain, hoarse voice, daytime sleepiness, thick rough skin with itching’… as our resident Dr Usha presented the case, it looked like a textbook picture of hypothyroidism (low thyroid function). I ordered a RIA test of thyroid hormone, which confirmed the diagnosis. Thyroid hormone supplement was started, the fatigue disappeared, as did the daytime somnolence, the pep in her body and the shine in her eyes were back as she went back to occupy her space between the blackboard, the white chalk powder, and the colourful students.
+
+‘Thank you doctor for the correct diagnosis’ Sunitha Teacher told me during her follow up visit.
+
+Rosalyn Yalow Died on 30th May 2011 at Bronx, New York.
+
+‘Dear Rosalyn, here is one more ‘Thank You’ card from a school teacher in a remote corner of southern India, redirected by a doctor’.
+A$A$A
+I'm nominating Margaret Hamilton, the NASA computer scientist who was the lead Apollo flight software designer. Her work prevented an abort of the Apollo 11 Moon landing.
+
+The Apollo program is one of the biggest technological achievement in human history and lead to an enormous amount of inventions and scientific advances.
+A$A$A
+Mary Anning (1799-1847), born into a poor family in Lyme Regis on the southwest coast of England, made her living as a fossil collector, extracting fossils from the Jurassic-era limestone beds near her home for sale to British and Continental scientists and wealthy collectors.  Her major discoveries include the first well-known fossil of an ichthyosaur and the very first fossil of a plesiosaur.  With little formal education, she lacked the training in biology to make high-level theoretical contributions to paleontology, but was a leading member of the corps of working-class paid "collectors" and local amateurs on whom elite geologists depended for access to fossils. A (male) contemporary eulogized  her as "the greatest fossilist the world ever knew."
+
+Maria ("i" pronounced as "eye") Mitchell (1818-1889) was the first woman in the United States to work as a professional astronomer.  Born on the island of Nantucket, 23 miles off the coast of Massachusetts, she was a schoolteacher and librarian who pursued astronomy in her spare time, until her 1847 discovery of a comet brought her international fame.  She was the first woman elected to the American Academy of Arts and Sciences and a member of the first group of women elected to the American Philosophical Society.  She worked at the Nautical Almanac Office in Washington (one of the premier astronomical research centers of the 19C, before being hired in 1865 as professor of astronomy at newly founded Vassar College (as well as director of the Vassar College Observatory).
+
+Florence Bascom (1862-1945) was a pioneering geologist whose work on using chemical composition to determine the origin of rocks remains influential today. She was the second American woman to receive a PhD in geology, the second elected to the American Geological Society (becoming a member of the council and then a vice-president), and the first to be hired by the U. S. Geological Survey, where she did extensive work on Eastern Pennsylvania and New Jersey.  She founded the Department of Geology at Bryn Mawr College, and trained a generation of women geologists there in the 1910s and 1920s.
+A$A$A
+Certainly not easily forgotten for her beauty, Hollywood star Hedy Lamarr scientific accomplishments were largely uncelebrated.
+
+From her Wikipedia bio:
+
+Lamarr's and Antheil's frequency-hopping idea served as a basis for modern spread-spectrum communication technology, such as Bluetooth, COFDM (used in Wi-Fi network connections), and CDMA (used in some cordless and wireless telephones). Blackwell, Martin, and Vernam's 1920 patent seems to lay the communications groundwork for Lamarr and Antheil's patent, which employed the techniques in the autonomous control of torpedoes.  Lamarr wanted to join the National Inventors Council, but was reportedly told by NIC member Charles F. Kettering and others that she could better help the war effort by using her celebrity status to sell War Bonds.
+A$A$A
+People have heard of Masters and Johnson. They were the first researchers who used the scientific method to study human sexuality. They studied sexuality in all it's forms and cataloged it. Some people are surprised to know that the Johnson in Masters and Johnson was a woman
+
+Virginia E Johnson was hired by William H Masters as a research assistant. She went on to invent a lot of the equipment that they used to study human sexuality. A lot of what we know about sex, we owe it to both of them
+A$A$A
+I can't resist to print a nice story about Emmy Noether: 
+
+In the spring of 1915, Noether was invited to return to the University of Göttingen by David Hilbert and Felix Klein. Their effort to recruit her, however, was blocked by the philologistsand historians among the philosophical faculty: women, they insisted, should not becomeprivatdozent. One faculty member protested: "What will our soldiers think when they return to the university and find that they are required to learn at the feet of a woman?"[26][27][28][29] Hilbert responded with indignation, stating, "I do not see that the sex of the candidate is an argument against her admission as privatdozent. After all, we are a university, not a bath house for men."
+
+Copypast from Wiki.
+A$A$A
+One of my heros -Émilie du Châtelet
+
+
+
+
+
+Emily du Châtelet  was a French mathematician, physicist, and author during the Age of Enlightenment. Her achievement is considered to be her translation and commentary on Isaac Newton's work Principia Mathematica. The translation, published posthumously in 1759, is still considered the standard French translation.
+
+Voltaire, one of her lovers, declared in a letter to his friend King Frederick II of Prussia that du Châtelet was "a great man whose only fault was being a woman".
+
+Lisa meitner
+
+
+
+
+
+Lise Meitner was an Austrian physicist who worked on radioactivity and nuclear physics and was the sole proprietor of Nuclear fission theory for that Mr otto hahn recieved Nobel prize in 1944. Mr Hahn was such a jerk in portraying gratitude that he mentioned Meitner's contribution merely 'as a co-worker '.
+A$A$A
+Ada Lovelace
+
+Was great with languages and numbers.
+
+Commonly known among software developers as the first developer in the world one century before the first computer was built.
+
+Her most famous work was a description of the Babbage machine, which was described in a memoir, not actually implemented, which she wrote a huge description about only based upon what she understood from the memoir, and added to it what we would have called "a program" who would have worked on it.
+
+I use that lady very often as an example when I have to explain to girls that IT isn't such a male world.
+
+A woman wrote the first computer program on century before the very first computer was built... And that computer was built by a gay man. Thought, his story surely didn't end well, but that's another story…
+A$A$A
+Rosalind Franklin- The English X-ray crystallographer playing important role in the discovery of DNA structure.
+
+However she was left out of the team of James Watson and Francis Crick who got the Nobel prize for discovering the double helix of DNA as she died at an age of 37 , 4 years before the prize was conferred.
+A$A$A
+In life sciences, primatologists Jane Goodall (chimpanzees), Diane Fossey (gorillas) and Biruté Galdikas (orangutans) are well-known for their field studies with said apes. Rosalind Franklin supplied the x-ray diffraction patterns for Watson&Crick, who published the 3-d structure of DNA. There are, of course, many many more, but these may be the most well-known names.
+
+Also, was physicist Lise Meitner mentioned already?
+A$A$A
+Just one? There are many!
+
+The reason we see less women in almost every field is the lack of interest by women in those field. Yes, that's true, there are actually more Male computer enthusiast than Women and we have got to admit that, but that doesn't mean the women who are interested are anyway less talented.
+
+Margaret Hamilton
+
+Computer Scientist
+
+
+
+She was the lead of Software Design team of the Apollo program.
+
+Hamilton's team's work prevented an abort of the Apollo 11 moon landing
+
+cited from Wiki.
+A$A$A
+I'd say Florence Nightingale.  She is reasonably well known, but mostly as a nurse, but not so much as the nurse with many advancements in statistics, data visualization, and public health attributable to her.
+A$A$A
+Hypathia - First woman mathemetician.
+
+Also, Ada Lovelace, first computer programmer (not first women programmer, first programmer.)
+A$A$A
+Emmy Noether
+
+Massive work on algebras, solved important problems with General Relativity, and produces Noether's Theorem which unifies the great conservation laws with the great symmetries of the universe.
+
+Chien-Shiung Wu
+
+A great deal we now think about time comes from her, given her work on beta decay and the experiment about parity leading to the idea that CP and T symmetries don't always work separately, but CPT seems to be a complete symmetry.
+
+Donna Cox
+
+Pioneer in computer graphics and scientific visualization, mostly trained as an artist but a massively successful crossover to mathematics.
+
+Dr. Carolina Cruz-Neira
+
+If we ever get a Holodeck, it will be due to her pioneering work on virtual and immersive environments.
+
+And some others, including a woman whose name I have forgotten, but it might come to me.
+A$A$A
+Hedy Lamar- engineer and actress. Developed some cryptography stuff about switching frequencies that the military could even figure out until years later.
+
+Mary Tsingou- Programmer and mathematician from the Fermi-Pasta-Ulam experiments. Worked on explosion models in Los alamos. Possibly made first computer graphics as well.
+
+Sandra Faber - dark matter pioneer recently awarded presidential medal of science by President Obama.
+
+There is actually a lot of women who have made significant contributions to science and engineering, it's just they don't get that much credit because of society's flaws. Here's a short list of some of them:
+
+http://en.m.wikipedia.org/wiki/C...
+A$A$A
+I'm biased, but cell biologist Elaine Diacumakos was my mother's favorite and closest cousin. They grew up together in Baltimore before Cousin Elaine went away to college and graduate school and then moved away for good. Cousin Elaine died too young and before I ever had a real chance to get to know her. I was living in New York when she died and when I went to her wake I met a number of senior leaders from Rockefeller University. They asked me to join them for dinner and we told each other stories about her from our different perspectives.
+
+I wish email had existed for me in the early 1980s. I had tried calling her a couple of times and we agreed we should get together but she never took any initiative and I, trying to be polite, backed off. The night of her wake her colleagues all told me that they wished I had been pushier in trying to connect with her, although they understood why I had not.
+
+She died in 1984 and even 30 years later I wish I had been more aggressive. I'm really sorry that I hardly knew her.
+
+
+
+ELAINE DIACUMAKOS, HELD A LEADING ROLE IN CELL MICROSURGERY
+
+Dr. Elaine G. Diacumakos, who played a leading role in the development of cell microsurgery, died of a heart attack Monday at her home in Manhattan. She was 53 years old.
+
+Dr. Diacumakos, head of the cytobiology laboratory at the Rockefeller University since 1976, collaborated with Dr. W. French Anderson of the National Institutes of Science in 1979 to achieve the first insertion of a functioning gene into a defective cell of a living mouse to correct a genetic defect.
+
+The feat was hailed as an important early step toward making genetic repairs in human cells and eventually developing cures for human genetic diseases.
+
+From 1971 to 1975, Dr. Diacumakos worked with Edward Tatum, a Nobel prize-winning geneticist. Her achievements included the development and refinement of techniques using small microneedles and micropipettes in the transplanting of nuclei from one cell to another and of fusing two cells of the same or different types.
+
+Directed Laboratory
+
+As a senior research associate at the Rockefeller University, Dr. Diacumakos had directed her own laboratory for the last eight years. Her work included studies of cancer cells made in collaboration with scientists at the Memorial Sloan-Kettering Cancer Center, and of drug resistance in cells.
+
+In recent years, Dr. Diacumakos had begun experiments with plant cells with the goal of cloning plants that would embody the advantages of the parent subjects.
+
+Dr. Diacumakos spoke widely on the techniques she had developed, and in 1981 lectured at the Pasteur Institute in Paris. She served as an expert consultant to the molecular hematology branch of the National Heart and Lung Institute, and on June 6 was honored by the Metropolitan Chapter of the Association for Women in Science for her contributions to research.
+
+She was born in Chester, Pa.. She graduated from the University of Maryland and received her master's and doctoral degrees from New York University. After three years as a postdoctoral fellow at the Rockefeller University, she was associated with the Sloan-Kettering Institute for Cancer Research and the Graduate School of Medical Sciences of the Cornell University Medical College from 1965 to 1971.
+
+Dr. Diacumakos is survived by her husband, James Chimonides, and a brother, Basil Diacumakos of Baltimore.
+A$A$A
+http://en.m.wikipedia.org/wiki/E.... While she preferred to be called a mathematician, and I am told that her contributions to mathematics were extraordinary, her contribution to physics via http://en.m.wikipedia.org/wiki/N... in my I pinion converts whole deals in physics from ad-hoc rules that things are conserved for no apparent reason to fundamental truths that the conservation arises from fundamental and necessary rules of the universe.
+A$A$A
+Rosalind Franklin
+
+She is the discoverer of DNA, not James D. Watson and Francis H.C. Crick. She should have won the Nobel for the discovery of DNA if Watson and Crick haven’t embezzled and published her results without her knowledge. Needless she was heartbroken.
+
+Lise Meitner
+
+She is the reason why Otto Hahn was able to make Manhattan Project successful. She is the discoverer of Nuclear fission. Not Otto Han. Meitner and Otto Hahn were colleagues. Meitner was a Jew so she had to left Germany and settled abroad. Lise wrote a letter to Otto explaining nuclear fission using Einstein’s E=mc^2. Otto published this result in his own name. But never credited Lise for her impeccable work.
+
+These two female scientist are perfect example of females getting exploited by male chauvinism. They worked so hard trying to prove their worth in those ill fated times, but they were not recognised because they were female.
+A$A$A
+YOUR QUESTION ITSELF IS WRONG,IF YOU DIG MORE ,THE NUMBER OF WOMEN WE FIND WILL BE JUST SMALL FRACTION OF NUMBER OF WHOSE CONTRIBUTIONS WHERE SIMPLY IGNORED ..IGNORANCE AND DISMISSION IS SOMETHING THAT HAPPENS TO MEN AND WOMEN BOTH,,ON CONTRARY TO YOUR CLAIM THERE ARE FAR NUMBER OF TRAGEIC FIGURES IN SCIENCE WHO ARE MALES, THEIR STORY ,THE LEVEL OF BRILLIANCE ARE NOT EVEN CLOSELY MATCHED BY WOMEN MENTIONED OVER HERE IN MOST OF THE ANSWERS, INFACT MOST OF THEM WHO ARE MENTIONED ARE NOT AT ALL THAT RELEVANT,EXAMPLE LISE MEITNER,,IS THE MOST OVERRATED ..IF YOU REALLY WANT TO KNOW WHAT IGNORANCE AND DISMISSION IS READ LIFE AND STRUGGLES OF OLIVER HEAVISIDE , WHO STILL HASN’T GOT RECOGNIZATION ,DESPITE BEING BRILLIANT IN ABSTARCT THINKING AND GREAT MATHEMATICAL SKILLS, MOST OF HIS WORKS WERE SO BRILLIANT THAT SCIENTIFIC COMMUNITY AT THAT TIME WERE NOT ABLE TO UNDERSTAND IT..READ ABOUT HIM , THEN YOU WILL COME TOKNOW WHAT IGNORANCE AND DISMISSION REALLY MEANS, AND NONE OF WOMEN SCIENTISTS MENTIONED OVER HERE STANDS CLOSE TO HIM..IGNORANCE AND DISMISSION ARE NOT SEX RELATED ISSUE, THEY ARE GENERAL HUMAN ISSUE..
+
+PS: 1)ONE MORE MYTH I SEE OVER HERE IS THAT ADA WAS FIRST PROGRAMMER, THIS IS AGAIN A MYTH , IN HER CITATIONS ALL PROGRAMS WERE OF BABBAGE.Salon 21st | Repurposing Ada
+
+2) SECOND MYTH IS OF CECILIA PYNE. What did Cecilia Payne's evidence consist of? If she had a good argument but no evidence, and Henry Russell had the same argument but actually found evidence, then he, in fact, deserved the credit and she did not.http://www.narit.or.th/en/files/...
+
+3) LISE MIETNER ARTICULATED THEORY FOR FISSION ,SHE DIDN’T DISCOVER IT,MOREOVER SHE WAS NOT ALONE TO GIVE IT IT WAS A COLLABORATIVE WORK OF HER AN COUSIN,WHO HAD CORE IDEA ,THAT CANNOT BE SAID.BUT FACT IS FISSION WAS DISCOVERED BY OTTO HANN AND BY LOOKING AT CORRESPONDENCE BETWEEN HIM AND MIETNER IT APPEARS OTTO FIRST SENSED FISSION BUT IN CRUDE WAY..HE DIDN’T HAD SYSTEMATIC THEORY TO BACK IT UP WHICH WAS ARTICULATED LATER BY MEITNER AND HER COUSIN.INFACT TERM NUCLEAR FISSION WAS COINED BY HER COUSIN.
+
+4) POPULARITY AND FAME IS GIVEN TO ONE ,WHO COMES UP WITH SOMETHING VERY PATH BREAKING ,ALL NAMES MENTIONED OVER HERE DON’’T FALL UNDER THAT CATEGORY,YOU WILL FIND MEN IN FAR NUMBER OF SAME BRILLIANCE THAT OF WOMEN MENTIONED OVER HERE , BUT THEY ARE OFTEN UNKNOWN , MEANS NOT KNOW TO GENERAL NON SCIENTIFIC COMMUNITY,,IE COMMON MASSES..THEY ARE NOT MENTIONED SIMPLY BEACAUSE LEVEL OF BRILLIANCE ISNOT OF SAMELEVEL REQUIRED TO GET FAME AMONG GENERAL MASSES,AND THERE ARE FAR FAR MORE MEN THAN WOMEN OF SAME AND MORE BRILLIANCE UNKNOWN TO MASSES..
+
+5) MARIE CURIE IS ONE OF THOSE BRILLIANT CASE,AND ITS SAD U DIDN’T RECOGNIZE HER ..WHATEVER SHE DID , SHE DID INDEPENDENTLY..AND THAT TO IN PATHETIC CONDITIONS,SHE RIGHTLY DESERVES THAT FAME..
+
+6) IF YOU SAY WOMEN SCIENTISTS MENTIONED OVER HERE SHOULD BE KNOW THEN WHAT ABOUT MEN SCIENTISTS OF SAME AND MORE BRILLIANCE WHO ARE UNKNOW TO MASSSES..ANYONE ONE SHOULD BEKNOW FOR HIS OR HER WORK NOT JUST BECAUSE BEING A WOMAN..
+
+7) AS FOR YOUR QUESTION I ONLY SUGGEST ONE NAME HEDY LAMARR, THAT IS SOMETHING I CALL PATH BREAKING AND SHOULD BE KNOWN TO PUBLIC,HERBRILLIANT IDEA OF FREQUENCY HOPPING..BEECAUSE CELLPHONES ARE SOMETHING EVERY INDIVIDUAL USES TODAY, BESIDES THAT THERE IS NO ONE,,AND IF YOU WANT TO LOWER STANDARD OF BRILLIANCE THERE IS A LONG LIST OF MEN ALSO AWAITING THE SAME STATUS FAR GREATER I NUMBER AND BRILLAINCE..
+
+8) WHEN I SAY HEDY LAMAR TO BE KNOW BY GENERAL PUBLIC , I DO HAVE LIST OF MANY MALES TOO..
+
+9)ABSTAIN FROM FEMINIST IDEOLOGY OF MAKING PROPAGANDA AND GIVING PUBLICITY TO SOME ACHEIVEMENT JUST BECAUSE ACHIEVER WAS WOMAN..
+
+10) THE NAMES MOSTLY YOU ARE SEEING OVER HERE IS NOT BECAUSE THEY DESERVE IT(BECAUSE MANY SAME CASES OF MEN ALSO DESERVE IT BUT NOT MENTIONED IN FEMINIZED WORLD OBSESSED OF PLEASING WOMEN), FEW YEARS BACK THERE WAS A VERY GOOD TRY BY FEMINST IDEOLOGY DRIVEN PBS BY DOCUMENTORY CALLED EINSTIEN’S WIFE, WHICH CLAIMED THAT ACTUALLY HIS FIRT WIFE GAVE RELATIVITY THEORY,,BUT THANKS TO MANY PEOPLE SUPPORTERS OF EINSTIEN , IT WAS SEVERLY DEBUNKED WHICH FORCED THEM TO TAKE BACK THEIR CLAIMS..WHICH WERE NOTHING BUT MENTAL SPECULATION,MANIPULATION AND ADDED WITH LIES..AS MOST FEMINNISTS DO..
+A$A$A
+Dr Alice Roberts is someone who comes to mind. Her documentary "The incredible Human journey" is a fascinating piece of work that I am sure will inspire most of the girls in your class.  Best part is she is someone who comes across as very passionate and learned about the science and is inspiring even to older people like me !
+
+Link :
+
+the incredible human journey episode 1
+A$A$A
+I respect all the other answers while I was wondering why this woman had not included in them, nevertheless I'll include her name in my answer.
+
+Hedy Lamarr
+A$A$A
+Beatrice Sweeney, an incredibly gifted manipulator of living cells.
+
+ Most people who should, by their job description, know about her work have not heard of her. They keep going down implausible ratholes trying to find "clock genes" or otherwise prove that cellular clocks are driven by negative (!) feedbacks in gene networks.
+
+By enucleating Acetabularia cells, Beatrice Sweeney demonstrated that the source of endogenous rhythmicity must be in the cytoplasm. That theoricidal observation of hers (one of several, equally phenomenal observations) has been ignored for more than half-a-century by mainstream chronobiology.
+
+In Memoriam, 1989
+A$A$A
+A bunch of female mathematicians haven't been mentioned yet so in passing I'll raise the names, Hypatia, Maria Agnesi, Sophie Germain and Sofia Kovalevskaya.
+
+But we can't forget Mayim Bialik who is unaccountably better known for her acting work than for her work in neurobiology.
+A$A$A
+Rosalind Franklin was an English Chemist who's work on X-ray Crystallography allowed Watson and Crick to define the structure of DNA.
+
+Unfortunately she died of ovarian cancer before her contribution could be recognised.
+
+http://en.m.wikipedia.org/wiki/R...
+A$A$A
+The Creator of Peter Rabbit, Pigling Bland, and more: Beatrix Potter.
+
+She was born to a well off family in the Victorian era and was encouraged to pursue study of art and nature. She developed a fascination with fungi, painting them in watercolor. While she was interested in many fields of science, mycology was favored. Her drawings and paintings were encouraged and corrected for accuracy when she became the acquaintance of Charles McIntosh. As she began she drawing spores under a microscope, she developed a theory concerning their germination. Her attempts to present her theory and findings were rejected because she was a woman and considered an amateur. She convinced George Massee to present her paper at the Linnean Society as due to her sex she was not allowed to. Though she later determined her evidence may have been contaminated and withdrew her paper, it is under evaluation in recent years and her detailed watercolors are still referred to in identifying fungi.
+
+She was also known for her sheep breeding and fell farming. She supported land conservation and through acquisitions during her lifetime, left over 4000 acres to the National Trust when she died.
+A$A$A
+Here is a blog I wrote on this topic which includes links to a great list of 73 fabulous women scientists! 
+
+Science is sexy and so are we. Giving science an extreme makeover. The beautiful black women of #STEM.
+A$A$A
+Brenda Milner, British neuropsychologist living in Canada, still working at 95.
+
+She has contributed extensively to the research literature on various topics in the field of clinical neuropsychology. Among other things, she studied the effects of damage to the medial temporal lobe on memory.
+A$A$A
+Well, I find everything about my nominee to be wonderful and tragic.  I wonder if her glory was stolen from her.  It will never really be known: Rosalind Franklin
+
+Here is a link to her more biography and her papers:
+
+The Rosalind Franklin Papers
+A$A$A
+Maryam Al-Ijliya
+
+She lived in the tenth century in Aleppo, Syria and was a famous scientist who designed and constructed astrolabes. Astrolabes were global positioning instruments that determine the position of the sun and planets, so they were used in the fields of astronomy, astrology and horoscopes.Her hand-crafted designs were so intricate and innovative that she was employed by the ruler of the city, Sayf Al Dawla, from 944 AD until 967 AD. She will always be remembered in history for her genius designs.
+A$A$A
+All of them.  Especially those whose names have all but been wiped from the annals of history: List of female scientists before the 21st century
+A$A$A
+Another vote for Cecilia Payne-Gaposchkin. She discovered the composition of nothing less than the stars themselves. For her PhD thesis! She was a scientist who did more than merely collect and classify data, she explained it. She pulled together the data compiled by Annie Jump Cannon to show that the different spectral classes of stars ( O, B A F, G, K, and M) were caused by their temperatures, and that stars were primarily composed of hydrogen and helium.
+
+She was also one of the first woman astronomers to keep working after she married. Prior to her time, it was expected that women would not work outside the home after marriage. As one older astronomer put it: "If all the ladies should know so much about spectroscopes and cathode rays, who will attend to the buttons and the breakfasts?"
+A$A$A
+You should take a look at this playlist of SciShow : Great Minds - YouTube
+
+At least a third of the great scientists presented there are women.
+A$A$A
+Rosalind Franklin made tremendous contributions regarding the solution structure of DNA. She discovered that two forms of DNA existed; form A and form B, and that these two molecules existed in different conditions. She laid the basis for quantitative studies of diffraction patterns and demonstrated the double helix of the DNA in an X-ray experiment. She made excellent X-ray photographs that she had obtained from her systematic work and painstakingly and explained their implications as well.
+A$A$A
+Grace Hopper: American hero. Her development of  the first computer compiler and the first computer programming language  helped revolutionize the world of computers.
+A$A$A
+Merit Ptah. She was a 'Chief Physician' in Ancient Egypt some 4,700 years ago. She is the first recorded female doctor in history and the fact that she became 'Chief Physician' obviously means she must have been pretty damn good at her job.
+A$A$A
+I would like to mention Inge Lehmann, a Danish seismologist who discovered the earth's inner core.
+A$A$A
+Rita Levi-Montalcini (1909 - 2012)
+
+Italian neurologist who received Nobel Prize in 1986 for the discovery of Nerve growth factor (NGF).
+
+Women in science
+A$A$A
+Marie Curie (1864-1934) was an avid discoverer of radioactivity, which is my favorite topic in chemistry.
+
+http://www.aip.org/history/curie...
+A$A$A
+Rosalind Franklin.  Played a huge part in the discovery of the structure of DNA.
+A$A$A
+Marie Skłodowska-Curie。my english is poor，so i can't explain why。
+A$A$A
+Mary Kay..... oh and that lady who invented Weight Watchers (R.I.P)
+E$E$E
+
+Q$Q$Q
+How do I best structure my first startup acquisition?
+A$A$A
+To best answer this question, I would need to know which side of the acquisition you are on. That is, are you buying or selling the startup.
+
+If you are the one buying the startup, I suggest you make sure you know what you are getting into by requiring detailed information from the seller regarding its business operations and finances.
+
+If you are on the other side of the acquisition in which you are selling your startup, I suggest you have all this information available because it is likely your buyer will require most or all of this information throughout the acquisition process.
+
+Ultimately, this is the biggest step you can take to best structure your first startup acquisition.
+
+The following is a checklist of information and documents you should review, or be ready to provide.
+
+A. Organization and Good Standing.
+
+The Company's Articles of Incorporation, and all amendments thereto.
+
+The Company's Bylaws, and all amendments thereto.
+
+The Company's minute book, including all minutes and resolutions of shareholders and directors, executive committees, and other governing groups.
+
+The Company's organizational chart.
+
+The Company's list of shareholders and number of shares held by each.
+
+Copies of agreements relating to options, voting trusts, warrants, puts, calls, subscriptions, and convertible securities.
+
+A Certificate of Good Standing from the Secretary of State of the state where the Company is incorporated.
+
+Copies of active status reports in the state of incorporation for the last three years.
+
+A list of all states where the Company is authorized to do business and annual reports for the last three years.
+
+A list of all states, provinces, or countries where the Company owns or leases property, maintains employees, or conducts business.
+
+A list of all of the Company's assumed names and copies of registrations thereof.
+
+B. Financial Information.
+
+Audited financial statements for three years, together with Auditor's Reports.
+
+The most recent unaudited statements, with comparable statements to the prior year.
+
+Auditor's letters and replies for the past five years.
+
+The Company's credit report, if available.
+
+Any projections, capital budgets and strategic plans.
+
+Analyst reports, if available.
+
+A schedule of all indebtedness and contingent liabilities.
+
+A schedule of inventory.
+
+A schedule of accounts receivable.
+
+A schedule of accounts payable.
+
+A description of depreciation and amortization methods and changes in accounting methods over the past five years.
+
+Any analysis of fixed and variable expenses.
+
+Any analysis of gross margins.
+
+The Company's general ledger.
+
+A description of the Company's internal control procedures.
+
+C. Physical Assets.
+
+A schedule of fixed assets and the locations thereof.
+
+All U.C.C. filings.
+
+All leases of equipment.
+
+A schedule of sales and purchases of major capital equipment during last three years.
+
+D. Real Estate.
+
+A schedule of the Company's business locations.
+
+Copies of all real estate leases, deeds, mortgages, title policies, surveys, zoning approvals, variances or use permits.
+
+E. Intellectual Property.
+
+A schedule of domestic and foreign patents and patent applications.
+
+A schedule of trademark and trade names.
+
+A schedule of copyrights.
+
+A description of important technical know-how.
+
+A description of methods used to protect trade secrets and know-how.
+
+Any "work for hire" agreements.
+
+A schedule and copies of all consulting agreements, agreements regarding inventions, and licenses or assignments of intellectual property to or from the Company.
+
+Any patent clearance documents.
+
+A schedule and summary of any claims or threatened claims by or against the Company regarding intellectual property.
+
+F. Employees and Employee Benefits.
+
+A list of employees including positions, current salaries, salaries and bonuses paid during last three years, and years of service.
+
+All employment, consulting, nondisclosure, nonsolicitation or noncompetition agreements between the Company and any of its employees.
+
+Resumés of key employees.
+
+The Company's personnel handbook and a schedule of all employee benefits and holiday, vacation, and sick leave policies.
+
+Summary plan descriptions of qualified and non-qualified retirement plans.
+
+Copies of collective bargaining agreements, if any.
+
+A description of all employee problems within the last three years, including alleged wrongful termination, harassment, and discrimination.
+
+A description of any labor disputes, requests for arbitration, or grievance procedures currently pending or settled within the last three years.
+
+A list and description of benefits of all employee health and welfare insurance policies or self-funded arrangements.
+
+A description of worker's compensation claim history.
+
+A description of unemployment insurance claims history.
+
+Copies of all stock option and stock purchase plans and a schedule of grants thereunder.
+
+G. Licenses and Permits.
+
+Copies of any governmental licenses, permits or consents.
+
+Any correspondence or documents relating to any proceedings of any regulatory agency.
+
+H. Environmental Issues.
+
+Environmental audits, if any, for each property leased by the Company.
+
+A listing of hazardous substances used in the Company's operations.
+
+A description of the Company's disposal methods.
+
+A list of environmental permits and licenses.
+
+Copies of all correspondence, notices and files related to EPA, state, or local regulatory agencies.
+
+A list identifying and describing any environmental litigation or investigations.
+
+A list identifying and describing any known superfund exposure.
+
+A list identifying and describing any contingent environmental liabilities or continuing indemnification obligations.
+
+I. Taxes.
+
+Federal, state, local, and foreign income tax returns for the last three years.
+
+States sales tax returns for the last three years.
+
+Any audit and revenue agency reports.
+
+Any tax settlement documents for the last three years.
+
+Employment tax filings for three years.
+
+Excise tax filings for three years.
+
+Any tax liens.
+
+J. Material Contracts.
+
+A schedule of all subsidiary, partnership, or joint venture relationships and obligations, with copies of all related agreements.
+
+Copies of all contracts between the Company and any officers, directors, 5-percent shareholders or affiliates.
+
+All loan agreements, bank financing arrangements, line of credit, or promissory notes to which the Company is a party.
+
+All security agreements, mortgages, indentures, collateral pledges, and similar agreements.
+
+All guaranties to which the Company is a party.
+
+Any installment sale agreements.
+
+Any distribution agreements, sales representative agreements, marketing agreements, and supply agreements.
+
+Any letters of intent, contracts, and closing transcripts from any mergers, acquisitions, or divestitures within last five years.
+
+Any options and stock purchase agreements involving interests in other companies.
+
+The Company's standard quote, purchase order, invoice and warranty forms.
+
+All nondisclosure or noncompetition agreements to which the Company is a party.
+
+All other material contracts.
+
+K. Product or Service Lines.
+
+A list of all existing products or services and products or services under development.
+
+Copies of all correspondence and reports related to any regulatory approvals or disapprovals of any Company's products or services.
+
+A summary of all complaints or warranty claims.
+
+A summary of results of all tests, evaluations, studies, surveys, and other data regarding existing products or services and products or services under development.
+
+L. Customer Information.
+
+A schedule of the Company's twelve largest customers in terms of sales thereto and a description of sales thereto over a period of two years.
+
+Any supply or service agreements.
+
+A description or copy of the Company's purchasing policies.
+
+A description or copy of the Company's credit policy.
+
+A schedule of unfilled orders.
+
+A list and explanation for any major customers lost over the last two years.
+
+All surveys and market research reports relevant to the Company or its products or services.
+
+The Company's current advertising programs, marketing plans and budgets, and printed marketing materials.
+
+A description of the Company's major competitors.
+
+M. Litigation.
+
+A schedule of all pending litigation.
+
+A description of any threatened litigation.
+
+Copies of insurance policies possibly providing coverage as to pending or threatened litigation.
+
+Documents relating to any injunctions, consent decrees, or settlements to which the Company is a party.
+
+A list of unsatisfied judgments.
+
+N. Insurance Coverage.
+
+A schedule and copies of the Company's general liability, personal and real property, product liability, errors and omissions, key-man, directors and officers, worker's compensation, and other insurance.
+
+A schedule of the Company's insurance claims history for past three years.
+
+O. Professionals.
+
+A schedule of all law firms, accounting firms, consulting firms, and similar professionals engaged by the Company during past five years.
+
+P. Articles and Publicity.
+
+Copies of all articles and press releases relating to the Company within the past three years.
+E$E$E
+
+Q$Q$Q
+What's the easiest way to value a company (stock)?
+A$A$A
+There is no easy way to establish an accurate valuation. You should start by examining the company's financial plan and then execute a discounted cash flow (DCF) analysis, a common and effective valuation method.
+
+Also, depending on how in-depth a valuation you desire, you could request detailed information from the company regarding its business operations and finances.
+
+The following is a checklist of information and documents you could review to further your due diligence in the valuation process (and further your understanding of whether purchasing any stock in the company is a good idea):
+
+A. Organization and Good Standing.
+
+The Company's Articles of Incorporation, and all amendments thereto.
+
+The Company's Bylaws, and all amendments thereto.
+
+The Company's minute book, including all minutes and resolutions of shareholders and directors, executive committees, and other governing groups.
+
+The Company's organizational chart.
+
+The Company's list of shareholders and number of shares held by each.
+
+Copies of agreements relating to options, voting trusts, warrants, puts, calls, subscriptions, and convertible securities.
+
+A Certificate of Good Standing from the Secretary of State of the state where the Company is incorporated.
+
+Copies of active status reports in the state of incorporation for the last three years.
+
+A list of all states where the Company is authorized to do business and annual reports for the last three years.
+
+A list of all states, provinces, or countries where the Company owns or leases property, maintains employees, or conducts business.
+
+A list of all of the Company's assumed names and copies of registrations thereof.
+
+B. Financial Information.
+
+Audited financial statements for three years, together with Auditor's Reports.
+
+The most recent unaudited statements, with comparable statements to the prior year.
+
+Auditor's letters and replies for the past five years.
+
+The Company's credit report, if available.
+
+Any projections, capital budgets and strategic plans.
+
+Analyst reports, if available.
+
+A schedule of all indebtedness and contingent liabilities.
+
+A schedule of inventory.
+
+A schedule of accounts receivable.
+
+A schedule of accounts payable.
+
+A description of depreciation and amortization methods and changes in accounting methods over the past five years.
+
+Any analysis of fixed and variable expenses.
+
+Any analysis of gross margins.
+
+The Company's general ledger.
+
+A description of the Company's internal control procedures.
+
+C. Physical Assets.
+
+A schedule of fixed assets and the locations thereof.
+
+All U.C.C. filings.
+
+All leases of equipment.
+
+A schedule of sales and purchases of major capital equipment during last three years.
+
+D. Real Estate.
+
+A schedule of the Company's business locations.
+
+Copies of all real estate leases, deeds, mortgages, title policies, surveys, zoning approvals, variances or use permits.
+
+E. Intellectual Property.
+
+A schedule of domestic and foreign patents and patent applications.
+
+A schedule of trademark and trade names.
+
+A schedule of copyrights.
+
+A description of important technical know-how.
+
+A description of methods used to protect trade secrets and know-how.
+
+Any "work for hire" agreements.
+
+A schedule and copies of all consulting agreements, agreements regarding inventions, and licenses or assignments of intellectual property to or from the Company.
+
+Any patent clearance documents.
+
+A schedule and summary of any claims or threatened claims by or against the Company regarding intellectual property.
+
+F. Employees and Employee Benefits.
+
+A list of employees including positions, current salaries, salaries and bonuses paid during last three years, and years of service.
+
+All employment, consulting, nondisclosure, nonsolicitation or noncompetition agreements between the Company and any of its employees.
+
+Resumés of key employees.
+
+The Company's personnel handbook and a schedule of all employee benefits and holiday, vacation, and sick leave policies.
+
+Summary plan descriptions of qualified and non-qualified retirement plans.
+
+Copies of collective bargaining agreements, if any.
+
+A description of all employee problems within the last three years, including alleged wrongful termination, harassment, and discrimination.
+
+A description of any labor disputes, requests for arbitration, or grievance procedures currently pending or settled within the last three years.
+
+A list and description of benefits of all employee health and welfare insurance policies or self-funded arrangements.
+
+A description of worker's compensation claim history.
+
+A description of unemployment insurance claims history.
+
+Copies of all stock option and stock purchase plans and a schedule of grants thereunder.
+
+G. Licenses and Permits.
+
+Copies of any governmental licenses, permits or consents.
+
+Any correspondence or documents relating to any proceedings of any regulatory agency.
+
+H. Environmental Issues.
+
+Environmental audits, if any, for each property leased by the Company.
+
+A listing of hazardous substances used in the Company's operations.
+
+A description of the Company's disposal methods.
+
+A list of environmental permits and licenses.
+
+Copies of all correspondence, notices and files related to EPA, state, or local regulatory agencies.
+
+A list identifying and describing any environmental litigation or investigations.
+
+A list identifying and describing any known superfund exposure.
+
+A list identifying and describing any contingent environmental liabilities or continuing indemnification obligations.
+
+I. Taxes.
+
+Federal, state, local, and foreign income tax returns for the last three years.
+
+States sales tax returns for the last three years.
+
+Any audit and revenue agency reports.
+
+Any tax settlement documents for the last three years.
+
+Employment tax filings for three years.
+
+Excise tax filings for three years.
+
+Any tax liens.
+
+J. Material Contracts.
+
+A schedule of all subsidiary, partnership, or joint venture relationships and obligations, with copies of all related agreements.
+
+Copies of all contracts between the Company and any officers, directors, 5-percent shareholders or affiliates.
+
+All loan agreements, bank financing arrangements, line of credit, or promissory notes to which the Company is a party.
+
+All security agreements, mortgages, indentures, collateral pledges, and similar agreements.
+
+All guaranties to which the Company is a party.
+
+Any installment sale agreements.
+
+Any distribution agreements, sales representative agreements, marketing agreements, and supply agreements.
+
+Any letters of intent, contracts, and closing transcripts from any mergers, acquisitions, or divestitures within last five years.
+
+Any options and stock purchase agreements involving interests in other companies.
+
+The Company's standard quote, purchase order, invoice and warranty forms.
+
+All nondisclosure or noncompetition agreements to which the Company is a party.
+
+All other material contracts.
+
+K. Product or Service Lines.
+
+A list of all existing products or services and products or services under development.
+
+Copies of all correspondence and reports related to any regulatory approvals or disapprovals of any Company's products or services.
+
+A summary of all complaints or warranty claims.
+
+A summary of results of all tests, evaluations, studies, surveys, and other data regarding existing products or services and products or services under development.
+
+L. Customer Information.
+
+A schedule of the Company's twelve largest customers in terms of sales thereto and a description of sales thereto over a period of two years.
+
+Any supply or service agreements.
+
+A description or copy of the Company's purchasing policies.
+
+A description or copy of the Company's credit policy.
+
+A schedule of unfilled orders.
+
+A list and explanation for any major customers lost over the last two years.
+
+All surveys and market research reports relevant to the Company or its products or services.
+
+The Company's current advertising programs, marketing plans and budgets, and printed marketing materials.
+
+A description of the Company's major competitors.
+
+M. Litigation.
+
+A schedule of all pending litigation.
+
+A description of any threatened litigation.
+
+Copies of insurance policies possibly providing coverage as to pending or threatened litigation.
+
+Documents relating to any injunctions, consent decrees, or settlements to which the Company is a party.
+
+A list of unsatisfied judgments.
+
+N. Insurance Coverage.
+
+A schedule and copies of the Company's general liability, personal and real property, product liability, errors and omissions, key-man, directors and officers, worker's compensation, and other insurance.
+
+A schedule of the Company's insurance claims history for past three years.
+
+O. Professionals.
+
+A schedule of all law firms, accounting firms, consulting firms, and similar professionals engaged by the Company during past five years.
+
+P. Articles and Publicity.
+
+Copies of all articles and press releases relating to the Company within the past three years.
+A$A$A
+There is no easy way. You can do some "back of the envelope" valuations if you know the business really well, can reasonably estimate its risk (discount rate) and future cash flows. Anyone can plugin the numbers to a discounted cash flow formula, but the end result is highly sensitive to these inputs, and you really need to do your homework on the company. That means finding out if it's in an industry that's subject to rapid change, if it's growing slowly or fast, what is their competition doing, do they have any competitive advantages, does their management have integrity etc. There are many questions to answer each time, and they all take time and research.
+
+But generally speaking, if you have a company in a mature industry with stable cash flows, it is easier to value than some high-flying startup.
+A$A$A
+It’s best to start looking for opportunities in businesses that you are most familiar with and then gradually progress into studying businesses that you know less about. The more you know about something relative to other market participants, the greater your advantage in properly evaluating it.
+
+Estimate the net income attributable to common shareholders that the business will produce for the rest of it’s life and discount that estimate by an appropriate discount rate. There’s no need to write down the calculation or prepare a spreadsheet because the estimate by it’s nature will not be precise.
+A$A$A
+Get to learn the financial statements of the company
+E$E$E
+
