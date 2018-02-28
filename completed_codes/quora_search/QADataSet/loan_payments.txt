@@ -1,0 +1,246 @@
+Q$Q$Q
+Is there any sort of tax break for people with student loan payments?
+A$A$A
+Here is a quick summary on the student loan interest tax deduction:
+
+
+
+Who is eligible?
+
+People that paid interest on their student loans in the last year.
+
+Who is the ideal candidate for this credit?
+
+People with large student loan debts that take a standard deduction.
+
+Eligible Expenses: Tuition, books, course materials, room and board, and supplies
+
+Deduction/Credit: Above the line deduction
+
+Amount: up to $2,500
+
+Number of years you can claim it: 5 years
+
+Income Maximum: $60k single, $120k married
+
+Phases out: $60-75k single, $120-150k married
+
+For more information
+
+Publication 970 (2011), Tax Benefits for Education
+
+For more information visit:
+
+Tax Breaks for Students and People with Student Loans
+A$A$A
+I think it's important to note that you won't qualify for the deduction if your earned income is greater than $75,000 per year, which is really unfortunate given that many students, especially those who have graduate level degrees along with a much higher level of debt and annual interest payments, can't take advantage of this. See the IRS website here for details: http://www.irs.gov/publications/...
+A$A$A
+Yes, the interest on student loans is deductable. You should receive an IRS form 1098-T from the lender, then follow the instructions.
+
+Below is a quote from the instructions page on a 1098-T
+
+"You, or the person who can claim you as a dependent, may be able to claim an education credit on Form 1040 or 1040A for the qualified tuition and related expenses"Here's a link to a blank 1098 from the IRS Website, the relevent information is on page 4 http://www.irs.gov/pub/irs-pdf/f...
+A$A$A
+To add to Adam's point, a single taxpayer may not deduct more than $2,500 of interest paid in a given year.  This is a serious limitation, considering that a graduate who owes $100k will likely pay more than $7,000 in interest annually.
+A$A$A
+The 1098-T is the tuition statement.     The 1098-E is the student loan interest statement and it comes from the lender.
+E$E$E
+
+Q$Q$Q
+Can you sell a real estate property before the end of loan payments?
+A$A$A
+You are most correct. You only pay interest on money borrowed, and only for the time you borrow. At the time of the sale, you will have to pay off the loan balance. Most mortgage statements have your loan payment broken down as to how much goes to the principle [loan amount], and how much goes to the interest. In about the first 5 years, you will see little movement, and you may get about 5 % principle deduction in this period. As the loan period goes over a 30 year period, the amounts attributed to interest and principle will show that you will pay less interest towards the latter years of this mortgage.
+
+The only hitch to this could be a pre-pay penalty by the lender. Some lenders will charge a pre-pay penalty if you procure another mortgage to replace their mortgage with a new loan; and, of course if you sell. This penalty is usually about a 2 year period, and with some lenders it could be as high as 5 years. The penalty is usually 6 months of interest payments.
+A$A$A
+Usually yes you can sell it. There may be some kind of pre-payment penalty. It is structured depending upon the type of loan, type of property, and type of use. If it is your own primary home, then there is usually no pre-payment penalty at the time of sale. The pre-payment penalty if there is any, is usually structured as upfront “points”. That is you pay certain loan issuance cost upfront in exchange of reduced interest rate, and you would have a certain break-even period. If you sell your property before that break-even period, you have just wasted that upfront cost without taking advantage of lower interest rate.
+
+In case of investment property or commercial loans, there could be an explicit prepayment penalty. By way of example, a prepayment penalty could be 3–2–1, that is if you sell in the first year, you pay 3% prepayment, and in 2nd year 2 percent, and in third year, 1%. Another kind of pre-payment penalty is yield maintenance. This is for most sophisticated commercial loans. Let us say, when you took a loan, the bank was charging interest rate of 5% (based on some index). Now when you are prepaying, the equivalent interest rate is 4% (based on the same index). Now when you prepay the loan, bank would assume that it can only make 4% interest on that loan, so it will compute the net-present value of your future loan installment based on 4% discount. This amount will be significantly larger than the loan balanced at that time.
+
+Most likely, since it is an apartment, you would have the most common loan type, where there is no prepayment penalty but you would have wasted some loan issuance cost.
+A$A$A
+Some loans have prepayment penalties, most do not. Neither type of mortgage would prevent you from selling the property before the loan is paid off, but with a prepayment clause you would owe some additional fees at closing. Some loans can actually be taken over by the purchaser and they would then make remaining payments. This is why you need to fully read and fully understand the terms of your mortgage. If you don't understand then ask for an explanation before you sign the documents.
+A$A$A
+Yes. How it happens depends a bit on the state and the loan. In a title company closing state the title company will take the buyer’s money and distribute it. If there is a loan on the property the title company will pay them. Typically the seller requests a “payoff letter” from the lender that basically says what they are owed and that once paid that they will release their lien on the property.
+
+You want to be careful how you do the financing if you contemplate doing this. Large commercial loans come in the three types basically.
+
+1. Loans that can be refinanced at any time for no penalty.
+
+2. Loans that have a prepayment penalty that typically decreases with time(Say 3% of loan value the first year gradually dropping to 1% the fifth year and then going away a few years later). That’s an example they can be different.
+
+3. Loans that don’t allow prepayment. You can still sell a property with this type of loan but generally you have to replace the collateral with something of equal or greater value that’s less risky. This is a process called defeasance, and it sucks. Basically you have to go and buy sufficient treasury bonds to cover the payments including the interest. Since it’s unlikely you would get a return on treasuries higher than you were on the property or whatever else you’d invest the money in it can cost a lot of money.
+
+So why not always go with loans with no prepayment penalty? Nearly always those types of loans are for a shorter term and at higher interest rates than ones that lock you in. It would be rare for example to find a no prepayment penalty loan that is ten years or longer; typically they are five year notes. That isn’t to say they are amortized over five years 20–40 years is typical amortization. Most commercial loans now aren’t fully amortizing; meaning you will need to refinance at some point before you’ve paid off the loan. There isn’t the same securitization pipeline for commercial as there is for homes.
+
+Under that circumstance you want to consider how much refinancing is going to cost you every time you have to do it. How to structure your debt is a major business decision for precisely these reasons. It’s good you are thinking about this beforehand.
+
+Non prepayment penalty notes can be good if you have large amounts of equity and are working to expand your portfolio. They give the flexibility to refinance and take equity out to do other deals with. Long term notes are good if you want to ensure stable cash flow over the long term since you aren’t as affected by changes in interest rates. They lower transaction costs by lowering the number of refinacings
+
+If you are buying for the long haul but think you might sell if the market gets really hot a few years down the road I’d look at some fixed rate notes with early prepayment penalties that taper off after five years. That may or may not be available depending on the size of the apartment building. If it’s a small building your only financing is going to be local or regional banks and they don’t do long term notes very often anymore. If it’s larger you might call a mortgage broker and spell out the loan amount and the structure you are looking for.
+A$A$A
+Of course, as long as you can pay off the remaining balance on your loan at the time of closing the sale.
+A$A$A
+Sure, you just have to pay the loan off at the closing table. It happens all the time. Remember that you’ll incur normal closing costs too (preparing the documents, recording the documents, taxes, final water, etc.) So, say you’re selling for $100K. Subtract what you still owe and your closing costs from what the buyer is paying you. Bingo, your net.
+A$A$A
+In general the answer is yes you can sell and pay mortgage off with money from sale wherein ending the mortgage contract and the interest on the loan.
+
+Be sure to read the contract for language indicating a ‘penalty’ charge for an early payoff before the contract end date. You will want to know this penalty before you take out the contract to buy the property. Some contracts have this clause and some don’t.
+A$A$A
+Yes you can. Whatever is still owed on the property will be paid to the bank during the close of escrow,once the property is sold.
+A$A$A
+Selling your property while in mortgage is a fairly common thing. Being in mortgage simply means you still owe money to your lender and have not yet satisfied your home loan. The first thing to do when you get together with a real estate listing agent is to find out your current mortgage payoff. This helps you and your agent figure out what your current borrowing situation is and how much you need to sell your home for to cover the loan balance.
+
+In an ideal home sale process, you sell the home and get enough money to easily pay off your loan balance. In this situation, your agent usually works with your title company and real estate lawyer to prepare loan closing documents and a settlement statement.
+A$A$A
+Interest is calculated on a daily basis If you want to sell the balance of your debt is simply paid off form sales proceeds Some loans might have a pre-payment penalty so always become familiar with your paperwork. Simply call your loan company and request a payoff to calculate your net proceeds from a sale
+E$E$E
+
+Q$Q$Q
+How do I find loan payments for amortized loan?
+A$A$A
+Calculate the amount of the loan balance at each point in time, in terms of the original loan balance and the sum of the monthly loan payments, adjusting for the interest rate. That’s where the 1 + r to various powers comes in. Continue until the last payment, at which point the remaining balance is zero. There should be a few geometric series in this equation. Substitute the sum of the geometric series, which you should have learned in high school. Solve the resulting equation for the loan balance. The result is the equation shown.
+E$E$E
+
+Q$Q$Q
+What is the average monthly student loan payment in the US?
+A$A$A
+My student debt is pretty low compared to most, for a few reasons:
+
+I worked 25-35 hours per week while I was in college, so I had an income (although small) and was able to support myself.
+
+I lived off-campus and shared an apartment with roommates and my boyfriend, which helped keep my cost of living down.
+
+I went to San Jose State University which is a Cal State, which means that tuition is partially subsidized by the state government, making it relatively cheap.
+
+For these reasons, I only borrowed a total of $10,000 my entire college career in the amounts of $4,500 at 5.6% interest and $5,500 at 3.4% interest, both subsidized. A subsidized student loan is one that does not accrue interest while you are in school (interest is paid or subsidized by the government). When I graduated my minimum monthly payment was $105 and then I paid off my first loan very quickly so now my minimum is only $54 per month.
+
+That being said, my experience is below average. I went to a "cheap" state school, but private universities by contrast cost around $40-60,000 per year. Unless a student has a scholarship, help from family or the government, it is very possible for someone at a private university to graduate with $100-200,000 in debt. Just for fun, here are some rough figures for what it costs to attend Boston University per year as an undergraduate.
+
+So I bet bet you're wondering why anyone would go to a private university if they are so expensive. Well, private universities are considered the most prestigious (think Stanford, Harvard, Princeton, etc.) so this is the ideal that good students strive for, and it's commonly believed that the more prestigious your school, the better job you will get when you graduate. So in the US the high cost of higher education is perpetuated by the idea that you are only receiving a "quality" education if you pay a lot of money for it. And so the cycle continues.
+
+Of course this isn't true and a lot of people get good jobs without paying ridiculous amounts of money for their degree, but people don't dream of going to SJSU (my school)... they dream of going to Stanford, and therefore whatever debt that comes with it.
+E$E$E
+
+Q$Q$Q
+Can I force my student loan payments to go towards the principal and not the interest?
+A$A$A
+When you're taking out a loan, its structure is listed below: first, the interest with small portion going towards the actual principal amount, and gradually transitioning towards paying off the principal amount.
+
+
+
+
+
+This is how lenders make money. Your complaint about it and your wish for them not to make money will not cause them to re-do their business model.
+
+You have a couple of things here.
+
+You have signed up to make payments, and you can request the breakdown of the interest and principal (amortization schedule) from your lender.
+
+If you can, make larger payments towards principal and ask your lender on how to get this done, so to shorten the life of the loan as your principal balance will be reduced at a more aggressive rate.
+A$A$A
+No. Payment application order for federal education loans is controlled by federal statute and regulations that require payments to be applied first to late fees and collection charges, second to interest and last to principal.
+
+Private student loans have similar requirements in the promissory note.
+A$A$A
+One word answer is "No".
+
+Majority of educational loans have moratorium period /repayment holiday. (e.g. study period + 1 year after completion of course or 6 months after getting a job, whichever is earlier) . During this period interest is accrued (calculated but not demanded) . At the end of the moratorium period this accrued interest is added to principal or capitalized.
+
+If one were to make payment during moratorium period , as you want to do, Banker will first calculate interest accrued till that day and first adjust the payment towards accrued interest. The reminder amount, if any, will be adjusted towards principal. Some banks give concession if interest is paid during moratorium period.
+A$A$A
+In most loans, you can make additional payments that will go 100% to the principal. But, you have to pay the interest due. That's how loans work.
+A$A$A
+I do not believe you are able to only hit the principal while letting interest accrue. The company / investors who own your loans likely have this written in the contract as they would be missing out on money as you've discovered. You can confirm this by reading the loan agreement you signed when you took out the loan. They have to make their investment back somewhere :). You can direct any overpayments to specific loans and as you likely know should focus on the loans with the highest interest rate as this will give you the best return.
+A$A$A
+It will depend entirely on the terms of your student loan. However bear in mind that virutually any loan is structured in such a way as to provide return to an investor, whether on the actual money loaned, or on the product the money purchased (ie. zero percent auto financing).
+E$E$E
+
+Q$Q$Q
+What solution do companies use to auto-deduct monthly loan payments from customer bank accounts?
+A$A$A
+Assuming you have the authorisation to do so, this would be as simple as generating a periodic ACH file and sending the file for onward processing to debit the accounts. Most companies in the space I know of and have worked with use this methodology, i.e. ACH.
+A$A$A
+I am not sure of the specific architecture these companies use but the bank payments are done through ACH. If you are looking for a tool to help, check out Synapse Payments it has instant logins for most major banks and a white label experience on the API. Recurring payments can be set up and it is just 25c per transaction.
+A$A$A
+we just ACH our customers, its fast, cheap and passive.
+E$E$E
+
+Q$Q$Q
+Suppose a loan compounds annually at the end of the year. Loan payments are also made at the end of the year. Which is applied first to the principal: the compounding interest or the loan payment?
+A$A$A
+It depends on the loan document. The two most common arrangements are interest in arrears (typical of mortgages) and interest in advance (typical of most other types of loans to individuals).
+
+Suppose you borrow $1,000 at 10% annual interest. With interest in arrears, $100 interest is due at the end of the year. If you pay $90, $100 will go to interest, then the remaining $90 will pay down principal to $910.
+
+With interest in advance, you pay $100 at the start (in practice, you only receive $900). At the end of the first year, if you pay $190 then the loan will be paid down to $900; $100 of your payment is applied to principal, then you must pay $90 interest in advance on the remaining $900. In this case, the payment has to be applied simultaneously to both interest and repayment.
+A$A$A
+Interest is compensation for use of someone else's money as well as the risk of not returning the money (i.e. defaulting).
+
+If the lender has provided a borrower with a loan for a year then by the end of that year compensation in the form of interest is due to be paid in addition to any capital agreed to be returned by that date. Any repayment made will be a combination of interest and capital unless this is an interest only loan — in which case interest only is paid until the end of the term of the loan at which point the full capital amount is repaid along with any interest due since the previous payment.
+
+So, you borrow 100 for 1 year at the start of the year at 10% interest p.a. At year end you owe 10 in interest plus the original 100 needs to be repaid (in this example the loan term was 1 year ). However you look at this you still have to pay 10 in interest and return the 100. If the term was 2 years at 10% interest p.a. you'd have to consider that the first instalment will be 10 + return of some capital and the 2nd instalment will be 9….+ rest of outstanding capital. This is where the instalments are equal and the capital outstanding at the end of the first year is reduced by the capital portion of the first instalment.
+
+Compound interest formulae are required to calculate the split of each instalment into capital and interest.
+
+Bottom line: interest is always due on the amount outstanding for the time between payments. Capital or principle is reduced after interest is applied else lenders would not be compensated for lending.
+A$A$A
+First, I like your supposed example; it keeps the math easier. And second, to quickly answer your question, interest. Let’s assume a $100,000 loan at 5% interest amortized over 10 years with, as you suggested, annual payments. The payments are $10,000 per year. The interest in the 1st year is $5000. That leaves $5000 toward the principle. In the 2nd year interest is calculated on $95000. When the payment is made at the end of the year, $4750 goes to interest (first) and the remainder goes to principle. Now you owe $89750. Interest in your third year is $4487.50…. ….etc, etc. Always interest first.
+A$A$A
+Interest is the first component to be adjusted.
+
+CA.Bhavesh Savla
+
+www.cabks.in
+E$E$E
+
+Q$Q$Q
+Can I delay car loan payments until I get my license plates?
+A$A$A
+Based on the details you posted in your answer, have two core questions here: “can you delay loan payments” and “how can you get the title resolved”. The first has been answered sufficiently by others.
+
+The second is more tricky. You didn’t say what country/state you live in, so the answer will vary a lot. Having been in a similar situation (I bought a car but the previous owner did not handle the title signover correctly), I would suggest doing this:
+
+Contact your state’s Dept of Public Safety or Dept of Motor Vehicles, and explain the situation. I don’t know how things are in your state, but in Texas this means taking whatever documentation you have on the sale to the local courthouse.
+
+They will tell you what kind of options you have. Some states will allow you to buy a series of temporary, one month tags to cover the interim before the title is cleared up. This would be the easiest route if it is available. Note: this requires talking to the state directly, not the dealership.
+
+Take your documentation to a title company, who specialize in resolving disputed car titles. They may be able to assist you, though it will probably cost you more than going to the state directly.
+
+Research the local laws about bonded titles (for Texas, the info is at: Bought a vehicle without a title?). This is what I ended up having to do. Basically you put down a payment that the state holds as your bond, and you sign a statement that the car belongs to you. You get a temporary permit, and after a set period (usually 6 months or a year), if no one has disputed your ownership of the title, you get the bond back and the title is yours.
+A$A$A
+Nope. The bank who financed your loan is not associated with the Department of Motor Vehicles. They are 2 separate entities. If you havnt received your plates, call the DMV and see if the dealer submitted your paper work.
+
+By with holding payment to the bank you are at risk of not only damaging your credit but even worse you could be deemed a first payment default if this is your first payment. If your first payment is late then the bank will feel you are an at risk client and may just repo the vehicle.
+A$A$A
+No….
+
+I don’t even…
+
+I can’t….
+
+What kind of question is this?  I mean, you CAN.  You’ll just ruin your credit and have late fees.  Obviously.
+
+You should have temporary registration, and a copy of the contract that makes clear your obligations.
+
+Why on earth would you think you could violate your contract just because you haven’t got your permanent registration yet, but still have temporary registration?
+A$A$A
+It is possible to get a loan that has a repayment schedule that doesn't start for a couple of months. Of course, the balance is still accruing interest during this time, and the added risk could increase the interest rate. This would need to be negotiated before you sign off on the loan. You would also have to specify how long it is. They do not know when the DMV will issue the plates.
+A$A$A
+Normally when you buy are car you are given temporary plates until your permanent ones arrive so there would be no reason to delay the loan payments. Also the two events have nothing to do with each other, one has to do with the state government and the other has to do with the financing company.
+A$A$A
+When you take a loan to buy a car. As soon as you spend the money and take possession of the car, the lender will want their payments unless you organize some other payment schedule ahead of time. (Unlikely)
+E$E$E
+
+Q$Q$Q
+Can I make prosper loan payments with a credit card? If so how to do it?
+A$A$A
+I do not know. The setup is to connect to your personal checking account so that funds can be withdrawn automatically. If you have a credit card set up to cover overdrafts, you may do it this way. The bank will charge you an OD fee. Call Prosper customer service.
+E$E$E
+
+Q$Q$Q
+What's the average percentage of income spent on student loan payments in the US?
+A$A$A
+The typical student would pay around $3500 per year in student loan payments, based on an average debt (as of Q1 of 2012) of around $24,000 and a typical payment schedule. The average graduate with a four-year degree earns between $40,000 and $45,000 per year. So...simple arithmetic suggests that a typical student will spend around 7-8% of income on student loan payments, which actually seems about right to me.
+E$E$E
+

@@ -1,0 +1,406 @@
+Q$Q$Q
+What questions should I ask my loan officer when applying for a mortgage?
+A$A$A
+About me. I'm a Product/Mortgage Expert at Blend Labs helping to build delightful end-to-end software empowering banks to become better mortgage lenders. Formerly, I was a top 10 mortgage originator at Wells Fargo and worked at Bank of America and Goldman Sachs.
+
+So here is my advice:
+
+Shop for a Great Loan Officer - Not just rates: Homeownership is a deeply rewarding experience.  Needless to say, applying for a mortgage loan is one of the most important financial decisions a consumer will undertake in his or her lifetime. Yet, did you know that according to the Consumer Financial Protection Bureau, less than half of consumers actually shop around for a mortgage?  This means that most consumers are not doing enough research to compare their options.  The best advice I can give you when applying for a mortgage loan is that you need to find the best loan officer at a reputable lender who is willing to provide you with the level of service you require. 
+
+Rather than shopping for a mortgage loan purely based off of the lowest advertised rates and/or fees, I recommend shopping for the right loan officer first. I believe in building a lifelong relationship with a loan officer who will help you and your current or future family members with your current and future transactions.
+
+Yes, even with mortgage lending the focus should be on the long-term since most of us will need a mortgage for a home purchase or refinance 6-10 times during our lifetime.  This loan officer will understand your unique financial situation and remember important details and will not need to ask you to start the loan process from scratch every time you need a new loan.  And since most lenders will match on published rates and fees - and major lenders such as Wells Fargo, Bank of America and Chase publish their rates on their websites - it is not hard to sanity-check your loan officer's quotes early on and negate price differentials.
+
+At Blend, we have the privilege of regularly interviewing top-producing loan officers from various lenders as part of our ongoing user feedback sessions for our mortgage origination software.  Although we ask them a wide range of questions in our interviews, we've found that it's most important to ask these questions when identifying the right loan officer to work with:
+
+Question 1: How many transactions do you work on per month, per year?
+
+Logic: Completed transactions are similar to upvotes or likes. The more transactions the loan officer is working on or has closed, the more likely that the loan officer is experienced and has a solid track record of working successfully with customers since happy customers = more referrals and more referrals = more closed loans.  (1-2 loans a month is considered normal; anything over 10 is considered a lot of loans.) Conversely, if a loan officer is working on more than 20 or 30 loans per month you want to better understand the level of service you will receive on your loan.
+
+Question 2: What is your Net Promoter Score?
+
+Logic: As in the tech space, the Net Promoter Score is used by many lenders to track their loan officers' performance on every closed loan transaction.  As opposed to a few testimonials and online reviews, this score is more representative of the level of service you will receive.  This is because we haven't met one loan officer who has told us that they provide poor service, so having an objective measure like NPS will help you make a better decision. A loan officer with a very weak score of less than 50 - meaning less than 50% of consumers would recommend the loan officer to a friend - should be a sign that you need to run, not just walk, away. A low score could be a sign of issues that consumers have identified that you may want to know prior to selecting the loan officer: 1) closing delays 2) not responsive to phone calls or emails 3) lack of transparency into the process and 4) other negative experiences. 
+
+Question 3: What is your experience working with consumers similar to myself?
+
+Logic: There is a saying that every loan is unique.  That is absolutely true.  If you are a software engineer working at a startup and receiving annual bonuses and incentive stock options, you want to know that the loan officer has experience working with consumers with a similar profile to your own.  What you don't want is to go into a whole dissertation on the stability of your startup and continuance of your income and what is an incentive stock option.  If your loan officer doesn't already know how to structure transactions for software engineers, you don't want your loan to be the test file. 
+
+Question 4: Tell me why you chose this profession?
+
+Logic: Passion is important.  We've found that passionate professionals seem to care more about their customers and look out for their best interests. As an example, we spent some time today with a top producing loan officer who is on track to do over a $100M in loans this year and his manager.  We could tell right away that they were dedicated to delivering the best consumer experience possible by the questions and feedback they gave us on making the mortgage process as seamless and user-friendly as possible.  Whether over the phone or in person, it is not hard to identify loan officers who are passionate and will go the extra mile to deliver a compelling experience to consumers.
+
+Question 5: Can you explain your process and turn-times for working with applicants to get my loan from application to approval?
+
+Logic: The worst thing to do when applying for a mortgage loan is assume that the process should work a certain way without understanding and setting the right expectations. Every lender and loan officer has different processes and turn-times so it is a good idea to understand this upfront.  Your loan officer should be able to explain the mortgage process concisely and clearly so that you can be sure that he or she understands how to help you navigate the process and is not a newbie.  If it takes 2 weeks for an underwriter to review your loan file, that would be good to know upfront so you are writing your purchase contract with enough time for closing on your loan.  Similarly, if your loan officer is only in charge of the initial sale and will not oversee your loan from start to finish you have to assess your comfort level with that arrangement.
+
+Question 6:  How do I keep track of the status of my loan and at what milestones will I receive updates?
+
+Logic: Communication is key.  For many of us, applying for a mortgage loan will be extremely stressful.  Getting regular updates during a 30-day mortgage process will allow you to tackle the process one step at a time and track your progress.  Loan officers can get so overwhelmed in their day-to-day work internally that they forget to provide key updates to their customers; especially if they are working on a lot of files.  Updates like your loan has been suspended for further documentation should be provided to you immediately and not when the loan officer feels like notifying you.  A few lenders have online portals for consumers to track the status of their loan since they realize that updating customers on status is not prioritized enough in the industry.
+
+
+
+Question 7: What is your track-record of on-time mortgage closings?
+
+Logic: One loan officer confided in us that he has not closed a loan on time for the last 4 months. This means that none of his customers were able to make their closing dates on their home purchase. Therefore, a track-record of closing on time is paramount; especially when you have a high stakes home purchase and can be held liable for a breach of contract by the seller for not closing on time.
+
+Question 8: What do you think my chances of loan approval are?
+
+Logic: If the loan officer doesn't think your loan will be approved, you need to search for a different lender or understand what you need to change in your financial situation to get your loan approved.  Most experienced loan officers can tell you if your loan will be approved before an underwriter formally reviews your loan file. They know what their institution can approve and what can't be approved.  If there is something that you are worried about on your file, it is best to disclose your concern with your lender upfront to allow for full transparency.  Your loan officer will usually use an automated decision engine to see if your loan can be approved at point of sale even if he or she is not sure or can call an underwriter to get an opinion on a lending rule or guideline upfront. 
+
+Question 9: What city and state is your processing center and underwriting center located at?
+
+Logic:  Every loan needs to be sent to a processor and underwriter to be worked as part of the loan process.  When given a choice, it is better to have local processing and underwriting (or at least within the same time zone).  If processing or underwriting is not local, you want to know what hours you can contact the appropriate person for questions and how this might impact how your loan closing and when someone will work on your file during the day in case you need to submit additional items.
+
+Question 10: Is there anything that we have not discussed, that I should be aware of?
+
+Logic: No matter how thorough you are, applying for a mortgage loan is complex. By asking this question, you will uncover some known unknowns and perhaps some unknown unknowns as well.  Things like “Will I get a discount for setting my account up for auto-pay or opening a bank account.” Lastly, you will discover things that are material that your loan officer feels that you should be aware of whether positive or negative.
+A$A$A
+Let's assume the property you are asking for a loan on is in Illinois.
+
+Here's a few solid questions to ask:
+
+(1.) What is your Illinois state license number?
+
+Write it down and verify online.
+
+(2.) How long have you been a loan officer?
+
+I suggest working with a loan officer with at least 5 years experience. This can be verified online.
+
+(3.) How much is the appraisal fee, and when is it due.
+
+Expect $300-$500, due at application
+
+(3.) How much is the standard loan origination fee?
+
+Agree to pay no more than $1000-$1600.
+
+(4.) What rate do I qualify for?
+
+Shopping rates is tricky. Mortgage rates move around daily. But if the rate quoted seems decent, and the other factors above match: go forward.
+
+(5.) When will I see the initial good faith estimate?
+
+Once the loan officer prints out a Good Faith Estimate... the loan origination fee CANNOT increase.
+
+So by making sure you get the good faith locks in that fee. The loan origination is the only fee the loan officer controls.
+
+3rd party fees quoted on the gfe (appraisal, transfer taxes, closing/title insurance, etc) cannot increase by more than 10%.  If they do, the lender pays the difference.
+
+Once you have found a property and have signed a contract to buy it, and you have officially applied for a mortgage loan: you can lock the interest rate.
+
+I hope this helps.  There's more to the process, but this is a solid set of questions to ask a loan officer.
+
+(Written by a former loan officer)
+A$A$A
+You should follow that officer's lead in the line of questions.
+
+The officer works for the bank - NOT for you.
+
+The officer protects the bank's interests - NOT yours.
+
+So, the bulk of questions the officer will ask you is about how are you going to repay the loan and how can you calm the bank's fears in case something goes wrong.... And this is your line of questioning - what's going to happen to you if something goes wrong with the loan?
+
+For instance, if you are laid off/lost your job - will the bank give you some forbearance/leeway or will they evict you and throw you out on the street?
+
+If the bank closes (let's say for financial fraud) - what's going to happen to you and your house and your loan: will you have to find new financing? Will you be out on the street? Will the house be deemed as a collateral for the bank (bank's property and asset) and repossessed and sold from under you?
+
+If you decide to pay off the loan tomorrow - let's say you had won a lottery - can you do it based on the principal owed or are you liable for any interest (and how much) AND any pre-payment penalties (how much)?
+
+If you decide that you want to sell the house but the values have dropped - let's say you are looking at the short sale - will the bank have to approve it? What's going to happen to the chunk of the loan that has to be written off by the bank (let's say a loan is $100k, you sell it for $50k, what's going to happen to $50k balance?) - usually it's put as income to the homeowners; and are you ready to pay $20k of taxes to the IRS (assuming you are in US)?
+
+What if the property is destroyed? By rain? By a hurricane? By a flash flood? By mold (deemed to be uninhabitable)? By an earthquake?
+
+Who's going to rebuild it? How much of the rebuilding is covered? What if you have to relocate? Do you have to try and sell it or do you just hand over the house keys to the bank and leave?
+
+And after you have all those answers - hopefully in a brochure, in writing, with highlights of the relevant passages/phrases - see if you like that bank and that loan officer.
+A$A$A
+Buying a home and spending life under your own rooftop is everybody’s ultimate desire. Who doesn’t wish to own a dream home. We try to earn and save a reasonable amount in order to make yourself eligible for buying a home. Many times we doesn’t wish to spend our entire saving on grabbing the property, rather we take the help of Home Loan. But before proceeding for Home Loan there are many important points to ponder upon. Here are few of the points that you should be asking to your Home Loan officer before availing the Home Loan:
+
+What is the interest rate at which you will be providing the Home Loan?
+
+Will the interest rate be Fixed or Floating?
+
+What can be a feasible interest rate and tenure as per your income and business plans?
+
+Will you be provided the facility of Balance Transfer or not?
+
+What are the benefits that you would be entitled for?
+
+If sometimes you delay you EMI payment, then what would be the scenario?
+
+What if you want to get a second Home Loan.
+
+For more inquires visit: Mohan Cheema-Best Home Loan Officer in Fresno, USA- 559-905-2575 Reputed Loan Officer in USA
+A$A$A
+You should always start off researching information about the company before you speak to anyone. This way you have an idea in your mind about who you are doing business with. Before you start your loan application, ask about the fees involved in the transaction? Have them explain what information they will be sharing with third parties. Ask them about any specialty niche programs they might have available for your current purchase/refinance situation. If there is anything you're uncertain of, no matter what it is, ask! Nothing is off limits, this is one of the biggest transactions of your life.
+A$A$A
+There are  a number of questions that you should know before applying for a mortgage. Instead of writing all questions and answers here, I would like to share a really useful resource that will not only let you know the questions but answers as well. Please follow below given link
+
+What questions should ask I ask my mortgage Officer?
+A$A$A
+There are n number of mortgage lenders in the market. Finding right mortgage lender is very important. I am a resident of Canada. I wanted to buy a home in Richmond Hill , and I was searching for a trustworthy mortgage lender. A friend of fine suggested me MCC Inc and all my concerns was solved. They are so fast with the whole process and your work will also smoothly done. I suggest you to approach them.
+A$A$A
+Is this the best rate / term you an offer?  Why?  Is my information kept confidential? How (what steps are taken)?  How long have you worked here and why?  What do you like most/least about doing this type of work? If my credit where better or down payment more would I qualify for better terms?
+E$E$E
+
+Q$Q$Q
+How long after taking a new job should I wait before applying for a mortgage?
+A$A$A
+You do not need to have the same employer for the past two years to qualify for a loan. Mortgage lenders are more concerned that you've had employment for the past two years, so you could have multiple jobs. Actually, you can begin a new job and many lenders could approve you after just 30 days of employment. Mortgage underwriters will want to know "what you've been doing" for the past two years. If you haven't been working, then have you been in school? Have you been taking care of a young child? Any "gaps" in employment (especially if they are six months or more) should have a good explanation. Lenders don't want to loan money to people that can't display that they've either been capable working over the past two years unless they have a good excuse. So, it's about employment, not the employer.
+
+Now, of course, it's "nice" to see a borrower that's had the same job for a long time (this indicates less risk of them losing the job), but not critical.
+
+From the information you've disclosed in your question, you sound like a great borrower granted your credit score is good and your debt-to-income ratio is acceptable (meaning you can afford the home).
+
+Why would you want a non-conforming loan? Is the loan amount above the conforming limits? I'm curious just because non-conforming loans typically have much higher rates and often these "portfolio" loans command a variable rate. Conforming loans will generally have much better terms since they "conform" to Fannie or Freddie guidelines, meaning lenders can sell the loan to Fannie or Freddie, get the money back, and lend it out again. If they can't sell the loan, they'll want a higher rate to compensate them for not being able to sell the loan and use that money to make more loans.
+
+I hope my answer was helpful.
+A$A$A
+To add to the great answers here, most lenders now use the Ability-to-Repay (ATR) rules to underwrite income.  http://files.consumerfinance.gov...
+
+The requirement for the lender to obtain a 2-year work and 2-year residence history is often mis-interpreted to mean that borrowers need a 2-year history with the same employer but this just means that the lender needs to ask for employment history for 2 years whether or not the borrower actually worked for the past 2 years (i.e. new college grads, mothers and fathers returning to the work force after maternity or paternity leave, or employees returning to the workforce after disability or unemployment may not have worked for 2 years but they are not all automatically declined).
+
+For your situation, this citation from the rules will show that you don't even need to start your job for the income to be considered:
+
+"Future income can count toward ATR if you verify it using reasonably reliable third-party records. Suppose you have a consumer who accepts a job in March, but will not start until he graduates from school in May. If the employer will confirm the job offer and salary in writing, you can consider the future expected income in your ATR determination. "
+
+The max debt to income ratio allowed is usually 43% of your pre-tax income (gross income) so staying under 33% of net pay for the new payment plus monthly property taxes and insurance should work as long as you don't have any other significant recurring credit liabilities that would cause you to exceed 43% of yourgross income.
+A$A$A
+Dan is right. That said,  there are always exceptions to the rule. It's true that there are certain guidelines a borrower must meet in order to qualify for a mortgage. The reason for that is because most if not all conventional mortgage is being sold in the secondary mortgage market (ie Mortgage backed securities AKA MBS), therefore, it has to meet certain underwriting requirements among which is stable employment. However, there are lenders who do not sell that mortgage but instead keeps it in house as part of their portfolio. Thus, these lenders have more flexibility in terms of underwriting requirements and may not need 2 years of employment.  Some lenders would use bank statements as a mean to measure income of borrower (this works well for self-employed borrowers who have lots of tax write offs this minimal taxable income but have plenty of cash). Some lenders would look at other liquid assets such as stock, bond etc as a measure of income.
+
+In your situation, it'd be best to discuss your situation with a knowledgable mortgage broker who can help give you a solution.  And please don't ask what the interest rate is right off the bat but give the mortgage broker a chance to solve a mortgage problem for you. At the end of the day, any loan officer can quote you the lowest rate but whether you can qualify for that rate is the entire different story.    In other words, you can't get something for nothing.
+A$A$A
+My A2A comes from Matthew Ludwick while others A2A seems to come from "anonymous". Pointing that out as I am answering this for Matthew whom I have talked to before.
+
+Matthew, there are a few considerations but the most important red flag based on my 25 years experience as an agent vs lender is the "funding conditions" vs the approval considerations. Many have already answered that there is no 2 year in the same job requirement. BUT there is often a problem with the funding of the loan even though the buyer was pre-approved and approved for the loan if they try to close too quickly after being hired. (Same happens when people switch jobs after offer acceptance and prior to closing.)
+
+Most all loan approvals have a "funding condition" of receiving one or two pay stubs from the new job. Different lenders will have different rules so check on that with your lender and not "general" info. Some want 1 pay stub. Some want 2 pay stubs. When you make an offer on a property and agree with the seller on a closing date, be sure that you will have enough pay stubs by that date for the loan to fund on time.
+
+This has come up enough times in my 25 years (usually when I am representing the seller vs the buyer since I take care of this up front if my client is the buyer) to be worth a mention. It is often more of a problem when the buyer is not paid weekly. Sometimes the first paycheck is delayed for payroll accounting reasons. If someone gets paid every month on the 1st and the 15th and they make an offer before the 1st to close on the 30th (common scenario) they often only have one paystub from the 15th by the 30th. Sometimes the lender doesn't count that 1st paystub because it is not a regular work period and they need two paystubs that are reflective of the amount you can be expected to receive on a regular basis. So if the 1st pay stub is for more or less days than normal, it may not be counted at all and so you will need your 2nd and 3rd pay stubs that conform to your annual salary and regular period of pay.
+
+This issue does not usually come up in the approval process. If you get paid weekly it is less of an issue than if you get paid bi-weekly or semi-monthly. So even if you have your approval in hand I would say wait until you have at least one or two paystubs from your new job before making an offer on a house to avoid a bit of chaos at the end. Most contracts to purchase a house require that you close on time, so even one day late is a bit problematic. Try not to time it too closely as to closing on the same day or the day after you will have that pay stub needed to fund the loan.
+
+My only other caution is if any portion of your income from your old job is overtime pay if you were an hourly vs salaried employee, or bonus pay if you were a salary plus bonus employee. That income will not likely be counted. So don't move forwarded in making an offer without an "underwritten pre-approval". Most pre-qualification letters or pre-approval letters given to you to make an offer on a house have not passed through the underwriter. That is why some of those offers fail on financing at the end. If you are not and have not been a salary only employee for at least two full years, go the extra step of getting your lender to run your pre-approval through the underwriter to avoid problems.
+
+All too often you have an approval "subject to underwriting" and the underwriter is the one who picks up that a portion of your income is not going to be counted. Often the underwriter doesn't see your file until the week before closing. There is a way for the underwriter to see it up front, but it is not the norm. If you have switched employers during the 2 year period, ask your lender to run your fully documented file by the underwriter in advance of your making an offer. Not all lenders can do that. Not all lenders will do that. But anytime there is any question that could cause significant issues if discovered late in the day during the last week prior to closing, best to insist on it not only being "pre-approved" but also "pre-underwritten".
+A$A$A
+Answering for consumers located in the United States.
+
+There are four "Cs" of analyzing a mortgage loan.
+
+Character. Do you have not only the ability but the willingness to pay your bills on time? People tend to not change (with some very minor exceptions.) If you pay your bills on time, you probably will continue to do so.  If you don't pay your bills on time, you will probably continue to not pay your bills on time. 
+
+Capital. Where is the downpayment coming from? Sounds like you have saved up 10%, with more coming from relatives as, I'm assuming, is a gift. If it is a loan, the fact that it's a loan must be disclosed to the lender. Yes, you can still obtain a mortgage loan if part of the downpayment is a loan from relatives.
+
+Collateral. This is the home. You're asking a mortgage lender to take a 15 year collateral interest in a piece of real property and your written promise to repay.  They want to make sure the home's value is worth what you're paying.
+
+Capacity. Does the borrower have the ability to repay the loan? This is where you're concerned.  Even if you have a brand new job, what a lender will look at is your earning capacity overall.  For example, have you been employed in your same line of work for more than 2 years and you just took the new job? This should not be a problem. People move around all the time.  Instead, maybe we take a look at 2 years worth of tax returns to see how much you've been able to earn over the past 2 years, even if you've had a few different jobs in that same line of work.  Maybe you were in nursing school for the past 2 years. You've graduated and are now a registered nurse.  As a former mortgage loan underwriter, I must say I love this scenario.  You'll never have to worry about getting a job for the rest of your life with an RN degree.  I will accept 2 years in nursing school in lieu of 2 years of employment if the end result is a professional degree that will afford you ample opportunity to repay my company's loan.
+
+ALSO-- What's this about wanting a non-conforming loan? In the United States, in 2016, that's a code word for what we use to call subprime.  Why would you specifically seek out a loan formerly known as subprime? If you have all 4 Cs noted above, you should be able to qualify for a conforming loan, which means a loan that conforms to guidelines set forth by: Fannie Mae, Freddie Mac, FHA, VA, or USDA.
+
+Clarify this for us, if you need more guidance and good luck!
+A$A$A
+Helpful link from the Mortgage Bankers Association: Qualifying for a Mortgage
+
+Employment history
+
+Job  stability is a factor that a mortgage lender will look for, and two  years at your current job helps, but this also is not an absolute  requirement. If you change jobs but stay in the same line of work, you  should not have a problem — especially if the job change is an  advancement or increase in income.
+A$A$A
+I suggest that some income tax returns and a current employment letter will get you started, even if you have just changed jobs.
+
+A lender wants to know if you have the intent and ability to repay the loan.
+
+A solid credit history will be a determinant.
+
+With the prevalence of contract employment, lenders are looking at the total picture, your history of handling debt is key.
+E$E$E
+
+Q$Q$Q
+Mortgages: What is the process like of applying for a mortgage?
+A$A$A
+The process starts by identifying the right mortgage for your needs. Spend some time asking yourself some questions: how much can I afford to pay each month? how long do I plan to stay in my home? is this just a starter home or the one where I want to grow old? If it's a refinance, why am I looking to refinance (better rate, take cash out)? These are all factors that affect what type of mortgage you should get.
+
+Doing a thorough self-assessment is a crucial part of the process. MortgageHippo walks you question-by-question through this initial self-assessment. If you're willing to put in the time to do it right, it will require more effort upfront, but it will save you time, headaches and potentially a lot of money down the road.
+
+Once you've identified the right mortgage (and if you're buying a home – identified the property too), you can begin the application process. A good loan officer will help you get organized upfront so that the process runs as smoothly as possible. A good loan officer will also help you identify potential obstacles in your mortgage application so that you can tackle them early on and not be scrambling around at the last minute. For example, if you have student loans in deferment, you may need to ask your student loan lender for a payment letter to determine what the monthly payments on your student loans will be when you come out of deferment.
+
+The first step is to submit an initial application package to the lender. This package usually consists of the mortgage application, income and asset verification documents, your credit report, and signed disclosures. After submitting this initial package, your lender will review it and either approve it, deny it or ask for more information and/or modify the original quote.
+
+If the lender approves it, it will be a preliminary approval, and the lender will require additional documents from you and about the property you are purchasing or refinancing. These are called "conditions to close." The name of the game at this point is clearing these conditions to close as soon as possible. For example, if you're buying a condo, the lender will usually require a condo questionnaire from the condo association. This may take some time to get so plan accordingly. If you've been divorced, the lender may want a copy of the divorce decree. As you can see, this is a very borrower-specific experience at this point.
+
+Once you're cleared to close, set the closing date and get your signing hand ready to execute a lot of final documents (the promissory note, the mortgage, etc.). Enjoy your new mortgage!
+
+The main point is, the process doesn't have to be painful if you organize yourself and you go about it the right way. This is what MortgageHippo is all about: getting the mortgage process right, and, why not, even making it a little fun!
+A$A$A
+Some time it is very difficult to make decision that How to Apply For a Mortgage?
+
+All you need is to take care of few things, like
+
+1: Are you really able to get Mortgage?
+
+2: Is your PITI under 28% to your gross salary ?
+
+3: Is your DTI under 36% to your gross salary ?
+
+4: 20% of Down payment is good ratio for initial investment.
+
+So these are some main steps to How to Apply For a Mortgage
+
+If you fulfill these steps than it is easy for you to afford Mortgage.
+
+For more information related How to Apply For a Mortgage,
+
+Please Visit; http://www.beingarealtor.com
+
+Thanks for reading, but before you go, don’t forget to give this post an up-vote if you found it useful :)
+A$A$A
+Oh.  It can be painful.
+
+Typically it starts with a visit to your lender.  You will fill out an initial application and supply all sorts of personal financial information including tax returns, w-2s, a personal financial statement, and pay stubs.  Based on this information your lender will give you a preliminary approval for a certain amount... Say $200,000.
+
+Then, the lender will order all sorts of things on the property like appraisals, flood certifications, title work, and a property inspection.  As long as everything checks out, you'll move towards closing.
+
+At closing, you'll sign your name to 100 documents and then you'll be done.  The whole process usually takes 30-60 days.
+E$E$E
+
+Q$Q$Q
+Can seniors apply for a mortgage?
+A$A$A
+Of course! It is a crime to discriminate on someone based on their age. The main exception being a minor, but then you can’t get a loan anyway.
+E$E$E
+
+Q$Q$Q
+How are employment gaps treated when applying for a mortgage?
+A$A$A
+Most US lenders nowadays require income documentation in the form of the past two years of the borrower(s)' income tax returns. So an employment gap more than two tax years ago may be no problem (in 2012 or earlier).  For a gap between one and two tax years ago, you may be able to find a lender who won't mind. If your gap was in the past tax year, the same is true but you are less likely to be successful, so you may just need to wait until you have two solid years to show.  The above should also be true for self-employed people with variable income.
+
+Go consult multiple local lenders (not just your own bank) and see what they can do for you.  Don't just assume you can't get a loan; everyone's situation is different, and there may be favorable conditions in your case that will help. Good luck!
+A$A$A
+You have to explain them in writing.  An underwriter is looking to establish the likelihood of your income continuing for the next three years.  If you haven't had a job for the last 4 years and just got one last week, that is 'iffy', which means that it's hard to see how it is likely for your income from that job to continue for the next 3 years. 
+
+On the other hand, if you took time off to go to school for a degree and then started a job last week in the same field, that would not be 'iffy'.  It all comes down to an analysis of the details of your personal situation.
+
+It is important to bring up these issues early in the mortgage approval process so you can tell your story to the underwriter upfront.  That helps prevent the unpleasant surprise of finding out you are not qualified just before closing.
+A$A$A
+Applying for mortgages with an employment gap can be risky. Also changing jobs while applying for a mortgage could end up in you paying much more than what you began with. Be extra cautious and KNOW what you are doing.
+E$E$E
+
+Q$Q$Q
+Why is it so difficult to apply for a mortgage?
+A$A$A
+The loan process is so much more difficult these days because of what happened during the Financial Crisis. The economy is still shaken, as you can tell.
+
+In order to ensure that this does not happen again, the government instituted rules that lengthen the loan process. Lenders are required to disclose much more information to the borrower. The borrower must acknowledge all of this information by signing disclosures. These disclosures have to be signed within a certain amount of days of each other and the time when the credit was originally pulled. Lenders dislike this process as much as consumers. At the end of the day it is for the consumers’ safety, but some view it as over-regulation.
+
+Fax and email is the predominant form of transmitting documentation because signatures must be authentic as opposed to being computer generated. This helps prevent fraud in a mortgage transaction. Some lenders do use automated online systems to accommodate borrowers; however, the majority of borrowers still prefer to communicate with a live loan officer as opposed to a computer. In addition, loans must be properly structured by mortgage professionals, not the by borrowers. There are a lot of intricacies within the process which could financially hurt an uneducated borrower.
+E$E$E
+
+Q$Q$Q
+I want to buy a house next year. Should I apply for a mortgage now?
+A$A$A
+It's quite early to apply for a mortgage a year in advance. However, it is helpful to know in advance what lenders in general look for in a mortgage applicant before they approve his/her mortgage application so you can reverse engineer and be that applicant. Given you have one year to plan, here are my suggestions:
+
+1. Sit down with a trusted financial advisor and discuss your financial goals. Why applying for a mortgage has  anything to do with financial planning, you may ask? Believe it or not, for most people the largest debt you will have is the mortgage. It is a huge responsibility. It will affect almost all aspects of your financial life for a long time, typically 30 years or more (I am baking in refinances along the way here).  For such an important decision, wouldn't it make sense for you to discuss all its ramifications with someone who knows how to play the money game?
+
+2.  Once you know what kind of financial results you want at the end of the road i.e. Your retirement years, then chart out a plan of action with the help of your trusted financial advisor and his/her team including but not limited to CPA, realtor, mortgage advisor, insurance professional etc...
+
+Far too often people buy a house for the wrong reasons because they haven't seen the connection between a mortgage and personal financial planning. Unfortunately, that is not something that is taught in school so by the time people do see the connection it's usually too late to reverse their decision. So they are stuck in a job that they don't like because it pays the mortgage.
+A$A$A
+You could/should apply now to determine how much you have the ability to borrow and then you will be able to figure out what price range you can afford.
+
+You will not get the mortgage you are pre-approved for now and rates will change between now and then, so it will all be different when you actually make an offer on a house.
+
+That said, you need to know your realistic price range and spend a several months shopping and learning the market in which you are going to be a buyer.
+
+The Real Estate market is very in-efficient so there exists an opportunity for you to get a good buy if you are educated about what inventory is doing in your specific area. How long on market, selling below/above asking price, etc.
+
+You will not be an expert in Real Estate after one purchase so please use professional help.
+
+Interview a dozen + agents, your agent will be the best or worst decision when it comes to getting yourself through the transaction process. Make sure they have a lot of local connections to refer you to. Ask the referrals about the the Agent's past, demand to hear bad stories. There is always bad stories (S*it happens in real estate) and it does not reflect poorly on the agent, their reaction to the bad situation however does reflect on the agent.
+
+Good Luck!
+E$E$E
+
+Q$Q$Q
+Is a dui an outstanding judgement when applying for a mortgage?
+A$A$A
+It would show up on your credit report only if a money fine had been imposed by the court and you had not paid it. If they assess a fine and you pay it, there is no reason for it to be recorded with the credit bureaus.
+A$A$A
+No…. A criminal history plays no part in applying for a mortgage.
+E$E$E
+
+Q$Q$Q
+What can go wrong when helping someone apply for a mortgage?
+A$A$A
+What can go wrong when co-signing for someone’s mortgage and not being added to the deed?
+
+Disclaimer: I’m not a lawyer, so this isn’t legal advice. For that, you need a lawyer.
+
+Basically, you borrowed the money (the mortgage) but have no security in case something goes wrong.
+
+Would you lend that person $100,000, $200,000, or more (whatever the mortgage amount is) just based on that person’s promise to pay you back? That’s similar to the situation you’re describing. In this case, $200,000 (or whatever the amount is) was borrowed from the bank. The bank’s OK with that, since it can come after the house (which appraised for more) in case your co-signer defaults. But you don’t have that option, since you don’t own any portion of the house. If your co-borrower defaults, the bank will come after you. And now you’re caught between a rock and a hard place:
+
+If you continue to pay the mortgage, you’re not getting anything for it. You’re stopping the bank from hounding you and your co-borrower, but you’re getting nothing else.
+
+If you don’t pay the mortgage, ultimately the bank will foreclose. Both you and your co-borrower will have foreclosures on your credit and your co-borrower’s house will be gone.
+
+It’s a risky situation to be in.
+A$A$A
+That question is far too broad as the mortgage process is broken down to three stages. Preapproval, underwriting and closing. If you have been originating mortgages for a while, and you have a complete loan application, you'd know if you have a good application (loan) or a bad one. I'd advise that you see an experienced mortgage loan originator or broker. They'd be able to give the guidance you're looking for.
+A$A$A
+Everything. You will be on the hook for the full amount of the loan and you will have no collateral to sell if the co-borrower disappears.
+
+If you’re on the loan, get on the deed.
+E$E$E
+
+Q$Q$Q
+How will the interest rate increase announce today (March 15, 2017) affect me if I apply for a mortgage?
+A$A$A
+“The Fed increases interest rates.” A blanket statement that seems to include ALL interest rates. Except that the Fed only increases Federal funds and short-term rates. These are rates on money that that Fed lends to banks, the banks lend to each other, and credit card rates. The Fed does NOT directly affect mortgage interest rates which are long-term rates. These are set by the mortgage securities and bond markets. As it happens, the mortgage rates actually went DOWN after the Fed announcement! The Fed is putting a brake on inflation which the bond market liked, so bond prices increased, lowering long-term rates.
+
+To your question, assuming you haven’t locked the rate in, you should be able to get a lower rate for a little while at least. Rates are likely to go up in the future, though we’re never sure exactly when and by how much. Your rate of 4.7% seems a little on the high side, though I don’t know the details of your loan. In California: tony@svmortgageguy.com
+A$A$A
+If you have already locked your rate (it sounds like you haven’t), you’ll get that rate, as long as you are able to close within the locked period. If you get delayed, the lender may impose a nominal extension fee.
+
+If you haven’t yet locked, you’re in luck. The Federal Reserve’s Open Market Committee (the Fed’s rate policy body) today announced that they would increase the Federal Funds Rate by .25%. This will increase the Prime Rate and interest on many credit cards. But not mortgages—their rates went down.
+
+I know what you’re thinking: WHAAAAAH?
+
+Here’s what happens in the world of mortgages. Almost all loans are ultimately sold the investors for cash. Fannie Mae, Freddie Mac and Ginnie Mae are all investors. They will “securitize” these mortgages, pooling them into a type of bond called a “Mortgage Backed Security” (MBS). These are traded on Wall Street just like stocks and any other type of bond.
+
+MBSs are a fixed-income investment. This means that they are highly sensitive to inflation—or fears of inflation. That makes sense; because inflation is the lessening of the dollar’s purchasing power over time, more inflation would mean that not only would the cash flow from these bonds (MBS) degrade in value with inflation, but also the principal value will drop, as well.
+
+Investors account for a certain amount of inflation when they buy these bonds; but it their assumption about inflation turns out to be incorrect and some report (like the CPI or PPI) reveals a higher than expected level of inflation, those bonds become less attractive to them, and they sell them. This makes their price drop.
+
+One of the Fed’s most important missions is to act as the “accelerator” or the “brake pedal” for the economy. They mash down on the accelerator by lowering the Federal Funds rate. This is what they did as part of the recovery from the 2008 crash. Rates have been artificially low for nearly a decade.
+
+If the Fed believes the economy is starting to grow too quickly, it’ll step on the “brake” by raising rates progressively. This is what they have been doing for almost a year, very gradually. They see unemployment numbers reaching almost full-employment levels, and other leading indicators saying that the economy is picking up steam.
+
+The MBS market directly determines what mortgage rates will be because the price of the MBS on any given day will tell the lenders what they’ll be able to get for each loan they sell. When the MBS increase in value on the market, lenders can drop their rates a bit. To give you some perspective, if the MBS go up 25 basis points (that would be $.25 per $100 of bond value), mortgage rates will generally drop by about 1/16%.
+
+Today (3/15/17), MBS rallied nicely. The daily chart looks like this:
+
+The red bars indicate a day when prices declined, green for the days they went up. You can see a number of days with predominately red bars. This means that there was a lot of selling pressure. Part of this pressure was from bond traders hedging their bets and squaring their positions before the Fed’s announcement. Once that happened, the bonds rallied and prices went up rather nicely.
+
+One of the reasons this happened is that the fixed-income market hates inflation, as I’ve already mentioned. When the market believes that the Fed is working proactively to keep undue inflation at bay, they celebrate with buying activity. That’s what happened today.
+
+If your lender is passing on to you all of the market improvement, you can expect rate to improve over yesterday’s pricing by about .125%. The rate they quoted you may or may not be a good one. There are many variables that go into the rate you’ll get from any lender. My fingers don’t feel like explaining all that (and you may be tired of reading by now), but you can see a short video that explains how mortgage pricing works on my blog, The Mortgage Insider.
+
+Hope this is clear! Thanks for the A2A.
+A$A$A
+You will be fine for a while as long as your mortgage approval wasn't for an adjustable rate mortgage. The things most likely to be affected by this interest rate hike, in the short-term, are credit cards, adjustable rate mortgages, and home equity lines of credit. The fixed mortgage rate market has, for the most part, already adjusted for this hike. I wouldn't worry until the next hike. The next one will affect your mortgage rate if you haven't purchased by then.
+
+http://DoclessMortgage.com http://www.doclessmortgage.com
+A$A$A
+This increase was expected, and hence already baked into the longer term rates. Eventually, increasing shorter term rates is likely to push up mortgage rates, and actually they already are:
+
+I got 30 year fixed at 4.25% Dec 15, and 4.625% investor rates on 30 year in march of 2016. We are up a bit from those rates now, last rate sheet I looked at.
+
+It seems likely, we will be in the low 5’s by year end, though we’ll have to wait and see!
+A$A$A
+It doesn’t affect you. At some point in the future, mortgage interest rates may rise.
+A$A$A
+In the US you should typically be locked in to the current rate for at least 45 days by applying. Verify that with your mortgage loan officer. Even an ARM has a period of fixed rate. In general i might go fixed rate in todays rate environment. Your milage may vary.
+E$E$E
+

@@ -1,0 +1,122 @@
+Q$Q$Q
+What is a mortgage servicing company?
+A$A$A
+A mortgage servicing is a company to which some borrowers pay their mortgage loan payments and which performs other services in connection with mortgages and mortgage-backed securities. Check out this site Spanish Mortgage Specialists & Mortgage Brokers in Spain for more information.
+E$E$E
+
+Q$Q$Q
+Is it legal for a mortgage servicing company to require a "2 month cushion" in the escrow account?
+A$A$A
+If it's in the contract, and you agree to it, as far as I know it's legal. Stupid for you, but legal.  Find another mortgage provider, or do the calculation to show the difference between putting up more money towards the mortgage rather than to the down payment.  Adding a few thousand dollars to the down payment may allow you to find a mortgage provider that is more realistic.
+A$A$A
+If you're asking about legality, there are no laws governing the number of months. With the lack of legal ruling, it is not illegal.
+
+You can argue that it is an undue burden on the individual purchasing the house (a large cash outpour while the mortgage company is cutting it very close to the unjust enrichment from such a requirement) - but the company's mission and purpose of existence is not ethics or morality, it's making money.
+
+Thus, making this requirement not illegal (not against their mission).
+
+From a purely practical perspective, I have been fighting with my own mortgage company on an annual basis (it's like a ritual now) when the escrow account becomes depleted - that cushion is gone - because my township raised the taxes without proper notice (oops!) and mortgage company paid the increase without accounting for this increase when the escrow was established.
+
+(Each year it results in them explaining to me about the taxes, and each time I have to add more money to the escrow to bring it to the initial level).
+
+If you know better - and it sounds as if you think you know better - you do not have to sign the contract if you do not agree with the terms of it.
+
+This is not the last company in your geography, and you can confidently move forward to another company who will be happy to have you as their client.
+A$A$A
+I found the answer. It is legal for a mortgage servicer to keep an additional 2 months (1/6th) cushion.
+
+---
+
+"Add any cushion your lender requires to the monthly balances. The cushion may be a maximum of 1/6 of the total escrow charges."
+
+HUD RESPA FAQs by Consumers about Escrow Accounts
+A$A$A
+I'm in Canada and we do not have to let the mortgage company take care of our property taxes.  I remember this being optional when we signed the mortgage.  So if it's in your mortgage contract, then next time just ask for that part to be removed and pay the taxes yourself.
+
+I pay property taxes directly to my city twice a year.  The city also has its own monthly program which builds up the required amount and then pays it out twice a year through direct withdrawals from your bank account.
+E$E$E
+
+Q$Q$Q
+How does a Primary mortgage servicer make the decision to sell the MSR to a Special Servicer?
+A$A$A
+Mortgage Servicing Rights (MSR) contracts are bought and sold in a dedicated, yet decentralized, market. This is where broker/dealers such as FCI Exchange act as loan trading and exchange platforms. They even have a representative here: Pierina Aguilar
+
+Listing Of Discounted Real Estate Notes For Sale By FCI Exchange
+
+For financial entities that choose servicers, the motivation is mostly related to the specific fees outlined in the contract. In a way, this is the most important input, how much servicing of the mortgage loans the investors can get for as little as possible.
+
+
+
+In the past, mortgage lending and servicing were handled in-house by the originator. This changed with globalization and business process outsourcing (BPO), which actually made it more affordable to send work overseas. Then came the special mortgage servicers, which ostensibly focus and specialize on certain unpleasant aspects of servicing such as when the loan goes into default.
+
+
+
+The most important consideration in selecting a special servicer is how much money a business entity can get out of selling the MSR contract. In most cases, the MSR contract is sold outright. If not, the servicer may choose to hold on the defaulted MSR and handle it as such, but a BPO firm may be contracted for collection attempts and a property management firm might be retained to avoid further blight of an abandoned home or building.
+A$A$A
+The  reason primary mortgage servicers sell the MSR to a special servicer is  to reduce liability and free up time to focus on, in most cases, the  origination of loans. Special servicers are experts in this field since  this is all they do. They often have better resources and more tools to  get the most out of the loans, so it is in the best interest of the  primary mortgage servicer to sell their rights. Their decision on who to  sell the rights to is based on pricing, success rate with borrowers,  and resources and tools available. I hope this answers your question. Please let us know if you have any other questions: fciexchange@gmail.com
+
+Greetings,
+
+FCI Exchange
+
+ Listing Of Discounted Real Estate Notes For Sale By FCI Exchange
+E$E$E
+
+Q$Q$Q
+Which is the best mortgage services in India?
+A$A$A
+Dream City Management India is the best mortgage services provider in India. It is having the services like Franchise distributors, call center services, agency distribution, insurance services, building freelancers, legal services, international marketing business, mortgage services, domestic marketing business, virtual assistant, outbound closing business, service assistants, business development process, project distribution, finance accounting, software development, stock marketing etc in PAN India level.
+
+You could also speak to DCM INDIA consultants and take a personalized service to be able to choose an opportunity that matches your requirements.
+
+So based on your interest you can select your business with DCM INDIA. Expand your business with DCM INDIA for earning more profits.
+
+Hope you find something better.
+E$E$E
+
+Q$Q$Q
+How does mortgage service rights hedge refinance and prepayment risk?
+A$A$A
+They don't, they actually concentrate the risk. Mortgages can be split into an "interest only" (IO) stream and a "principal only" (PO) stream. The IO is exposed to prepayment risk; people prepay when their interest rate is above the prevailing market rate, or equivalently when the stream of interest they owe is really valuable, so when they prepay the IO investor loses a really valuable asset. MSRs are effectively part of the interest stream, so their prepayment exposure is similar to IOs. The PO investor benefits from prepayment, because they just want their money returned as fast as possible. If you want to hedge prepayment risk, buy POs.
+E$E$E
+
+Q$Q$Q
+Where can a start up KPO (outsourcing) company find projects for title searches, mortgage services, and healthcare services for $500K-$2 million per year?
+A$A$A
+To the best of my understanding, this is just the value of about four-six contracts... and hence not too difficult. Probably the easiest way is to hook up to some of the larger KPOS, and look for sub-contracting opportunities. Indeed, the three horizontal you've mentioned - all have different value chains, and hence different contracting profiles, so you need to account into these differences.
+
+You should also look for business opportunities with established BPO giants like Accenture, who are NOT playing in any of the three areas you mentioned, but who do get inquiries, which they can theoretically pass on to you on some commission or something.
+
+The other way is to engage in some smart prospecting and hire a lead generation company. But for that, you'll have to be really very sure of your capabilities, and what exactly of the three generic horizontals will you focus on: DAQ/ DAN/ DAP or their combination. E.g, if it's both data acquisition and data analysis, you'll have to project your market- and industry knowledge strengths, in addition to your analytics prowess. If it's all three, then your IP protection thong has to be duly projected.
+E$E$E
+
+Q$Q$Q
+Can a mortgage servicing company legally hold and not apply extra principal prepayments?
+A$A$A
+E$E$E
+
+Q$Q$Q
+Does a mortgage servicer get reimbursed for its servicing expenses beyond its servicing fee (of 25 bps or so)?
+A$A$A
+Yes, though the level and type of reimbursement depends on the investor.
+
+As part of the Pooling and Servicing Agreement (PSA) with the investor (i.e. Freddie Mac, Fannie Mae), a mortgage servicer is responsible for collecting payments from mortgage borrowers. They are also responsible for several expenditures regarding mortgage payments and the property - "servicing advances" and "property reservation," respectively. Both of these expenses are reimbursable. 
+
+Servicing Advances are monies paid to the investor in the case that the borrower stops making their monthly payments. As part of the PSA, the servicer is responsible for fronting this cash to the investor, but only for a fixed period of time. When the mortgage is resolved - i.e. the home is foreclosed upon - the servicer is this reimbursed for these advances.
+
+Property Preservation expense refer to maintenance costs related to an unoccupied home that is in foreclosure. For example, a property is vacant and requires repairs or maintenance before it can be sold at auction. The servicer is responsible for these repairs until the home is sold. These expenses are reimbursed by the investor, within certain guidelines.
+
+For context, check our rhw FHFA Office of Inspector General Report on reimbursement errors: Page on fhfaoig.gov. The reporting aspect of these reimbursements have been in the news this year: Property Preservation Companies Need Better Controls
+E$E$E
+
+Q$Q$Q
+What is a broad overview of all the types of compliance involved in mortgage servicing?
+A$A$A
+E$E$E
+
+Q$Q$Q
+I am currently doing my B.E and planning for an MBA after B.E to get into investment banking. I have an offer from a mortgage services firm. Will my experience at the mortgage services firm help me later on?
+A$A$A
+Yes it will help you a lot. Do relevant certifications like CFA and it would be an added advantage.
+E$E$E
+
