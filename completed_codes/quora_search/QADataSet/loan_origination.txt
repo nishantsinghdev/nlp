@@ -1,0 +1,457 @@
+Q$Q$Q
+What is the best Loan Origination Software (LOS)?
+A$A$A
+Most lenders are looking for the next generation software since the current commercial crop of lending platforms do not work well (or at all) in the online lending world (Pretty much any company over 3 years.) They have typically bolted on a web browser interface and called in "online".
+
+The facts are that most of the incumbents lending software platforms can't handle this new wave of Loan Origination. The proof is that few banks actually doing online lending. (If their platform could handle it - they why are they all scrambling?)
+
+This new wave is: All digital, cloud-based, fully online applications, auto-decisioning, decisioning using other factors then FICO score, mobile enabled, and hooked into big data and social media.
+
+The best software would need to be:
+
+Cloud and SaaS Based
+
+Built on a strong Platform as a Service Architecture (PaaS)
+
+Enable a single system of record (all the data resides in one system, not a bunch of systems cobbled together)
+
+Has a strong ecosystem of solutions
+
+Provides end-to-end - not just loan origination, but servicing as well
+
+designed for this next generation world of mobile, social, big data all digital world.
+
+My company, Cloud Lending Solutions  (Cloud Lending Inc. | Lending Software on Salesforce.com) is all that. Based upon Salesforce (Cloud, SaaS, ecosystem, single system of record) and providing an end-to-end solution (Origination, servicing, collections), it is designed from the ground up to be an all digital platform and is powering the most innovative lenders in the industry.
+A$A$A
+We work with hundreds of Mortgage & Insurance Brokers and they told us that Collectizi perfectly integrates within the Loan Origination Process.
+
+Why?
+
+Cause it prevents them from chasing clients documents.
+
+How?
+
+Collectizi allows them to automate the collection of their clients files.
+
+-Request templates
+
+-Email Client requests
+
+-Automated reminders
+
+-Completion tracking at a glance
+
+-Documents approval/denial, comment system and integrated messaging and more.
+
+These are the may features they use the most.
+
+You can try it for 15 days for free.
+
+Happy Collection!
+A$A$A
+Get your CUP for LOS.
+
+Why Configurable?
+
+Faster Go to Market Ensure faster product roll-out and rapid business expansion with quick adaption to market needs
+
+Invest once & Configure for life One-time investment in one solution that lets you configure to offer new loan types-all from one single platform
+
+Why Unified?
+
+Straight Through Processing Reduce data redundancy and needless manual intervention through end-to-end automation of loan lifecycle
+
+Fix Broken Lending Processes Achieve seamless business information flow across departments by integrating diverse applications across departments as well as third parties
+
+Why Platform?
+
+Surviving with Legacy Build on top of legacy systems to leverage existing investments while addressing inherent limitations
+
+Automate & Scale Add rapid scalability to business to enter new market/expand in existing market by quickly adapting to market needs through end-to-end automation
+
+Commercial Lending Loan Origination Software (CLOS) Vendor
+A$A$A
+Calyx Software.
+
+http://www.calyxsoftware.com/ind...
+
+I worked at this company over the summer nearly a decade ago. Very hard working people, and still number one in the industry in market share.
+
+from their website
+
+'Calyx holds a third of the lending market serving 36% of community banks, credit unions, and mortgage bankers while also maintaining 72.5% of mortgage brokers – making Calyx the preferred loan origination platform for the entire industry.' Access Mortgage Research & Consulting 2010 study results
+A$A$A
+You didn't specify what the lender is using on their website to take applications. One option would be to use Mortgagebot to serve as the point of sale solution for borrowers to fill in their application.
+
+Mortgagebot hosts the mortgage application portion of a lender's website, using the lender's site design and branding. Borrowers don't notice that they've left the lender's website.
+
+Mortgagebot then feeds the data into the LOS of your choice.
+
+We host over 6,000 sites for over 1,000 financial institutions and CUSOs.
+
+www.mortgagebot.com
+A$A$A
+Coming from a someone with direct experience, look into either Calyx Point or Ellie Mae Encompass.
+E$E$E
+
+Q$Q$Q
+What is the best way to avoid loan origination fees?
+A$A$A
+There are always certain costs that will be incurred in the loan process. Among these are
+
+Title and escrow fees
+
+Underwriting and processing fees
+
+Document preparation
+
+Appraisal
+
+Notary
+
+Those fees are not avoidable. You can deal with them in any of three different ways:
+
+Pay them out of pocket
+
+Add them to the loan
+
+Select an interest rate where the lender will pay a rebate at closing sufficient to pay some or all of the closing costs
+
+The last one is called a “yield spread premium.” When the lender sells the loan—and virtually all lender sell the loans they’ve funded on the secondary mortgage market, including Fannie Mae, Freddie Mac and Ginnie Mae—the price they’ll get for the loan is based in part on the interest rate. A loan with a higher rate will bring a higher price. The lender passes that higher price on to the borrower in the form of a rebate.
+
+As a rule, the trade-off is for every .25% higher rate, the borrower will receive a rebate of about 1%. The converse is also true: paying 1% up front (one “point”) will reduce the rate .25%.
+
+If the “par” rate (no points or rebate) for a $400,000 loan today is 4%, accepting a 4.25% rate should give the borrower a rebate of around $4,000. Be aware that the rates change every day according to the market’s movement, so this is not a rate quote, but rather an illustration of how it works.
+
+The trade-off is that getting a rebate means that you need to bring less cash to the table, but you’ll have the higher rate for as long as you have the loan. The illustration above would incur a higher cost of around $1,000 per year in interest.
+
+I hope this is useful.
+A$A$A
+There will always be some sort of origination fees if you get a loan; some lenders will try to hide that by rolling the fees into the loan.
+
+There is one sure way to avoid loan origination fees - pay all cash and don’t get a loan. And even then you would still encounter some charges that another person’s answer lists as origination fees - because some of those just come along with buying real estate; some of these are escrow fees (paying a third party to perform settlement, as opposed to impounds for taxes and insurance), notary fees (deed is notarized), title insurance (most buyers with cash will still get owner’s title policy even though a lender’s title policy is avoided).
+A$A$A
+Every lender incurs costs to originate loans.
+
+Lenders are going to charge their fees, but you have a choice whether to pay the fees at closing or to pay a higher interest rate so that the costs are financed as part of your loan payment.
+
+Lenders sometimes claim a loan is “no cost” because you pay nothing at closing (literally, you just sign the loan papers and pay zero out of pocket) but don’t be fooled: the lender has merely increased your rate to finance the costs. In other words, you would get a lower rate if you paid the costs at closing.
+
+There is nothing wrong with financing the costs, in fact, in some situations it’s advisable to do so. Just know what the costs are and how they are being paid.
+E$E$E
+
+Q$Q$Q
+How do I differentiate between mortgage brokers and loan officers?
+A$A$A
+A mortgage banker and a independent mortgage broker can both help you get a home loan. A mortgage banker or loan officers works for a bank or similar lending institution which actually provides you the money for the loan. A mortgage broker doesn't represent one institution, but works with many to shop for a loan for a specific individual. The banker is a direct lender. The broker is a middleman between you and the lender. The jobs are similar and the federal Bureau of Labor Statistics lists both as "loan officers" with similar functions and pay.
+A$A$A
+The terms loan officer and mortgage broker are often used without distinction to describe professionals who originate home loans. In some jurisdictions, however, licensing requirements actually make a distinction between the two.
+
+“Loan Officer” is mostly used to describe finance professionals who origination mortgages exclusively for their employer. For example, a retail mortgage loan officer in a Bank of America call center can only offer loan products issued by his or her employer. In some cases, however, loan officers may work for a mortgage loan origination firm that offers products from multiple lenders. In most states, these loan officers require registration in the National Mortgage Licensing System (NMLS) and proof of professional education.
+
+“Mortgage Broker” is mostly used to describe business-minded finance professionals who enjoy working on their own. The state oversight and licensing requirements for these professionals are usually stricter than for loan officers. Mortgage brokers tend to do their own marketing; they also forge alliances with different lenders and tend to profit off basis point on each loan closed. Mortgage brokers sometimes work as loan officers.
+
+The term loan officer can also be used in other settings, such as in business loan brokerages, auto financing operations, commercial banks, etc.
+
+Mortgage brokers come into contact with real estate investors and other finance-minded business people, which might be the reason you are getting some mortgage brokers interested in closing business loans. Unless your line of business requires special licensing at the federal and/or state level, you should welcome mortgage brokers and their black book of clients; otherwise, you can specify that you prefer to not deal with them.
+A$A$A
+A mortgage broker (either a group or an individual) is an independent agent for both the mortgage loan applicant and the lender. Your mortgage broker will stand as facilitate between you and the lending institution; which may be a bank, trust company, credit union, mortgage corporation, finance company or even a private investor. A mortgage broker can review your finances to find out which lender is the best fit for your loan needs. From application to closing, your mortgage broker facilitates the loan process: submitting your loan application to a number of lenders, and walking you with the chosen lender through to closing. The borrower gives a commission to the broker if the loan closes.
+
+Loan Officers
+
+Loan officers work for a specific lending institution (such as a bank) who work with mortgages and other lending programs on behalf of their company alone. They may be able to offer loans to fit many different situations, but all the loans will be products of the same lender.
+
+A loan officer (also called an "account executive" or "loan representative") represents the borrower to the lending institution.
+A$A$A
+NO the terms ARE NOT interchangeable.
+
+A mortgage broker is a middleman. A mortgage broker does not make or fund loans. A mortgage broker seeks and finds the source of the mortgage money on behalf of his or her client and for that the broker earns a fee. 
+
+State law will govern the licensing requirements of a mortgage broker. It sounds like you might be interested in commercial loans if you're doing business lending or business "brokering" so make that differentiation before you research your state's laws governing residential or commercial mortgage brokerages.
+
+There will always be a designated broker named who will be responsible for the conduct of those who work for the brokerage.  
+
+A loan officer is a term that no longer exists today.
+
+Instead we say:
+
+Licensed Loan Originator
+
+or
+
+Registered Loan Originator.
+
+A registered loan originator is an employee of a depository bank.
+
+A licensed loan originator works either: under the supervision of a mortgage broker OR at a non-bank mortgage lender (also under the supervision of his/her branch manager.)
+
+Your state law will outline the licensing requirements for a loan originator who works for a business-type brokerage firm. 
+
+Federal law governs licensing for loan originators who are originating loans for residential homes. 
+
+Hope that helps! Let me know if you need anything else.
+A$A$A
+Mortgage Brokers
+
+Mortgage brokers are independent consultants who work for both the homeowner and the mortgage lender. In other words, they act as a facilitator to help bridge the gap between you and the lender. They don’t loan you the money but instead find a lender who will lend it to you.
+
+Advertisement
+
+When you begin the process, the broker has you fill out an application to get an idea of your financial situation and then pulls your credit. They then take your credit score and information to various lenders to find loan options for you to choose from. Once you settle on a loan option, they work with the lender on your behalf until you close.
+
+Pros
+
+They develop relationships with many different lenders and institutions and are able to “shop around” to find you the best loan for your needs.
+
+They can be better for people with low credit scores. The broker may be able to find a lender who is willing to work with less-than-perfect credit.
+
+They do all the legwork when it comes to the mortgage – finding options, filing paperwork, etc.
+
+Cons
+
+It can be time-consuming and difficult to work with a “middleman.”
+
+You have to pay a commission to the broker at closing.
+
+It can be difficult to know if you’re being overcharged because you’re only dealing with an independent contractor.
+
+It’s important to remember that if you work with a mortgage broker, they are going to find you the best option from the lenders they have a relationship with – they aren’t looking at options from every lender. For this reason, although they’re doing a lot of the work for you and have a lot of knowledge and experience that you might not have, they could be limiting your options.
+
+If you decide to work with a broker, make sure to read reviews, and if possible, choose someone a friend or family member has worked with. When you find a broker, ask about their experience level, the type of relationships they have with lenders and any licenses and training they might have.
+
+Loan Officers
+
+A loan officer is an agent employed by a lending institution. They work directly with the homeowners to take them through the mortgage process. They’re also called mortgage bankers, Home Loan Experts, mortgage planners, mortgage consultants and mortgage loan originators, according to Mohan Cheema-Best Home Loan Officer in Fresno, USA- 559-905-2575 Reputed Loan Officer in USA
+
+Like a mortgage broker, a loan officer is going to have you fill out an application and pull your credit report to get an understanding of your financial situation. The loan officer will then recommend the best loan for you out of their company’s loan options.
+
+Pros
+
+Working with a loan officer means you’re cutting out the middleman and dealing directly with the mortgage lender.
+
+Homeowners don’t have to pay a commission to loan officers.
+
+You have more control over your own finances than you would if you were simply following the advice of a mortgage broker.
+
+Cons
+
+Loans options are based only on that loan officer’s company.
+
+You’re expected to do more of the work to provide the lender with the details of your situation and mortgage.
+
+Some lending institutions have large teams of people you’ll be working with, so the service can be impersonal.
+
+The borrower should know what type of home is desired, how much they qualify for and what their budget affords. Those constraints can determine the mortgage type and term.
+
+The lender receives an appraisal of the property and this appraisal determines the market value of the home, which is used for collateral in the loan. The borrower is charged a fee for the appraisal service and is usually included in the closing costs.
+
+When the mortgage application is complete, the borrower will be asked for a considerable amount of information. That is why the borrower should be prepared to give the lender the following information:
+
+Bank information such as the name, address, account numbers, and three months of statements.
+
+Three months of investment statements.
+
+W-2s, pay stubs, proof of employment and two years worth of income.
+
+Tax returns and balance sheets for the self-employed.
+
+Debt currently owed, including amounts due and account numbers.
+
+Divorce papers, if they apply.
+A$A$A
+Here are a couple of articles that I've found useful:
+
+Understanding Different Types of Mortgage Lenders (MortgageLoan.com)
+
+What is the difference between a loan officer, mortgage broker, lender, correspondent lender, mortgage banker, and portfolio lender? (Zillow.com)
+A$A$A
+Many of us confused with both these terms. Here I have stated some differences;
+
+Difference 1:
+
+Loan officer is a person who works directly for a bank or a lender but mortgage broker is an independent worker who acts as a middle man between the home buyer and the lender.
+
+Difference 2:
+
+Loan officer is not required license to work in the mortgage industry but a mortgage broker required licensed to work in the mortgage industry.
+
+Difference 3:
+
+A loan officer’s main objective is about the best interest of their employer not home buyer but the main objective of mortgage broker is that getting lower credits for home buyers.
+
+Difference 4:
+
+Loan officers paid to write loans for their company but mortgage brokers get paid a percentage of amounts after closing a mortgage.
+
+To know more, visit MAC Mortgage Approval Corp – Mortgage Broker in Vancouver
+A$A$A
+As you described that you have a small business and required to be funded. Let me differentiate the term loan officers and mortgage broker. Loan officer are dealing with any kind of loan, it can be personal, auto, home or other financial need. However Mortgage Broker are mainly dealing with the Real Estate business. To find Scarborough Mortgage Brokers visit James Mortgage App which is providing real time solution online and that will save your lots of time.
+A$A$A
+Paul Coscia is an Adelaide Finance dealers with over 16 years of involvement in the managing an account and industry. With a Diploma in Finance and Mortgage Broking, and broad individual involvement with property contributing, we have the expertise to help you with your home, business and renegotiate credits. As we are considered as the best Mortgage brokers Adelaide.Our team is offering Best service and quality and honest advice for each customer.Coscia Finance is known for customer friendly loan services.Coscia Finance is aware about circumstances and willing to offer reliable Mortgage brokers Adelaide services for any financial help.Drop in today for a free appointment.Coscia Finance is amongst top companies and offering mortgage services in Australia.
+A$A$A
+The term is sometimes used interchangeably. Often, individuals referred to as a mortgage broker is simply a loan originator. Technically though, a mortgage originator is one who is licensed by the National Mortgage Licensing System to solicit and originate applications for mortgage loans. Everyone engaging in that activity must complete Federal and State educational requirements and pass Federal and State Exams. If they are successful, they are considered a Licensed Mortgage Originator.  All accept bank employees must complete this requirement. Theoretically speaking then, Bank Employees would be less qualified in this area since they are able to escape this rigorous procedure.
+
+A Mortgage Broker would be an Loan or Mortgage Originator that does not work for a direct lender.  This individual would place your loan application with a Mortgage Banker who would approve and provide you with funding for your loan.  Even though funding for your loan comes from the mortgage banker, at times, even they will sell your loan to another institution right after closing.
+
+I have working in the mortgage banking industry for the 22 years.  We are licensed in all 50 states and are direct lenders.  We offer FHA, VA, and Conventional loans. Some programs require no down payment.
+
+If you have any questions feel free to contact me.
+
+Timothy Maxwell - Branch Manager
+
+Freedom Mortgage Corporation
+
+Timothy.Maxwell@FreedomMortgage.com
+E$E$E
+
+Q$Q$Q
+How much do loan origination software companies charge?
+A$A$A
+E$E$E
+
+Q$Q$Q
+No one will hire me as a mortgage loan originator because I have no direct experience. How can I get a job as a loan originator with no experience?
+A$A$A
+The first requirement is to get licensed, if you aren’t already. To do this, you’ll have to complete 20 hours of pre-licensing education and pass an exam with a score of at least 75%. Depending on your state, you may also be required to take an additional exam for your specific state.
+
+Then you’ll submit to an FBI background check, credit check and provide fingerprints. You’ll pay a few hundred dollars in fees for testing, background and credit checks and ultimately licensing. Then you’ll be legally able to get hired and originate loans.
+
+If you were to come to me asking for a job, I’d ask you how far you were along in the education and licensing process. If you hadn’t yet started it and didn’t know what was involved, I’d question your diligence and initiative (this is tough love in action). So here’s the first take-away:
+
+Become familiar with the process and get started with it before looking for a job. If you’ve already done that kudos. If not, get started, pronto. You can go to the Nationwide Mortgage Registry to get more information.
+
+Once you’ve gotten licensed (or are on the way to accomplishing it), you should be sure you understand at least the basics of mortgage origination. If an impressive inexperienced person wants to talk to me about a job, I am always willing to have that conversation.
+
+The first thing I’m going to ask is how far along you are in the licensing process. Assuming you’re at least moving forward with that, I’m going to find out how much you know about the mortgage process, such as the following:
+
+Are you familiar with terms like LTV, DTI, ARM, TRID, RESPA, Reg Z, CD? Do you know what a 1003 is? Do you have at least a rudimentary understanding about the origination, underwriting and funding process?
+
+I’m going to ask how you think you’ll generate business. Do you have contacts with Realtors? Builders? If not, where are your deals going to come from? If you’re able to tell my your comprehensive plan, I’ll be impressed. If you show me a written business plan, I’ll be doubly impressed.
+
+I’ll ask you what your earning expectations are, and how you think you’ll meet them. Do you know how much a loan originator makes on each funded loan? (Pro tip: saying “I want to earn as much as possible” isn’t a good answer. Saying, “I want to earn $80,000 in my first 12 months is. Bonus points for breaking your income goals into specifics, such as dollar volume and loans per month/quarter/year)
+
+I’ll want to know about your sales experience, how you did, and why you think this kind of sales is a good fit for you.
+
+I know some very good originators who started as production assistants or processors for good loan officers. They learned the business first-hand by helping someone produce loans. They have developed into very good (and successful) loan officers in their own right.
+
+This is a very good business for those who have the aptitude, the drive and the focus to master it. For those unfortunate souls who don’t find it personally and financially fulfilling, it can be miserable.
+
+After nearly three decades of doing this work, I can’t think of a better way to earn a living. Actually, come to think of it, there are some other ways, but they’re not…well, never mind.
+
+Good luck to you!
+A$A$A
+Do you have your NMLS License? Typically a company won’t hire unless you have passed your NMLS licensing and testing.
+
+then from there , it will depend upon how much of a salesperson you are and how well you interview.
+A$A$A
+I believe you would need a license to be a mortgage loan originator. That could be the reason no one will hire you.
+
+Although a degree and experience are not required, you must be adept at finance; calculating percentages, reviewing and creating amortization tables, figuring monthly payments, reviewing income and credit requirements, etc.
+
+I would suggest finding an experienced mortgage loan originator in your area and offering to assist him/her in an apprentice role in order to learn the business. Once you learn the basics you can get a license. Once you have a license you will be hired, or you can work for yourself as an outside contractor in the mortgage origination industry.
+
+Good luck!
+
+ How to Become a Loan Originator
+E$E$E
+
+Q$Q$Q
+How is the loan origination fee calculated?
+A$A$A
+E$E$E
+
+Q$Q$Q
+How much do banks spend per customer on customer service? loan origination? Loan servicing? Bad debt collection? Regulatory compliance? Processing fees?
+A$A$A
+i can tell you about ...about card transactions at it was in news some for quite some time....for card transaction at any other ATM owned by any bank other than your own bank, it costs around 75 Rs for 5 transactions ie. 15 Rs per transaction. When a customer visits a branch it costs bank Rs. 40 per visit.(source The hindu).
+A$A$A
+It depends on the bank, the market and the product. You will get closer to right answer for your context if you structure the factors logically..:
+
+Bad debts are a function of your origination risk strategy. The more conservative your risk strategy is the lower your default rate will be.
+
+Loan origination and processing costs are one time sunk costs based manual efforts and credit bureau searches.
+
+Compliance is a fixed cost, however big banks do it more sophisticated than small banks.
+
+Anders
+E$E$E
+
+Q$Q$Q
+What kinds of loan do mortgage loan originator deal with other than mortgage loan?
+A$A$A
+There are many people associated with helping a borrower effectively secure a mortgage, however a standout amongst the most critical people in the process is the mortgage loan originator. What precisely does a mortgage loan originator do? In this post, we'll investigate the obligations of a mortgage loan originator and clarify what qualities a decent mortgage loan originator ought to have.
+
+In least difficult terms, a mortgage loan originator (otherwise known as mortgage loan officer, loan officer, LO, and so on.) is normally a person who works with a borrower to finish a mortgage exchange list of loan companies america. The mortgage loan originator/officer is typically the borrower's principle purpose of contact all through the whole home loan process.
+
+"Mortgage Loan Officer Job Responsibilities:
+
+Expands mortgage loan portfolio by creating business contracts; pulling in mortgage clients; finishing mortgage loan handling and shutting; directing staff."
+
+Remember that the case above is only a specimen, and relying upon the organization, certain obligations may not be required. Moreover, there might be obligations not recorded in the case over that a LO would be in charge of.
+
+A couple of regular obligations performed by mortgage loan originators incorporate however are not restricted to…
+
+Meeting mortgage candidates
+
+Dissecting and screening preparatory loan demands
+
+Assemble foundation monetary data
+
+Submit loan applications for preparing
+
+Screen loan advance from application to shutting
+A$A$A
+Mortgage originators are the people who are employed by the financial institutions such as banks, credit unions, mortgage companies and they mainly assist consumers who are seeking mortgage loans. There are two types of mortgage originators: residential and commercial. Residential originators are the one who assist consumers in purchasing or refinancing a home. Commercial originators are the one who assist consumers in purchasing and refinancing of commercial real estate.
+
+Their main job is to assist borrower in determining the proper loan program, completing the loan application and gathering the necessary documents. Including, bank statements tax returns etc. to begin the loan process.
+
+Yes, there are different types of mortgage lenders like mortgage brokers, mortgage bankers, wholesale lenders, retail lenders, warehouse lenders, direct lenders and so on which have the different loan process.
+
+Visit:
+
+Boston Mortgage Lenders
+A$A$A
+Well, in my experience, working for a very big bank in the U.S., HMCs (home mortgage counselors) usually exclusively originate mortgage products. There are so many rules and regulations regarding mortgage loan origination that it would be very difficult to juggle the different sets of rules between two different types of consumer loan products.
+A$A$A
+Typically, loan originators stick to originating home loans but what is it that you're looking for? Maybe I can help.
+E$E$E
+
+Q$Q$Q
+Who are the best mortgage loan originators in New Orleans?
+A$A$A
+E$E$E
+
+Q$Q$Q
+What is the standard/average Small Business Loan Origination fee? Why do lenders charge this?
+A$A$A
+The origination fee levied on small business loans depends totally on the bank or financial institution that is providing the loan. Usually the Small Business Loan interest rates charged by the loan providers, range from 1% to 5% of the principal of the loan.
+
+Technically speaking, the origination fee covers the expense the loan provider underwent by originating a loan. This fee is basically the cost of processing the loan — reviewing all the documents provided by the loan applicant, working through the eligibility, putting together an offer, and others. Origination fees usually cover the various administration costs faced by the lender but there may also be additional processing fees, documentation fees etc.
+A$A$A
+As other answers mentioned, the origination fee that comes with a business loan depends on the kind of small business loans you’re looking for and the lender you’re working with.
+
+Across the spectrum of small business lenders, origination fees usually range from 1% to 5% of the loan’s principal.
+
+A popular short-term lender, OnDeck, charges a 2.5% origination fee, for example. A longer-term lender like Bond Street offers much larger, lower-rate loans, but charges an origination fee of 4%.
+
+When it comes down to it, the origination fee on small business loans completely depends on your lender.
+
+Why do lenders charge origination fees? Technically speaking, an origination fee covers the cost the lender faced by originating your loan. It’s the cost of processing the loan—reviewing all your documents, working through your eligibility, putting together an offer, and so on.
+
+Origination fees mostly just cover different administration costs the lenders face, and are usually the only fees you’ll find attached to a small business loan. But that’s not always the case! Watch out for additional processing fees, documentation fees, closing fees, etc.
+
+Do your due diligence before you sign on the dotted line!
+A$A$A
+I find origination fees vary by market and are driven by competition and pricing preferences. By pricing preferences I mean some areas of the country are more accepting of paying fees up front in exchange for a more aggressive rate or removal of prepayment terms. In other areas the mindset seems to be to eliminate as much up front cash needed even if it means higher payments.
+
+I would think that for non SBA (Small Business Administration) loans the average would be around 1%. (For SBA loans it will more like 2%, but this is not kept by the lender)
+
+For most lenders the fee and rate both will provide profit on the loan and offer a way to provide different pricing options based on their clients and markets preferences.
+A$A$A
+Typically .50-1%. I've done over 500Mm as a C level commercial banking exec.
+
+Before you go looking for capital spend some time learning how the process works. This will allow you to speed up the approval process and negotiate better terms.
+
+You might check out my resource guide that hundreds of entrepreneurs have used to save time and money. At jonathanmillspatrick.com/resources
+E$E$E
+

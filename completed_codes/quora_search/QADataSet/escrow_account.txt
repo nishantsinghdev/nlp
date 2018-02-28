@@ -1,0 +1,270 @@
+Q$Q$Q
+What is a escrow account?
+A$A$A
+Escrow is a legal concept in which a financial instrument or an asset is held by a third party on behalf of two other parties that are in the process of completing a transaction. The funds or assets are held by the escrow agent until it receives the appropriate instructions or until predetermined contractual obligations have been fulfilled. Money, securities, funds, and other assets can all be held in escrow.
+
+When parties are in the process of completing a transaction, there may come a time when it is only interesting to move forward for one party if it knows with absolute certainty that the other party will be able to fulfill its obligations. This is where the use of escrow comes into play.
+
+For example, a company selling goods internationally wants to be certain that it will get paid when the goods reach their destination. Conversely, the buyer wants to pay for the goods only if they arrive in good condition. The buyer can place the funds in escrow with an agent and give irrevocable instructions to disburse them to the seller once the goods arrive. This way, both parties are safe, and the transaction can proceed.
+
+Escrow transactions are also frequent in the real estate market and the stock market.
+
+Some people try to avoid Escrow because the money usually goes through your bank account but now there are options for Global money transfers that are way cheaper and faster. If you want to get more information on that I would suggest reading this article. It will help you understand Escrow and Global money transfers even more.
+A$A$A
+An escrow account is a account held by a third party during the process of a transaction between two parties. It helps in making the transactions more secure by keeping the payment in a escrow account which is only released when all the requirements are met.
+
+Escrow account is very useful in the case of a transaction where a large amount money is involved and a certain number of requirements need to be fulfilled before a payment is released like in the case of marketplace model where the buyer might want confirmation of the quality of product being done before making a payment, and the seller doesn’t want to extend a work without any assurance that he or she will receive payment.
+A$A$A
+When real estate is being sold or bought, huge amounts of money are involved. The person who is selling the property should be sure that the probable buyer really has the financial capacity to buy the property. Escrow account and escrow agreement ensures the seller that the buyer has the necessary funds kept separately and they will be available as and when as required.
+
+Escrow account is an account where the money involved is kept with a third person or organisation by the buyer.
+
+Escrow agreement is an agreement between two persons or organizations in which money or property is kept by a third person or organization until a particular condition is met.
+
+Escrow is like a reservoir tank  — a safe-house for assets (e.g., money, securities, and funds) before they are exchanged in a transaction between two parties. An Escrow agent, usually a third-party trust/fiduciary company, holds the asset until all the appropriate instructions and predetermined contractual obligations have been fulfilled.
+
+An Escrow account ensures that money from buyer is always kept separately from the operational accounts of the buyer.
+
+Author provides floor plan services , HDR image enhancement services to Real Estate Professionals, Real estate agents, Realtor in France , Germany , Europe
+A$A$A
+Escrow account can be used for various purposes. In general it is an account involving a third party holding money for a transaction between two entities. It's widely used in case of semi-closed wallet systems in which the institution providing the wallet service stores the money added by a customer in escrow account. So if you add 500 INR to your wallet the money is transferred  to escrow account and reflected in your profile virtually.
+
+When a payment is made using that wallet balance the amount is transferred to the merchant and debuted from the user's account. Generally no interest is given for an escrow account and there us also a certain amount that the wallet company needs to add to the account for bank formalities.
+
+For other uses please refer the wikipedia link.
+A$A$A
+An escrow account is an account administered by a trusted third party with the intent to retain in trust something for the benefit of parties to the transaction. The “deposit” of an escrow account can be cash, securities, documents of value or forms of intellectual property such as software source code. There is typically a “depositor and a beneficiary”.
+
+Visit Technology & Intellectual Property Escrow for information about IPescrows.
+A$A$A
+An escrow account is a temporary pass through account held by a third party during the process of a transaction between two parties.
+E$E$E
+
+Q$Q$Q
+How can I create an escrow account for a crowdfunding site?
+A$A$A
+Escrow Accounts require two items: 1 - third party escrow agent; and 2 - bank account. Depending on the type of your crowdfunding sale or investment, a bank’s trust department, non-bank trust company, carrying broker dealer, special purpose entity, or even a individual (e.g. lawyer), can serve as escrow agent. Who can serve as an escrow agent + where funds are held all depend on what you are selling (e.g. “security” subject to SEC rules vs. prepaying for a product).
+
+RegCF Security Offering - bank trust department
+
+Reg D or Reg A Security Offering - bank trust department, non-bank party trust company, or carrying broker dealer
+
+Non-Security Offering - any third party (may require licensing depending on state - e.g. trust company licensing, money transmitter licenses, or money service businesses registration)
+
+At Synapse | Banking for developers, we can help you automate the account creation for qualified escrow agents in addition to automating the investment payment flow into accounts held by escrow agents at third party banks.
+
+Feel free to reach out to us at help@synapsepay.com for more information.
+A$A$A
+(Full Disclosure: I work at BancBox)
+
+We have developed a unique escrow solution specific to address crowdfunding platforms. Our solution is a fully compliant and seamlessly integrated API based solution to address the market needs. 
+
+Please visit www.bancboxcrowd.com for more information. We'd love to hear about what you're doing, and how we might be able to help you solve your payment and escrow needs.
+A$A$A
+Bill Clark sir, iam a budding entrepreneur from India. Just wanted to know if escrow account is a solution to howey test?
+
+Also, does equity crowdfunding involve signing of a physical contract between both parties or even that can be done online?
+A$A$A
+You will need to set up an escrow account with a Bank. While that is not written in the current jobs act I am pretty sure that the SEC will make sure the escrow holder is a bank. They do this with broker/dealers so it would make sense that they do it for funding portals. That is what we have set up at http://www.microventures.com/ for our investments in startups
+A$A$A
+You cannot but your lawyer can.
+E$E$E
+
+Q$Q$Q
+What is "escrow"?
+A$A$A
+In a normal transaction, money goes to the seller and property goes to the buyer and its all over. Sometimes, especially with real estate, there needs to be a delay while all of the promised nature of the property is verified. During that delay, the buyer has to provide the money to prove they're serious about buying, but the seller shouldn't get the money until everything is checked out. The money, therefore, is set aside for a while and belongs to neither person. During that time, the bank holds on to it with promises to give it to the seller if everything checks out, or to give it back to the buyer if the property isn't what was promised. While the bank holds on to the money, it is said to be in escrow.
+
+In summary, escrow is a legal situation where the money is stored by a bank but temporarily doesn't belong to anyone.
+
+The other answers to this question brought my attention to the fact that interest on some escrow accounts, called IOLTA, is used to fund legal aid and other legal justice charities. According to iolta.org, $124.7 million dollars were raised for such charitable programs in the United States in 2009. As a big proponent of charitable programs, this bit of civics delights me.
+A$A$A
+Escrow is a legal concept in which a financial instrument or an asset is held by a third party on behalf of two other parties that are in the process of completing a transaction. The funds or assets are held by the escrow agent until it receives the appropriate instructions or until predetermined contractual obligations have been fulfilled. Money, securities, funds, and other assets can all be held in escrow.
+
+When parties are in the process of completing a transaction, there may come a time when it is only interesting to move forward for one party if it knows with absolute certainty that the other party will be able to fulfill its obligations. This is where the use of escrow comes into play.
+
+For example, a company selling goods internationally wants to be certain that it will get paid when the goods reach their destination. Conversely, the buyer wants to pay for the goods only if they arrive in good condition. The buyer can place the funds in escrow with an agent and give irrevocable instructions to disburse them to the seller once the goods arrive. This way, both parties are safe, and the transaction can proceed.
+
+Escrow transactions are also frequent in the real estate market and the stock market.
+
+Some people try to avoid Escrow because the money usually goes through your bank account but now there are options for Global money transfers that are way cheaper and faster. If you want to get more information on that I would suggest reading this article. It will help you understand Escrow and Global money transfers even more.
+A$A$A
+You know how when you make a bet with someone, someone else holds the money until the bet is resolved so both parties know they will get paid if they win?
+
+That's escrow.
+A$A$A
+Broadly speaking, escrow is the money held by a third party on behalf of  the parties to a transaction. Escrow is usually in the context of real-estate transactions, such as mortgages. Different jurisdictions have specific statutory definitions in addition to that general definition.
+A$A$A
+An escrow may refer to the arrangement where money, documents or any other securities are kept by parties to a transaction with an independent third party. Such money, documents or securities may also be known as escrow. The third party is required to release the escrow in accordance with the terms agreed between the two parties to the transaction.
+
+An escrow mechanism is generally used as a security for due performance of the obligations of one party.
+A$A$A
+In general, escrow is a financial arrangement which can manage and regulates payments between two parties to make a transaction. The core functionality of escrow method is, to focused on the secure transactions. It helps the transactions to be more secured by keeping the payment on a third party escrow account and the amount will be released only after validating the given details.
+
+And if the details not meets the agreement provided by the two parties then the amount will not be released from the escrow account. Escrow method encourages the dispute of payment if the buyer is not satisfied with the transaction. An escrow account is useful for the transaction which involves larger amount.
+
+Do you want to get more info about Bitcoin & Trading Business Platform .. ? Millionaire Choice
+A$A$A
+I haven't read the other answers, but in law it means holding something, usually a sum of money, until it is to be handed over to an identified party on the fulfilment of a condition. If the condition does not occur then it is returned to the original owner.
+
+Say I buy your business for $1m. We might agree you get $700k now and $300k in a year's time if the business makes a certain profit. So that you can be assured I will pay up as agreed, the sale agreement could require that the $300k be held, in escrow, by a third party.
+
+Another example from my listed company days is that a company, as your employer,  could issue you shares which are held in escrow for a certain period. You can't sell them until the escrow expires.
+A$A$A
+An Escrow is a mutually acceptable third-party that a buyer and a seller choose to park funds for a transaction. The account in which these funds are parked is called an Escrow account.
+
+When a buyer is interested in a transaction, and the seller would like to take things forward but would need more than just a verbal interest to assume that the buyer is serious about it, the buyer will park a portion (or the entire amount) of the transaction value in an escrow account.
+
+This action protects both the buyer and the seller. If the buyer is unhappy with how things have progressed or if the product is not of an acceptable value, they can withdraw from the transaction and get their money back. Similarly, a seller is reassured that as long as he/she has a good enough product, the buyer won't back off because funds have already been released from their end.
+
+The escrow mediates between the buyer and seller if there are any problems.
+
+This is normally seen in real estate dealings but variations of the same appear in other transactions too (e.g. Paypal in eBay transactions).
+A$A$A
+An escrow is simply a trusted third party in between the buyer and seller that acts as custodian of valuables .
+
+Just to add to the answers, escrow is not always for money parked temporarily with a third party. Escrow can be for anything (it's a general term). There are software source code escrows where if the company files for bankruptcy the other can access and build on the product based on the escrow contract.
+A$A$A
+A common use of this term is to describe a separate account required by a mortgage lender from which the lender will pay real estate taxes and insurance premiums on the property during the term of the mortgage loan. In other words, a mortgage escrow account, or simply "escrow."
+A$A$A
+When you buy a house the title company verifies that the title is clean, without complications and the owner is actually the owner and that the property has no liens against it. You wouldn't want to buy a house from someone who didnt actually own the house or one that was encumbered with liens from a previous owner.
+
+The escrow company holds the title to the house until the contractual agreement between the parties is satisfied.
+E$E$E
+
+Q$Q$Q
+How do escrow accounts work for angel investment startups?
+A$A$A
+Yes, your lawyer can hold the funds in escrow. No, you don't need to use a third party (although you can). No, you can't simply hold the check.
+
+The reasoning behind the concept of escrow is to solve the "You go first. No, you go first!" problem.
+
+If two parties are working on a transaction that requires them each to do something (for example, paying money for the deed to a house), there's no problem if the transaction happens simultaneously in real time: both parties show up at the closing and sit opposite each other at the table, and then one party slides across the check, while at the same time the other party slides across the deed.
+
+But the minute the transaction doesn't take place simultaneously, the issue arises as to who goes first. If I slide the certified check across the table before you slide across the deed, then theoretically you could pick up the check, keep the deed and walk away. Likewise in reverse, if you give me the deed first.
+
+The way we solve this is to agree on a neutral third party we both trust. The two of us tell her what we're going to do, tell her that each of us will fulfill our end of the bargain to her, and tell her in writing that once she has in her hands both items, the two of us agree that she can then release the appropriate materials to each party.
+
+You can think of it like a prisoner exchange through the no-man's land of Glienecke Bridge during the Cold War:
+
+
+
+The key aspects of escrow are that (a) both parties trust the escrow agent, and (b) the agent has clear instructions agreed to by both parties ahead of time as to what specific conditions need to exist before the agent can release the documents or money.
+
+In this case, your investor is giving you the money even though you haven't raised the rest of the round...and you are telling other investors that you've already got a committed lead, even though you don't yet have the check. The solution is that he gives the check to your lawyer "in escrow", with the explicit agreement that as soon as the lawyer receives the the rest of the minimum necessary to close, he will automatically consummate the deal.
+A$A$A
+Congratulations on your startup and having a willing angel, most investors aren't this accommodating and will give you a "soft" promise of this sort without actually putting up the money.
+
+I'm 2/3 in agreement with David S. Rose here. A lawyer definitely can do this for you. It raises some ethical and risk management issues, which means it's going to cost some money, but we lawyers can handle that. Basically, even though you're the client(*) and the lawyer has a fiduciary duty of loyalty to you, they have also made a promise to your investor that they will not disburse the funds absent a completed investment, so if your investor disputes for any reason that you should be funded the lawyer will either return the money to them or hold it until you work things out. Most people understand this, and are willing to give earnest money to a law firm on that basis.
+
+A third party escrow service would be more efficient costwise, but it would be hard to find one that automatically releases your investment money when you hit an investment target. Some of us are working on solutions to that, but for now escrow services are mostly of the variety where both sides have to agree that the conditions have been met before making the exchange. If one side says yes and the other side says no, the service throws up its arms and tells the parties they have to settle (or at worst, litigate) the matter on their own and come back with the results. Depending on the arrangement the service will either hold the escrow funds and exchange property until both sides give release instructions, or return each to their respective parties and tell them to try again later. One difficulty is that while money can actually be held in escrow, ownership in a company can only be held in escrow as a legal fiction. Actually, money and stock are both legal fictions, but 100% of America buys into the idea of money as a paper or electronic record, whereas most people would not recognize company shares as something that can be proven by a certificate alone absent the consent of the company.
+
+I'm curious why David says you can't just deposit the check. I see no legal reason why not, as long as your investor trusts your assurance that you won't touch the money. Trust is the key issue and it may not work from a business standpoint. But from a legal perspective I don't see why you couldn't deposit the funds, which means it's just a zero interest loan from them to you with a promise that you won't spend it, until you both agree that the investment is done. You'd better honor that, because there would be a lot of temptation to spend that money.
+
+(*) This needs saying again, you are not a client of me or my firm, nothing here creates a lawyer / client relationship, this is a public forum where such matters cannot be discussed with any assurance of confidentiality, and everything I discuss is general commentary about the issue and not advice specific to you or legal advice.
+A$A$A
+For an escrow account you need a third party and ideally it is the bank that maintains the account. You need to set up a protocol of payments through an excrow agreement. I would not expect banks to charge heavily for this service sicne they get flaot funds
+E$E$E
+
+Q$Q$Q
+What is the purpose of an escrow account?
+A$A$A
+When real estate is being sold or bought, huge amounts of money are involved. The person who is selling the property should be sure that the probable buyer really has the financial capacity to buy the property. Escrow account and escrow agreement ensures the seller that the buyer has the necessary funds kept separately and they will be available as and when as required.
+
+Escrow account is an account where the money involved is kept with a third person or organisation by the buyer.
+
+Escrow agreement is an agreement between two persons or organizations in which money or property is kept by a third person or organization until a particular condition is met.
+
+Escrow is like a reservoir tank  — a safe-house for assets (e.g., money, securities, and funds) before they are exchanged in a transaction between two parties. An Escrow agent, usually a third-party trust/fiduciary company, holds the asset until all the appropriate instructions and predetermined contractual obligations have been fulfilled.
+
+An Escrow account ensures that money from buyer is always kept separately from the operational accounts of the buyer.
+A$A$A
+Escrow is a legal concept in which a financial instrument or an asset is held by a third party on behalf of two other parties that are in the process of completing a transaction. The funds or assets are held by the escrow agent until it receives the appropriate instructions or until predetermined contractual obligations have been fulfilled. Money, securities, funds, and other assets can all be held in escrow.
+
+When parties are in the process of completing a transaction, there may come a time when it is only interesting to move forward for one party if it knows with absolute certainty that the other party will be able to fulfill its obligations. This is where the use of escrow comes into play.
+
+For example, a company selling goods internationally wants to be certain that it will get paid when the goods reach their destination. Conversely, the buyer wants to pay for the goods only if they arrive in good condition. The buyer can place the funds in escrow with an agent and give irrevocable instructions to disburse them to the seller once the goods arrive. This way, both parties are safe, and the transaction can proceed.
+
+Escrow transactions are also frequent in the real estate market and the stock market.
+
+Some people try to avoid Escrow because the money usually goes through your bank account but now there are options for Global money transfers that are way cheaper and faster. If you want to get more information on that I would suggest reading this article. It will help you understand Escrow and Global money transfers even more.
+A$A$A
+I’ll give you a description of an escrow account outside the real estate market.
+
+An escrow account is a trust account bearing no interest used to hold payment. This protects against all fraud, chargebacks and wrongly described goods.
+
+As a seller, your funds are held in the Escrow Account until either the buyer has received and approved the merchandise or the buyer rejects the merchandise and returns is successfully.
+
+As a buyer, your funds will be held in the Escrow Account until you have received and approved the merchandise. If you do not receive the merchandise or it is not as described, you will be able to reject and return the merchandise and have your funds returned to your account.
+
+To learn more, please visit How Does An Escrow Account Work?
+
+Thanks!
+A$A$A
+Depends if you are talking about software source code, real estate or money. Essentially it's a tool to engender trust between two or more parties and reduce risk.
+E$E$E
+
+Q$Q$Q
+How can I install an escrow account for my start up?
+A$A$A
+It's worth noting that processing escrow payments is a regulated business, so it's important to work with a licensed provider.  That said, there are only 4 licensed online escrow providers in California (California Department of Business Oversight) so your choice is rather limited.
+
+One option you should consider is Armor Paymentshttp://www.armorpayments.com (full disclosure: I work there).  Armor offers a licensed Escrow as a Service (EaaS) solution, which enables marketplaces to easily integrate secure payments via API.  The Armor EaaS approach allows you to own the user experience, while leaving to Armor the regulatory burden, money movement complexities and dispute resolution management.
+A$A$A
+Balanced offers an escrow service. I haven't used it myself, but I have heard good things.
+
+https://docs.balancedpayments.co...
+E$E$E
+
+Q$Q$Q
+In which bank I can open an escrow account?
+A$A$A
+Before you open that account in a bank I would suggest that you check some escrow services online and try to avoid banks as much as possible. The bank fees are a real headache and they can take a large percentage of your profit.
+
+You can save money by transferring money in and out of Escrow using global payment services. It will get you much better exchange rates. If you really want to get informed on this topic you should check out this article. It will help you understand how Escrow works and how you can get most of your transactions by avoiding the banks.
+A$A$A
+Escrow account is not a normal savings or current account. Its a transactional third party account agreed upon certain terms by the seller and buyer such as in real state. Suppose you give a premises on rent for office space to a bank. You have taken a loan from a bank to build the premises. So you make an escrow agreement whereby the bank deposit the rent amount in your loan account on monthly or yearly basis as per agreed terms and conditions.
+
+Nothing public or private any scheduled commercial bank can do it as per agreed terms and conditions of buyer and seller.
+A$A$A
+I guess there are many banks which would allow you to open an Escrow account. Some of them are ICICI, HDFC, IndusInd, HSBC etc. and some public sector banks too. I would suggest you to walk into a main branch of a bank and discuss with them.
+E$E$E
+
+Q$Q$Q
+How is a payout from an escrow account taxed?
+A$A$A
+Since you didn't declare the entire gain in the year of the sale, this would be treated under the installment sale rules in the US. Assuming that you are now a US citizen or resident alien, a portion of the escrow payment will be taxed as ordinary income under the imputed interest rules, and the remainder will be taxed as long-term capital gain, with the amounts depending on the details of the sale agreement.
+
+This is a pretty complex transaction, and I would not recommend that you try to figure this without the advice of a competent tax advisor who is an expert on business disposition issues.
+E$E$E
+
+Q$Q$Q
+Who do I contact to set up an escrow account? My attorney or my bank?
+A$A$A
+In my experience most law firms are pretty comfortable using their trust accounts for short term escrow needs.  For example, a financing where investors want to see other investors in the round fund before releasing their dough or where off shore funds have long lead times and funds may be held for a day or two while closing details are finalized.  By default though, client trust accounts (at least in California) are non interest bearing - my recollection is that the interest goes to the State Bar fund for pro bono initiatives.  So that's usually not a good choice for anything other than short term escrows.  Also, most firms don't have the resources, the expertise or the desire (from a risk management perspective) to get into the escrow business for things like indemnity holdbacks and other more complicated escrows.
+A$A$A
+Law firms have trust account for their clients. To set aside funds into the law offices is most common. However, you can open a bank account under the agreement among your partners or investors about the release. Also, some escrow companies provide Hold Escrow services.
+E$E$E
+
+Q$Q$Q
+How do I open an escrow account in Singapore?
+A$A$A
+Are you a lawyer?
+
+In most of the scenarios that an “escrow” account is required, it’s because the buyer and seller want a little more certainty in the transaction. So when all the terms have been agreed, the money to be paid to the seller is put in such an account (to show that it is there and real). Once the buyer certifies that the required conditions have been met, they send a release and the funds go to the seller.
+
+The reason I went into that little digression was to make sure we are talking about the same animal.
+
+In Singapore, my experience is that most banks DON”T want to open an escrow account with an individual. There are all sorts of problems with releasing or not releasing the monies.
+
+The preferred approach is to go talk to a lawyer to hold the money in HIS escrow account. That way, he is responsible for the decision.
+
+If it’s important, you could negotiate that any interest accrued whilst the funds are in escrow are paid to you.
+
+A “workaround” is that BOTH you and your counter party JOINTLY start up a bank account, with instructions to the bank that ALL transactions like fund movement require BOTH signatures for ANY sum of money. It’s fundamentally still “escrow”,just different…
+A$A$A
+If the escrow account is financial, then contact a bank trust department. If the escrow account is for software and intellectual property contact Iron Mountain at 800. 962.0652. They can help you with escrow in Singapore. Good luck.
+A$A$A
+Being very upfront I set up ShieldPay which is a digital escrow facility that enables consumers or businesses make or receive payments is total safety. The disposable escrow facility takes less than 10sec to create and enables you to pay or be paid by people or small companies you don’t know. Hope we can help.
+E$E$E
+
